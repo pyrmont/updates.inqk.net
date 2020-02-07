@@ -1,3 +1,4 @@
+.jekyll-cache
 .jekyll-metadata
 *.swp
 Gemfile.lock
