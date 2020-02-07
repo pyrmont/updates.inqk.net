@@ -1,0 +1,8 @@
+.jekyll-metadata
+*.swp
+Gemfile.lock
+/tmp/
+/src/.bundle
+/src/.sass-cache/
+/src/_site/
+/src/vendor/
