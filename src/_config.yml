@@ -1,0 +1,57 @@
+title: "Michael Camilleri"
+tagline: "I forget my keys occasionally."
+description: "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes."
+
+timezone: "JST"
+
+baseurl: ""
+url: "https://updates.inqk.net"
+permalink: "/post/:year:month:day:hour:minute:second.html"
+relative_permalinks: false
+
+paginate: 20
+paginate_path: "/behind/by-:num-pages/"
+
+markdown: "kramdown"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+plugins: ["jekyll-paginate"]
+
+author: "Michael Camilleri"
+name: "Michael Camilleri"
+email: "mike@inqk.net"
+gravatar_hash: "e63a1e4714208ea186b69a0b9f4e8c23"
+avatar: "https://micro.blog/pyrmont/avatar.jpg"
+full_name: "Michael Camilleri"
+bio: "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes."
+microblog_username: "pyrmont"
+twitter_username: "pyrmont"
+
+podcast: false
+
+itunes_description: "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes."
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Michael Camilleri"
+itunes_email: "mike@inqk.net"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      title: ""
+      layout: post
