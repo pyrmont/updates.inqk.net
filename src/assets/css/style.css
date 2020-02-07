@@ -36,7 +36,7 @@ html, body {
 }
 
 body {
-  font: 17px "system-ui", -apple-system, Helvetica, Arial, sans-serif;
+  font: 17px "Avenir Next", Avenir, "system-ui", -apple-system, Helvetica, Arial, sans-serif;
   color: #666;
   font-style: normal;
   -webkit-text-size-adjust: 100%;
