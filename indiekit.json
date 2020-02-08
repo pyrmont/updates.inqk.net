@@ -5,9 +5,18 @@
 
   "post-types": {
     "note": {
+      "name": "Status",
       "icon": "",
       "post": {
         "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
+      }
+    },
+    "article": {
+      "name": "Blog Post",
+      "icon": "",
+      "post": {
+        "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ title }}.md",
         "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
       }
     }
