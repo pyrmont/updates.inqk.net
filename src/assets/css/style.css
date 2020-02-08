@@ -60,7 +60,7 @@ header a, header a:hover {
 
 header h1, header h1 > a {
   margin: 0;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 header h4 {
@@ -159,7 +159,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 30px;
 }
 
 h2 {
@@ -185,10 +185,6 @@ code.highlighter-rouge {
 }
 
 /* Post */
-
-.post-body ul {
-  margin-left: 20px;
-}
 
 .post-body li {
   list-style-type: square !important;
@@ -303,7 +299,7 @@ img {
 }
 
 ul   {
-  margin: 0;
+  margin: 0 0 0 20px;
   padding:0;
 }
 
@@ -313,6 +309,10 @@ li  {
 }
 
 /* Post List */
+
+ul#post-list {
+  margin: 0;
+}
 
 #post-list li {
   list-style-type: none;
