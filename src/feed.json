@@ -7,8 +7,7 @@ layout: null
     "home_page_url": "{{ "/" | absolute_url }}",
     "feed_url": "{{ "/feed.json" | absolute_url }}",
     "description": {{ site.description | jsonify }},
-    "icon": "{{ "/apple-touch-icon.png" | absolute_url }}",
-    "favicon": "{{ "/assets/images/fav32.png" | absolute_url }}",
+    "icon": "https://micro.blog/pyrmont/avatar.jpg",
     "expired": false,
     {% if site.author %}
     "author": {% if site.author.name %} {
@@ -17,7 +16,7 @@ layout: null
         "avatar": {% if site.author.avatar %}"{{ site.author.avatar }}"{% else %}null{% endif %}
     },{% else %}"{{ site.author }}",{% endif %}
     {% endif %}
-"items": [
+    "items": [
     {% for post in site.posts limit:36 %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
