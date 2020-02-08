@@ -1,14 +1,10 @@
 {
-  "categories": [
-    "weeknotes"
-  ],
-
   "post-types": {
     "note": {
       "post": {
-        "path": "src/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
-      },
+      }
     },
     "media": {
        "path": "src/uploads/{{ published | date('yyyy') }}/{{ filename }}"
@@ -23,4 +19,3 @@
     "name": "Michael Camilleri on Micro.blog"
   }]
 }
-
