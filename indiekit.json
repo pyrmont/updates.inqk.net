@@ -1,5 +1,8 @@
 {
-  "categories": ["weeknotes"],
+  "categories": {
+    "url": "https://updates.inqk.net/categories.json"
+  },
+
   "post-types": {
     "note": {
       "post": {
