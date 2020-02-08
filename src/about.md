@@ -8,4 +8,4 @@ question, I answer that a microblog is kind of like a normal blog only smaller.
 
 I also have [a home page][hp].
 
-[hp]: https;//inqk.net
+[hp]: https://inqk.net
