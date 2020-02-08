@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "weeknotes"
+  ],
+
+  "post-types": {
+    "note": {
+      "post": {
+        "path": "src/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
+        "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
+      },
+    },
+    "media": {
+       "path": "src/uploads/{{ published | date('yyyy') }}/{{ filename }}"
+    }
+  },
+
+  "syndicate-to": [{
+    "uid": "https://twitter.com/pyrmont/",
+    "name": "Michael Camilleri on Twitter"
+  }, {
+    "uid": "https://micro.blog/pyrmont",
+    "name": "Michael Camilleri on Micro.blog"
+  }]
+}
+
