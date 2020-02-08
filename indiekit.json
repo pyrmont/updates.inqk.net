@@ -5,13 +5,11 @@
 
   "post-types": {
     "note": {
+      "icon": "",
       "post": {
         "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
         "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
       }
-    },
-    "media": {
-       "path": "src/uploads/{{ published | date('yyyy') }}/{{ filename }}"
     }
   },
 
