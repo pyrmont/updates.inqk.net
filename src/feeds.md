@@ -3,7 +3,7 @@ title: "Feeds"
 profile: true
 ---
 
-Given that RSS feeds are kind of [a thing][post] for me so it's not much of a
+Given that RSS feeds are kind of [a thing][post] for me, it's not much of a
 surprise to discover that this blog is replete with feeds.
 
 [post]: https://articles.inqk.net/2020/02/06/rss-and-newsletters.html
