@@ -25,13 +25,14 @@ sass:
 
 plugins: ["jekyll-paginate"]
 
-author: "Michael Camilleri"
-name: "Michael Camilleri"
-email: "mike@inqk.net"
-gravatar_hash: "e63a1e4714208ea186b69a0b9f4e8c23"
-avatar: "https://micro.blog/pyrmont/avatar.jpg"
-full_name: "Michael Camilleri"
+author:
+  name: "Michael Camilleri"
+  url: "https://inqk.net/"
+  email: "mike@inqk.net"
+  avatar: "https://micro.blog/pyrmont/avatar.jpg"
+
 bio: "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes."
+
 microblog_username: "pyrmont"
 twitter_username: "pyrmont"
 github_username: "pyrmont"
