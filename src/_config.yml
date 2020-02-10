@@ -6,7 +6,7 @@ timezone: "Asia/Tokyo"
 
 baseurl: ""
 url: "https://updates.inqk.net"
-permalink: "/post/:year:month:day:hour:minute:second.html"
+permalink: "/post/:epoch.html"
 relative_permalinks: false
 
 paginate: 20
