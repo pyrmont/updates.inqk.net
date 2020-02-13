@@ -52,8 +52,8 @@ module Jekyll
       self.data["posts"] = data[:posts]
       self.data["begin"] = data[:posts].first.date
       self.data["end"] = data[:posts].last.date
-      self.data["prev_tl"] = data[:prev]
-      self.data["next_tl"] = data[:next]
+      self.data["prev_tl"] = "#{data[:prev]}.html"
+      self.data["next_tl"] = "#{data[:next]}.html"
     end
   end
 
