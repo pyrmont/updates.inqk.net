@@ -206,6 +206,20 @@ em, i {
   text-align:center;
 }
 
+.post header span.categories {
+  color: #bbb;
+  font-size: 13px;
+  font-style: italic;
+  padding-top: 5px;
+}
+
+.post header span.categories a {
+  color: #bbb;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 blockquote {
   padding-left: 15px;
   border-left: 2px solid #eee;
@@ -332,6 +346,55 @@ ul#post-list {
   font-weight: 500;
 }
 
+/* Categories */
+
+.category {
+  margin: 85px 0 0 0;
+}
+
+.category header h1 {
+  text-align: center;
+}
+
+.category header ul {
+  margin: 10px 0 50px 0;
+  text-align: center;
+}
+
+.category header ul li {
+  border: 2px solid var(--accent-light);
+  border-radius: 20px;
+  display: inline-block;
+  list-style: none;
+  padding: 3px 10px;
+}
+
+.category header ul li.current {
+  border: 2px solid #eee;
+}
+
+.category ul.posts {
+  margin-left: 0;
+}
+
+.category ul.posts li {
+  list-style: none;
+}
+
+.category ul.posts li a {
+  box-shadow: none;
+}
+
+.category ul.posts li time {
+  display: inline-block;
+  width: 8em;
+}
+
+.category ul.posts li h3 {
+  background: var(--accent-light);
+  display: inline-block;
+}
+
 /* Footer */
 
 footer #wrapper {
@@ -392,8 +455,7 @@ footer #wrapper {
 }
 
 h2.headline {
-  margin-top: 0;
-  margin-bottom: 50px;
+  margin: 0 0 50px 0;
 }
 
 .post {
@@ -480,7 +542,7 @@ h2.headline {
     margin-top: 50px;
   }
 
-  .post {
+  .post, .category {
     margin: 50px 0 0 0;
   }
 

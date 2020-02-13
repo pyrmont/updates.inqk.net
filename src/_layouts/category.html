@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article class="category">
+  <header>
+    <h1 class="">{{ page.category }}</h1>
+    <ul>
+      {% for year in page.years %}
+      <li class="{% if year == page.year %}current{% endif %}">
+        <a href="{{ year }}.html">{{ year }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </header>
+  <ul class="posts">
+    {% for post in page.posts %}
+    <li>
+      <a href="{{ post.url }}">
+        <time datetime="{{ post.date }}" class="dates dt-published">{{ post.date | date: "%b %-d, %Y"}}</time>
+        <h3>{{ post.title }}</h3>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
