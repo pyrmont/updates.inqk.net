@@ -28,7 +28,7 @@ module Jekyll
                  prev: timeline[:prev]&.date&.strftime("%s"),
                  next: timeline[:next]&.date&.strftime("%s"),
                  start: timeline[:posts].first.date.strftime("%s") }
-        site.pages << TimelinePage.new(site, site.source, "timelines", data)
+        site.pages << TimelinePage.new(site, site.source, "timeline", data)
       end
     end
   end
@@ -59,11 +59,10 @@ module Jekyll
 
   class TimelineTag < Liquid::Tag
     def render(context)
-      # list = Dir.glob(File.join(context.registers[:site].dest, "timelines", "*.html"))
       site = context.registers[:site]
       cycles = site.posts.docs.size / site.config["max_posts"]
       time = site.posts.docs[cycles * site.config["max_posts"]].date.strftime("%s")
-      "/timelines/#{time}.html"
+      "/timeline/#{time}.html"
     end
   end
 end
