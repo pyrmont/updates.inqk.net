@@ -9,8 +9,7 @@ url: "https://updates.inqk.net"
 permalink: "/post/:epoch.html"
 relative_permalinks: false
 
-paginate: 20
-paginate_path: "/behind/by-:num-pages/"
+max_posts: 20
 
 markdown: "kramdown"
 

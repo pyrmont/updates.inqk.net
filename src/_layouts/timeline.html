@@ -1,5 +1,18 @@
+---
+layout: default
+---
+<article class="timeline">
+  <header>
+    <h1 class="">All Posts</h1>
+    <h2 class="headline">
+      <span class="dates">
+        {{ page.begin | date: "%b %-d, %Y" }} &ndash; {{ page.end | date: "%b %-d, %Y" }}
+      </span>
+    </h2>
+  </header>
+</article>
 <ul id="post-list">
-  {% for post in paginator.posts %}
+  {% for post in page.posts %}
   <li>
     <article>
       {% if post.title == "" %}
@@ -10,9 +23,6 @@
       <header>
         <h2><a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h2>
       </header>
-      <!-- <section class="post-body"> -->
-      <!--   {{ post.content }} -->
-      <!-- </section> -->
       {% endif %}
       <a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}" class="u-url">
         <aside class="dates">
@@ -24,7 +34,19 @@
   <span class="separator"><span class="divider"></span></span>
   {% endfor %}
 </ul>
-
-{% if paginator.previous_page or paginator.next_page %}
-  {% include pagination.html %}
+<nav id="post-nav">
+  {% if page.next_tl %}
+  <span class="prev">
+    <a href="{{ page.next_tl }}">
+      <span class="arrow">←</span> Newer Posts
+    </a>
+  </span>
+  {% endif %}
+{% if page.prev_tl %}
+  <span class="next">
+    <a href="{{ page.prev_tl }}">
+      Older Posts <span class="arrow">→</span>
+    </a>
+  </span>
 {% endif %}
+</nav>

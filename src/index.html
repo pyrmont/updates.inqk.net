@@ -1,5 +1,34 @@
 ---
 profile: true
 ---
+<ul id="post-list">
+  {% for post in site.posts limit: site.max_posts %}
+  <li>
+    <article>
+      {% if post.title == "" %}
+      <section class="post-body">
+        {{ post.content }}
+      </section>
+      {% else %}
+      <header>
+        <h2><a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h2>
+      </header>
+      {% endif %}
+      <a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}" class="u-url">
+        <aside class="dates">
+          <time datetime="{{ post.date }}" class="dt-published">→ {{ post.date | date:"%-I:%M %p, %b %-d" }}</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  {% endfor %}
+</ul>
 
-{% include post-list.html %}
+<nav id="post-nav">
+  <span class="next">
+    <a href="{% timeline_path %}">
+      All Posts <span class="arrow">→</span>
+    </a>
+  </span>
+</nav>
