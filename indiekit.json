@@ -9,7 +9,7 @@
       "icon": "",
       "post": {
         "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ slug }}.md",
-        "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
+        "url": ""
       }
     },
     "article": {
@@ -17,7 +17,7 @@
       "icon": "",
       "post": {
         "path": "src/_posts/{{ published | date('yyyy-MM-dd') }}-{{ title }}.md",
-        "url": "post/{{ published | date('yyyyMMddHHmmss') }}.html"
+        "url": ""
       }
     }
   },
