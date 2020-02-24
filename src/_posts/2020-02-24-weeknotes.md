@@ -16,7 +16,7 @@ category: ["weeknotes"]
 
 - I can't actually remember what prompted this but I started wondering what the correct phrasing was for the 'tangled web we weave' caution about deception. It turns out it's from Walter Scott's 19th Century poem, [_Marmion_](https://en.wikipedia.org/wiki/Marmion_(poem)). The quote itself is:
 
-  > Oh, what a tangled web we weave
+  > Oh, what a tangled web we weave  
   > When first we practise to deceive!
 
   I've always said 'Oh, what tangled webs we weave / when first we practise to deceive'. With all due respect to Scott, mine is clearly superior.
