@@ -60,7 +60,7 @@ module Jekyll
   class TimelineTag < Liquid::Tag
     def render(context)
       site = context.registers[:site]
-      cycles = site.posts.docs.size / site.config["max_posts"]
+      cycles = (site.posts.docs.size - 1) / site.config["max_posts"]
       time = site.posts.docs[cycles * site.config["max_posts"]].date.strftime("%s")
       "/timeline/#{time}.html"
     end
