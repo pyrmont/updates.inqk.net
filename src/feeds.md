@@ -22,7 +22,7 @@ surprise to discover that this blog is replete with feeds.
 [rss-ap]: https://updates.inqk.net/feed.xml
 [json-ap]: https://updates.inqk.net/feed.json
 
-[rss-wn]: https://updates.inqk.net/feeds/weeeknotes.xml
+[rss-wn]: https://updates.inqk.net/feeds/weeknotes.xml
 [json-wn]: https://updates.inqk.net/feeds/weeknotes.json
 
 OK, perhaps 'replete' was overstating it a bit.
