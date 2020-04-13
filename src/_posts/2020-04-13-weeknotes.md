@@ -14,4 +14,4 @@ categories: ["weeknotes"]
 
 - We didn't end up doing anything for Easter. If things hadn't been what they were, I think I would have tried to make a bigger deal out of it but as it was, we just let it slip by. There's always next year. Or so one hopes.
 
-- Not much to report content-wise. I'm still loving _Westworld_ but my favourite thing I watched this week was Alt Shift X's videos on the game [Cookie Clicker](https://youtu.be/2Dx76lD8Scc).
+- Not much to report content-wise. I'm still loving _Westworld_ but my favourite thing I watched this week was Alt Shift X's video on the game [Cookie Clicker](https://youtu.be/2Dx76lD8Scc).
