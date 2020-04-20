@@ -16,4 +16,4 @@ categories: ["weeknotes"]
 
 - Eri's latest show has been the Japanese drama, _Dele_. I haven't watched every episode but I've been impressed by what I've seen so far. Enough so that I want to go back and watch it over from the beginning (there are only 8 episodes). It's on [Japanese Netflix](https://www.netflix.com/title/81154006) but not sure if it's available in other markets.
 
-- A convoluted series of events led to me listening to Jurassic 5's _Freedom_ again. I love the entire album but if I had to choose a favourite song it would have to be 'A Day at the Races' ([Apple Music](https://music.apple.com/us/album/day-at-races-feat-percy-p-big-daddy-kane-feat-percy/1444000167?i=111977)).
+- A convoluted series of events led to me listening to Jurassic 5's _Freedom_ again. I love the entire album but if I had to choose a favourite song it would have to be 'A Day at the Races' ([Apple Music](https://music.apple.com/us/album/day-at-races-feat-percy-p-big-daddy-kane-feat-percy/1444000167?i=1444000199)).
