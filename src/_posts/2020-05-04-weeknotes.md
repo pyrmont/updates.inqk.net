@@ -4,9 +4,9 @@ title: "Weeknotes #16"
 categories: ["weeknotes"]
 ---
 
-- This is a bit delayed because [Golden Week](https://en.wikipedia.org/wiki/Golden_Week_(Japan)) has started in Japan and I've spent the morning wrangling with Janet. I wrote about it a little last week and spent more time exploring this week.
+- This is a bit delayed because [Golden Week](https://en.wikipedia.org/wiki/Golden_Week_(Japan)) has started in Japan and I've spent the morning wrangling with Janet. I wrote about it a little last week and spent more time exploring it this week.
 
-- On Sunday I started my first public Janet repository: [bencodobi](https://github.com/pyrmont/bencodobi). It's intended to be an encoding and decoding library for bencode. This is the format used by the nREPL protocol and a means for programming editors to talk to various Lisp REPLs. I'd really like there to be support for doing this with Janet's REPL and making a bencode library felt like the simplest step towards that goal.
+- Part of that exploration is now up in my first public Janet repository: [bencodobi](https://github.com/pyrmont/bencodobi). It's intended to be an encoding and decoding library for bencode. This is the format used by the nREPL protocol and a means for programming editors to talk to various Lisp REPLs. I'd really like there to be support for doing this with Janet's REPL and making a bencode library felt like the simplest step towards that goal.
 
 - We remain in self-isolation and, as a result, it's been difficult to remember the week's happenings. Wednesday being a public holiday didn't help in that regard. I went out once or twice with Emma and John to nearby parks for a little recreation. The rest of the time was spent inside.
 
