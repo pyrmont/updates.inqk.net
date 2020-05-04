@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - We remain in self-isolation and, as a result, it's been difficult to remember the week's happenings. Wednesday being a public holiday didn't help in that regard. I went out once or twice with Emma and John to nearby parks for a little recreation. The rest of the time was spent inside.
 
-- The number of detected cases in Japan began to dip this week and while that should be good news, I fear it will result in people quickly disregarding social distancing measures. This isn't helped by the Golden Week break which means everyone is at home with oodles of time to kill. They say that warmer weather might be helpful at preventing infections but I'm worried it'll be the opposite: more encouraged for people to go out and mix.
+- The number of detected cases in Japan began to dip this week and while that should be good news, I fear it will result in people quickly disregarding social distancing measures. This isn't helped by the Golden Week break which means everyone is at home with oodles of time to kill. They say that warmer weather might be helpful at preventing infections but I'm worried it'll be the opposite: more encouragement for people to go out and mix.
 
 - Spurred on by [a recent episode](TK) of The Rewatchables podcast, I watched both the 1990 version of _Total Recall_ and the 2012 remake. I mentioned this in my short Letterboxd review but the remake is kind of incredible in the way its every departure from the original makes the finished film worse. The 1990 version isn't perfect by any stretch of the imagination but everything they do differently in 2012 was worse.
 
