@@ -18,7 +18,7 @@ categories: ["weeknotes"]
 
 - Speaking of ten-episode series (what a segue), I've enjoyed the first few episodes of the basketball documentary, the _Last Dance_, about Michael Jordan and the Chicago Bulls. It's got its flaws but in the dearth of basketball I find myself in it's been a welcome relief.
 
-- I thought about spending some time learning the basics of the piano now we have the keyboard in the house. Other than finding the most basic of tutorials on 'Twinkle, Twinkle, Little Star', I haven't done anything. The story of my musical education in a microcosm. I 
+- I thought about spending some time learning the basics of the piano now we have the keyboard in the house. Other than finding the most basic of tutorials on 'Twinkle, Twinkle, Little Star', I haven't done anything. The story of my musical education in a microcosm.
 
 - I've been really tempted to buy a Nintendo Switch. (Un)fortunately, it's sold out in Japan and the models you can buy online have markups of 60% or more. I've been diligently checking the Amazon listing but to no avail. I'd assume that a combination of (1) quarantine-induced boredom; and (2) disruptions in the Asian supply chain has ruined the ability of supply to meet demand.
 
