@@ -2,9 +2,10 @@
 date: 2020-05-18 10:25:00 +0900
 title: "Weeknotes #18"
 categories: ["weeknotes"]
+render_with_liquid: false
 ---
 
-- So this week I made yet another Janet library. This one is a partial implementation of the [Mustache](http://mustache.github.io) templating engine. Mustache is originally a Ruby library that allows you to take strings containing 'tags' and replace them with values. A tag is an identifier wrapped in `{% raw  %}{{{% endraw %}` and `{% raw  %}}}{% endraw %}`. So `"Hello, {% raw  %}{{{% endraw %}name{% raw  %}}}{% endraw %}"` might become `"Hello, Michael"`. There are plenty of alternatives; the appeal of Mustache is the simplicity of the syntax. There are no real logical control statements, like `if` statements or `while` loops. There are just tags.
+- So this week I made yet another Janet library. This one is a partial implementation of the [Mustache](http://mustache.github.io) templating engine. Mustache is originally a Ruby library that allows you to take strings containing 'tags' and replace them with values. A tag is an identifier wrapped in `{{` and `}}`. So `"Hello, {{name}}"` might become `"Hello, Michael"`. There are plenty of alternatives; the appeal of Mustache is the simplicity of the syntax. There are no real logical control statements, like `if` statements or `while` loops. There are just tags.
 
 - Oh right, the library itself. So it's called [Musty](https://github.com/pyrmont/musty). I primarily made it so that I could clean up the strings I was using in Documentarian to generate the Markdown page. Here's [the before](https://github.com/pyrmont/documentarian/blob/b0b35d43bb10201ecac6b92703162644f2b31e85/src/documentarian.janet#L142-L166) and [the after](https://github.com/pyrmont/documentarian/blob/3350674dc5edb9baaa97cd55c8651e01b1d8d630/src/documentarian.janet#L20-L44). I think it's a massive improvement.
 
