@@ -4,7 +4,7 @@ title: "Weeknotes #19"
 categories: ["weeknotes"]
 ---
 
-- I realised there are two types of people in this world: stair stompers and stair ninjas. Eri is a stair stomper. I'm not sure she event realises what she's doing. I, on the other hand, try to make as little noise as possible when ascending and descending stairs. This obviously makes me a better person.
+- I realised there are two types of people in this world: stair stompers and stair ninjas. Eri is a stair stomper. I'm not sure she even realises what she's doing. I, on the other hand, try to make as little noise as possible when ascending and descending stairs. This obviously makes me a better person.
 
 - Japan seems to have got COVID-19 under control which is somehow both reassuring and unnerving at the same time. It's reassuring for obvious reasons but a little unnerving given that they did it without the strict controls to which other countries have resorted. I don't think there's fiddling of the numbers—just another instance of things that we don't really understand about this disease.
 
@@ -20,7 +20,7 @@ categories: ["weeknotes"]
 
 - The 10-part Michael Jordan documentary _The Last Dance_ ended. I was disappointed that we never got to see much of the in-game footage (which for some reason I thought was going to happen) but it was still an enjoyable watch and a great salve in these basketball-deprived times.
 
-- A couple of weeks ago, Rob shared these two tweets ([1](https://twitter.com/netspooky/status/1252435215076610050), [2](https://twitter.com/netspooky/status/1252435211813412865)). In them, Twitter user @netspooky asks his or her followers how they handle too much content. I misremembered the tone as being much more declaratory. Namely, that in an age of abundance you will never get anything done unless you admit you cannot consume everything and be ruthless in where you spend your time. To that end, I started culling things from my Safari Reading List.
+- A couple of weeks ago, Rob shared these [two](https://twitter.com/netspooky/status/1252435215076610050) [tweets](https://twitter.com/netspooky/status/1252435211813412865). In them, Twitter user @netspooky asks his or her followers how they handle all the 'interesting' things that are directed at them everyday. I misremembered the tone as being much more declaratory. Namely, that in an age of abundance you will never get anything done unless you admit you cannot consume everything and be ruthless in where you spend your time. To that end, I started culling things from my Safari Reading List.
 
 - I did also read through some of the articles in that backlog, the best of which was [this untitled post](https://apenwarr.ca/log/?m=201909) by Avery Pennarun from last year about corporate executives and what they (should) do. It's mostly a summary of Andy Grove's _High Output Management_ (I mean this in a good way).
 
