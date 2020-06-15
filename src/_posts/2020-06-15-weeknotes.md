@@ -1,6 +1,6 @@
 ---
 date: 2020-06-15 10:47:00 +0900
-title: "Weeknotes #21"
+title: "Weeknotes #22"
 categories: ["weeknotes"]
 ---
 
