@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - I'm not sure if that word salad made any sense but that's precisely why I got excited. I've always wanted a name for this rhetorical strategy and thought that perhaps 'telic' was it. Alas, after doing a bit of [further research](http://www.philnel.com/2014/11/19/midlifecrisis/), I don't think that's the case. The search continues.
 
-- I took Emma and John to the park on Sunday for the first time in... I honestly don't remember when we last went. In part that's been because the rainy season has been in full effect. Fortunately (unfortunately?), most of the rain appears to have come to an end. I should be taking the kids each day so they're getting some sort exercise and yet leaving the house has become such a chore that it's very tempting to just stay inside.
+- I took Emma and John to the park on Sunday for the first time in... I honestly don't remember when we last went. In part that's been because the rainy season has been in full effect. Fortunately (unfortunately?), most of the rain appears to have come to an end. I should be taking the kids each day so they're getting some sort of exercise and yet leaving the house has become such a chore that it's very tempting to just stay inside.
 
 - Speaking of chores, I'm finding I no longer have the same interest in movies that I once did. I've long thought of myself as a cinephile but I'm not sure that's the case any more. After both sat half-watched for months, I finally finished _Westworld_ (the movie) and _Castle of Cagliostro_ over the weekend. I thought maybe I was in a groove and immediately started _Drive_ but gave up after 10 minutes.
 
