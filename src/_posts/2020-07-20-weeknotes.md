@@ -16,6 +16,6 @@ categories: ["weeknotes"]
 
 - Speaking of chores, I'm finding I no longer have the same interest in movies that I once did. I've long thought of myself as a cinephile but I'm not sure that's the case any more. After both sat half-watched for months, I finally finished _Westworld_ (the movie) and _Castle of Cagliostro_ over the weekend. I thought maybe I was in a groove and immediately started _Drive_ but gave up after 10 minutes.
 
-- I have no such difficulty powering through _Law & Order_. I watched the last ten or so episode of season 8 in quick succession over the week. I was sad to see Carey Lowell leave the show but I do have fond memories of Angie Harmon's Abbie Carmichael so it was nice to see her again.
+- I have no such difficulty powering through _Law & Order_. I watched the last ten or so episodes of season 8 throughout the week. I was sad to see Carey Lowell leave the show but I do have fond memories of Angie Harmon's Abbie Carmichael so it was nice to see her again.
 
 - I saw in Apple Music that Brandon had been listening to Yo-Yo Ma's _Six Evolutions - Bach: Cello Suites_ ([Apple Music](https://music.apple.com/us/album/six-evolutions-bach-cello-suites/1398580507)). Two thumbs up from me.
