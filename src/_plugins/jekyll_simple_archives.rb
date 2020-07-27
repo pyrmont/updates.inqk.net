@@ -18,7 +18,7 @@ module Jekyll
       @categories.each do |category,years|
         years.each do |year,posts|
           data = { category: category, name: category.capitalize,
-                   years: years.keys, year: year, posts: posts }
+                   years: years.keys, year: year, posts: posts.reverse }
           site.pages << ArchivePage.new(site, site.source, category, data)
         end
       end
