@@ -1,0 +1,19 @@
+---
+date: 2020-07-27 12:40:00 +0900
+title: "Weeknotes #28"
+categories: ["weeknotes"]
+---
+
+- I 'finished' the _Develop in Swift Fundamentals_  textbook. The scare quotes are because I got to the final project and didn't feel like it would add much to complete it. Overall, it was a great introduction to iOS development but it missed a couple of things. I was surprised it didn't deal with input, persistence or testing. Persistence is especially strange to me. I think being able to save app state to disk is pretty 'fundamental'.
+
+- If we weren't in the middle of a global pandemic, the Tokyo Olympics would have started on Friday. Now who knows if they'll even take place next year? I'm sure this is not an original thought, but it it occurred to me things might be improved by a permanent host country for the Olympics. It rained constantly over the weekend and while the forecast for what would have been the second week is a little better, it's not great and once again makes you question whether holding a sporting event in Tokyo in late July/early August was such a great idea.
+
+- To coincide with the Olympics, Thursday and Friday were both public holidays so we've just come off a four-day weekend. The government initiated a domestic tourism campaign to coincide with the time off, which they had conceived prior to the recent resurgence of cases but which they continued pushing despite the fact it seemed (at least to me) such an obviously bad idea. We won't know how exactly how bad for another week or so but I'm not hopeful. Perhaps the fact that it was raining so heavily over the break was for the best.
+
+- Despite being unimpressed with the first episode, I found myself sucked into HBO's _Perry Mason_. I caught up on the remaining four episodes and am now eagerly awaiting the release of a new episode each Monday (Japan time). I don't know if the show is really that good. I'm mostly in it for Matthew Rhys.
+
+- I read a fantastic collection of articles about China and the West. If you have any interest in that relationship, I can't recommend them highly enough. The [first](https://sinocism.com/p/engineers-of-the-soul-ideology-in) is a speech by John Garnaut and the [second](https://scholars-stage.blogspot.com/2019/01/reflections-on-chinas-stalinist.html) and [third](https://scholars-stage.blogspot.com/2019/03/reflections-on-chinas-stalinist.html) are responses from Tanner Greer. All of the pieces are sobering but I found Greer's analogy to Imperial Japan particularly chilling for the sense that war is inevitable:
+
+  > Out of this sad history I suspect that the best historical analogy for what we will see in China's future is found in Japan's imperial past. There was no grand revolution to herald the beginning of Japanese totalitarianism. Instead, over a decade, Japan's authoritarian system slid slowly into a totalitarian one. Each step down this slope came as sense of international crisis quickened. The more hostile Tokyo believed the outer world was to its ambitions, the more important total mobilization of the nation to accomplish these ambitions became. War was the final stroke: By the end of that contest the Japanese people lived in a regime whose conception of the political did not differ much from its counterparts in Germany or the Soviet Union. International pressure doomed the last spots of refuge from the storm.
+
+- I haven't listened to any OK Go in a long time but put _Of the Blue Colour of the Sky_ ([Apple Music](https://music.apple.com/us/album/of-the-blue-colour-of-the-sky/375464312)) on over the weekend and was pleasantly reminded how good it is. The common wisdom is that OK Go's music pales in comparison to their videos and, while that's fair, _Sky_ is a reminder that they're not merely talented videographers posing as musicians.
