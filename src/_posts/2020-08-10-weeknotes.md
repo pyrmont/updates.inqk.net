@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - It felt like I poured almost all my available time into the iOS app I'm currently developing. The basic functionality hasn't changed much since last week, instead I was consumed with a lot of small details. I'm still not at the part yet where you can add your own JavaScript files. Maybe next week.
 
-- I show the kids _Inside Out_. I think this is actually the second time they'd seen it but if memory serves, they didn't get it at all the first go around. It was more successful on this occasion, at least with Emma. I couldn't find a good way to explain conceptually where Joy and Sadness were when they were whisked away to long term memory so when she asked if they were in Riley's feet, I lied and said yes.
+- I showed the kids _Inside Out_. I think this is actually the second time they'd seen it but if memory serves, they didn't get it at all the first go around. It was more successful on this occasion, at least with Emma. I couldn't find a good way to explain conceptually where Joy and Sadness were when they were whisked away to long term memory so when she asked if they were in Riley's feet, I lied and said yes.
 
 - One of the things I thought I'd do more of after [buying the iPad Pro](https://updates.inqk.net/post/1591590000.html) was read comics but I didn't get Comixology set up properly on it until this week. The first thing I went and bought was [the first collected edition](https://www.comixology.com/Miracleman-Vol-1-A-Dream-Of-Flying-Parental-Advisory-Edition/digital-comic/102178) of Alan Moore's run on _Miracleman_ (prompted to do so by [this Nerdwriter video](https://youtu.be/Z2yZwh_gCIU). It was very Alan Moore but also very good.
 
