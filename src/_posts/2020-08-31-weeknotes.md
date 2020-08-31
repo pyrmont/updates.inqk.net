@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - So immediately after write the preceding sentence, something inside of me snapped and I decided that I needed to get Flext to work on the Mac. What happened? Allow me to digress slightly.
 
-- Before Flext became all-consuming of my time, I'd spent the last year or so helping to administer the syntax highlighting library, [Rouge](https://github.com/rouge-ruby/rouge). When I still went out regularly, a _lot_ of this work was done on my phone. Crucially, this included writing commit messages for pull requests I'd squash via GitHub's web interface. I don't know if anyone else really cared, but whenever I did this, I tried to follow the custom of wrapping commit messages at 72 characters.
+- Before Flext became all-consuming of my time, I'd spent the last year or so helping to administer the syntax highlighting library, [Rouge](https://github.com/rouge-ruby/rouge). When I still went out regularly, a _lot_ of this work was done on my phone. Crucially, this included writing commit messages for pull requests I'd squash via GitHub's web interface. I don't know if anyone else really cared, but whenever I did this, I tried to follow the custom of wrapping commit messages at 72 characters.
 
 - It turns out wrapping commit messages at 72 characters on your phone sucks. It especially sucks if you write your commit messages in Markdown and want the wrapping to do intelligent things like hanging indents. When I started looking around for relatively simple ideas for my first iOS app, a text-wrapping utility quickly rose to the top.
 
@@ -22,4 +22,4 @@ categories: ["weeknotes"]
 
 - I came across the Wikipedia article for ['echomimetic'](https://en.wikipedia.org/wiki/Echomimetic) via Paul Mucur's [Weeknotes 41](https://mudge.name/2020/08/09/weeknotes-41/). The article isn't written particularly well but I did appreciate the amount of shade it appeared to direct at the word 'onomatopoeia'.
 
-- AC/DC's 'Dirty Deeds Done Dirt Cheap' is still a pretty great song ([Apple Music](https://music.apple.com/us/album/dirty-deeds-done-dirt-cheap/575306275?i=575306356).
+- AC/DC's 'Dirty Deeds Done Dirt Cheap' is still a pretty great song ([Apple Music](https://music.apple.com/us/album/dirty-deeds-done-dirt-cheap/575306275?i=575306356)).
