@@ -4,7 +4,7 @@ title: "Weeknotes #35"
 categories: ["weeknotes"]
 ---
 
-- It's almost my birthday. In some ways it feels very strange to be rapidly approaching 40. I find myself wondering if my father felt like this. For me, he was born in his mid-40s and will in some ways always be that age in my mind. And yet at times I feel very much like I'm in my early-20s.
+- It's almost my birthday. In some ways it feels very strange to be rapidly approaching 40. I find myself wondering if my father felt like this. For me, he was born in his mid-40s and will in some ways always be that age in my mind. And yet I feel very much like I'm in my early-20s. Is there a point at which that's going to change?
 
 - One of the advantages of being in the time zone I'm in is that NBA games are typically played in the morning. As we've got deeper into this year's playoffs, I've taken to setting up the iPad on my desk after I log in to work and leaving the games running in the background. While my team—the San Antonio Spurs—missed out this year, there have been a tonne of great games and it's been terrific to have been able to watch so many live. The 'bubble' environment that the NBA set up in Walt Disney World has worked really well but I wonder what they're going to do next season.
 
