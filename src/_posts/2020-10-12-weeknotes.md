@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - _Rocket League_ took up an exceptional amount of my time this weekend. I've recently started playing competitively and I'm finding it's horribly addictive. In what I think most people would agree is a stunning feat of rationalisation, I purchased _Star Wars: Squadrons_ with the hope that it would lessen the amount of time I'm playing RL. We'll see how that goes.
 
-- The 'OO's Workout' playlist ([Apple Music](https://music.apple.com/us/playlist/00s-workout/pl.89b29d098bb64215a3caac990b3d80e0)) was my jam this week. Lots of good, trashy 2000s-era pop in there.
+- The '00's Workout' playlist ([Apple Music](https://music.apple.com/us/playlist/00s-workout/pl.89b29d098bb64215a3caac990b3d80e0)) was my jam this week. Lots of good, trashy 2000s-era pop in there if that's your kind of thing.
