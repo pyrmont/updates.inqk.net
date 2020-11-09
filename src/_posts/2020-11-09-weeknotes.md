@@ -14,7 +14,7 @@ categories: ["weeknotes"]
 
 - On the weekend, I took the kids over to Ferdinando's place. It was nice to actually meet and chat with someone in person. Outside of the occasional work colleague, I don't remember having done that since February.
 
-- My backlog of unread articles has built up again but I finally got to [this incredible piece](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump) by Josh Dzieza about Foxconn's 'factory' in Wisconsin. You might remember it as an example of how Donald Trump was bringing manufacturing back to the United States. Needless to say, that isn't what happened.
+- My backlog of unread articles has built up again but I finally got to this [incredible piece](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump) by Josh Dzieza about Foxconn's 'factory' in Wisconsin. You might remember it as an example of how Donald Trump was bringing manufacturing back to the United States. Needless to say, that isn't what happened.
 
 - I really got into a series of video essays ([YouTube playlist](https://www.youtube.com/playlist?list=PLIrZsx9CxvcHW6mRk75PZveDizWWzafRq)) exploring (in perhaps excruciating detail) the therapist scenes in _Good Will Hunting_.
 
