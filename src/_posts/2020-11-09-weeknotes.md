@@ -6,7 +6,7 @@ categories: ["weeknotes"]
 
 - Joe Biden won the U.S. presidential election. It wasn't the landslide that many (including me) had hoped for but it's a huge relief nevertheless. Lamentably (if unsurprisingly), President Trump has yet to concede and many conservatives are peddling ridiculous conspiracy theories about voting irregularities. I want to believe this represents the end of a period of insanity in U.S. politics.
 
-- Speaking of Biden, I watched his victory address (and Kamala Harris' introduction) live on Saturday ([YouTube](https://www.youtube.com/watch?v=vaThx7z6e0M)) with the kids. Well, to be more precise: _I_ watched it and Emma and John gleefully ignored the television. The speech itself was a delightful reminder of what it used to sound like when the U.S. President spoke.
+- Speaking of Biden, I watched his victory address and Kamala Harris' introduction ([YouTube](https://www.youtube.com/watch?v=vaThx7z6e0M)) live on Saturday with the kids. Well, to be more precise: _I_ watched it and Emma and John gleefully ignored the television. The speech itself was a delightful reminder of what it used to sound like when the U.S. president spoke.
 
 - I wrote [last week](https://updates.inqk.net/post/1604327220.html) about how I wasn't sure if I would order an iPhone 12 Pro Max. Of course, I ended up ordering one anyway. While it doesn't have much my current phone doesn't have, a combination of the improved camera in the iPhone 12 Pro and the fact that Eri would inherit my XS Max and _its_ improved camera (over the 7+) was enough to get me to pull the trigger. It's due to arrive on Friday. I also bought a HomePod Mini.
 
