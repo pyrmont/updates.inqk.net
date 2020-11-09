@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - I wrote [last week](https://updates.inqk.net/post/1604327220.html) about how I wasn't sure if I would order an iPhone 12 Pro Max. Of course, I ended up ordering one anyway. While it doesn't have much my current phone doesn't have, a combination of the improved camera in the iPhone 12 Pro and the fact that Eri would inherit my XS Max and _its_ improved camera (over the 7+) was enough to get me to pull the trigger. It's due to arrive on Friday. I also bought a HomePod Mini.
 
-- Speaking of last week, I hinted that I'd started work on a new project. That was an attempt to add custom parsers to Janet. As a proof of concept, I create a parser called [Claret](https://github.com/pyrmont/claret) that makes Janet's syntax closer to Clojure's. Unfortunately, [my PR](https://github.com/janet-lang/janet/pull/495) wasn't met with quite the reaction that I'd hoped. Perhaps an idea whose time has yet to come.
+- Speaking of last week, I hinted that I'd started work on a new project. That was an attempt to add custom parsers to Janet. As a proof of concept, I create a parser called [Claret](https://github.com/pyrmont/claret) that makes Janet's syntax closer to Clojure's. Unfortunately, my [pull request](https://github.com/janet-lang/janet/pull/495) wasn't met with the enthusiastic reaction I'd hoped it might receive. Perhaps an idea whose time has yet to come.
 
 - On the weekend, I took the kids over to Ferdinando's place. It was nice to actually meet and chat with someone in person. Outside of the occasional work colleague, I don't remember having done that since February.
 
