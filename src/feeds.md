@@ -15,7 +15,7 @@ surprise to discover that this blog is replete with feeds.
   ([<small>RSS</small>][rss-ap] / [<small>JSON</small>][json-ap])
 
 - **Weeknotes**  
-  This is more like it. You're the discrening kind of stalker.
+  This is more like it. You're the discerning kind of stalker.
   Someone who wants to show they care but not in, like, a super creepy kind of
   way. ([<small>RSS</small>][rss-wn] / [<small>JSON</small>][json-wn])
 
