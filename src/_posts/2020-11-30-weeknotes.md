@@ -1,0 +1,23 @@
+---
+date: 2020-11-30 13:26:00 +0900
+title: "Weeknotes #46"
+categories: ["weeknotes"]
+---
+
+- This is from a couple of weeks ago but I wanted to note for posterity that at least two vaccines in late stage trials appear to be effective against COVID-19: one from Pfizer/BioNTech and one from Moderna. Both are based on an approach that uses messenger RNA ([Wikipedia](https://en.wikipedia.org/wiki/RNA_vaccine)). The New York Times has an [excellent webpage](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html) where they summarise the state of various vaccines and there's more there if you're interested. The key point is that hopefully this means we've only got a few more months of this to go.
+
+- I bought a Nintendo Switch, thereby completing the triple crown of unnecessary purchases. November has really been a terrible month from a savings perspective: new iPhone (when I already had an iPhone), new HomePod Mini (when I already had an Amazon Echo) and now new Switch (when I already had a Wii U). It would be great to blame this on the pandemic but the truth is that I have terrible willpower about these things at the best of times.
+
+- So what happened? Well, I was ordering Christmas cards of all things and noticed that the website I was using had Nintendo Switch bundles for sale at normal prices. That's notable because I haven't _seen_ a Nintendo Switch for sale at a recommended retail price since... March? I'm not sure but it's been at least six months and I say this as someone who has checked Amazon's website every couple of days. I did have to order a bundled unit but since it was a bundle that included _Mario Kart 8 Deluxe_ (which I would have bought anyway), it didn't feel like a situation where you're being forced to buy a game you don't want.
+
+- The Switch arrived on Thursday evening and by Friday, I had it connected to the TV. Emma was immediately interested and I gave her one of the Joy-Con controllers, not really understanding how it all worked. It turns out that Mario Kart now includes an auto-steering mode by default that kicks in if you're playing too poorly. Emma was none the wiser and was delighted to 'finish' in the top three in each race in the Mushroom Cup. I still have some buyer's remorse but seeing how happy she was helped quell my immediate misgivings.
+
+- For those of you wondering how my continuing adventures in working around geoblocks is going, the NBA app is working again! The best part is that this hasn't come at the expense of any of the other services we use.
+
+- Speaking of which, Eri and I has been using the BBC iPlayer app to watch series 6 of the _Great British Sewing Bee_. I'm not sure what it is about 'reality' fashion game shows but we do seem to be suckers for them. Unlike the two we'd watched previously (Neflix's _Next in Fashion_ and Amazon's _Making the Cut_), Sewing Bee is your more 'classical' reality game show, that is one in which the contestants are amateurs rather than professionals. Perhaps unbelievably this is the first of these that I've ever watched and I've become quite invested in the outcome in spite of myself.
+
+- I didn't mention this last week but I decided that Saturday evening would be 'movie night' and showed the kids _Home Alone_. They were frequently distracted with other things but watched maybe 50% of it. This week I tried _A New Hope_. It was even less successful and we only made it about a third of the way through before I relented and let them watch a handful of the videos they love on YouTube.
+
+- I spent a good chunk of my development time this week rewriting a Janet function in the core API. Janet's language designer, Calvin Rose, responded positively to a suggestion that Janet support Markdown in docstrings and I quickly leapt at the chance to show how it could work. To my delight, the proposed change was accepted mean I now have a good chunk of code in Janet's core. After my [last attempt](https://updates.inqk.net/post/1604904720.html) at proposing a change to Janet's was rejected, it felt really great that this one was accepted. (And the disappointment from the previous submission was tempered somewhat by the fact that Rose [recently added](https://github.com/janet-lang/janet/commit/3ab2ae130b5742541738a049b76ddc22037d6b43) support for achieving a similar result.)
+
+- I'm not into much East Asian pop but I do occasionally enjoy the odd K-Pop song. What's especially 'odd' (ha!) is that I almost always prefer the Japanese version of whatever track it is. This past week, I found myself listening to Korean boy band Super Junior's 'Mr Simple' ([Apple Music](https://music.apple.com/us/album/mr-simple/672082831?i=672082949)), a song I listened to an ungodly amount back in 2012. Enjoy.
