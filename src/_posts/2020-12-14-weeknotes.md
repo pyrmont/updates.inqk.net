@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - The second best thing I read was a personal essay in the _New Yorker_ about being on _Wheel of Fortune_. [Yes, really](https://www.newyorker.com/magazine/2020/11/30/preparing-to-spin-the-wheel-of-fortune).
 
-- One of my favourite songs of all time is the White Stripes' 'Seven Nation Army'. One of my favourite shows of all time is _Westworld_. Unsurprisingly, I'm a big fan of Ramin Djawadi instrumental cover ([Apple Music](https://music.apple.com/us/album/seven-nation-army/1454594548?i=1454594743)).
+- One of my favourite songs of all time is the White Stripes' 'Seven Nation Army'. One of my favourite shows of all time is _Westworld_. Unsurprisingly, I'm a big fan of Ramin Djawadi's instrumental cover from the second season ([Apple Music](https://music.apple.com/us/album/seven-nation-army/1454594548?i=1454594743)).
