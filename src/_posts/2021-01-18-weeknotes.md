@@ -1,5 +1,6 @@
 ---
 date: 2021-01-18 22:28:00 +0900
+title: "Weeknotes #53"
 categories: ["weeknotes"]
 ---
 
