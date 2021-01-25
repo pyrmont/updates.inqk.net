@@ -1,6 +1,6 @@
 ---
 date: 2021-01-25 12:50:00 +0900
-title: "# Weeknotes 54"
+title: "Weeknotes #54"
 categories: ["weeknotes"]
 ---
 
