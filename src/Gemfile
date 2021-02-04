@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", github: "jekyll/jekyll", ref: "389eb88"
+# gem "jekyll", github: "jekyll/jekyll", ref: "389eb88"
+gem "jekyll"
 gem "jekyll-paginate"
