@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
   > But something that I think is a little underrated in pan-ideological Frustrated About The Virus Response circles is the extent to which the mass public doesn’t agree with us. The US seems to be doing better than Europe at vaccinations but worse at non-pharmaceutical interventions. But neither has done particularly well at either. And critically, none of the relevant electorates seem particularly upset about it. Aversion to change is triumphing over technological progress.
 
-  I believe this is what kids call 'right in the feels'. Or they did anyway. I had to look that up on [Know Your Meme](https://knowyourmeme.com/memes/feels) which probably means it's no longer what the kids are saying since it's 2020 and this meme began in 2010 so that a teenager that used it back then _is in their mid-twenties_.
+  I believe this is what kids call 'right in the feels'. Or they did anyway. I had to look that up on [Know Your Meme](https://knowyourmeme.com/memes/feels) which probably means it's no longer what the kids are saying since it's 2021 and this meme began in 2010 so that a teenager that used it back then _is in their mid-twenties_.
 
 - I had thought I'd spend some time this year getting back into Japanese study. Instead, it's already February and I'm still dividing my time between programming and reading. It's perhaps appropriate that the project I worked on this week was my long-neglected library, [Feedstock](https://github.com/pyrmont/feedstock).
 
