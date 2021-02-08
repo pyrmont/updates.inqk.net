@@ -115,6 +115,10 @@ nav.main-nav a {
   margin-left: 12px;
 }
 
+nav.main-nav a.selected {
+  box-shadow: none;
+}
+
 nav.main-nav a.cta {
   background: #fff;
   color: var(--accent-dark);
@@ -538,6 +542,10 @@ h2.headline {
 /* Media Queries */
 
 @media screen and (max-width: 540px) {
+
+  nav.main-nav a.cta {
+    display: none;
+  }
 
   footer #wrapper {
     padding: 50px 0;

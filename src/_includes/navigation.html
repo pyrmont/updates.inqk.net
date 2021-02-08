@@ -2,11 +2,8 @@
   {% if page.url != "/" %}
   <a class="normal" href="/"> <span class="arrow">←</span> Home</a>
   {% endif %}
-  {% if page.url != "/about" %}
-  <a href="/about.html">About</a>
-  {% endif %}
-  {% if page.url != "/feeds" %}
-  <a href="/feeds.html">Feeds</a>
-  {% endif %}
+  <a href="/about.html" class="{% if page.url == "/about" %}selected{% endif %}">About</a>
+  <a href="/feeds.html" class="{% if page.url == "/feeds" %}selected{% endif %}">Feeds</a>
+  <a href="/weeknotes/2021.html" class="{% if page.url contains "/weeknotes" %}selected{% endif %}">Weeknotes</a>
   <a class="cta" href="https://micro.blog/{{ site.microblog_username }}" rel="me">Also on Micro.blog</a>
 </nav>
