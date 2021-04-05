@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06 02:23:00 +0900
+date: 2021-04-05 23:23:00 +0900
 title: "Weeknotes #64"
 categories: ["weeknotes"]
 ---
