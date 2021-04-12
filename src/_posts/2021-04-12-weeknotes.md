@@ -1,6 +1,6 @@
 ---
-title: Weeknotes #65
 date: 2021-04-12 23:35:00 +0900
+title: "Weeknotes #65"
 categories: ["weeknotes"]
 ---
 
