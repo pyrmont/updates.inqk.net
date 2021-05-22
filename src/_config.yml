@@ -11,7 +11,7 @@ relative_permalinks: false
 
 max_posts: 20
 
-markdown: "kramdown"
+markdown: "CommonMark"
 
 exclude:
   - Gemfile

@@ -1,5 +1,13 @@
 source "https://rubygems.org"
 
-# gem "jekyll", github: "jekyll/jekyll", ref: "389eb88"
 gem "jekyll"
-gem "jekyll-paginate"
+
+group :jekyll_plugins do
+  gem "jekyll-commonmark"
+  gem "jekyll-paginate"
+  gem "commonmarker-pluggable", github: "pyrmont/commonmarker-pluggable", branch: "master"
+end
+
+group :development do
+  gem "webrick"
+end
