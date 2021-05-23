@@ -102,18 +102,18 @@ module Tweeter
       [content, attachment]
     end
 
-    private def request(body, oauth: nil, query: nil)
+    private def request(body, oauth: nil, query: {})
       unless oauth.nil?
         oauth[:oauth_consumer_key] = @consumer_key
         oauth[:oauth_nonce] = SecureRandom.urlsafe_base64(32)
         oauth[:oauth_signature_method] = "HMAC-SHA1"
         oauth[:oauth_timestamp] = Time.now.to_i
         oauth[:oauth_version] = "1.0"
-        oauth[:oauth_signature] = sign(oauth.merge(body).sort)
+        oauth[:oauth_signature] = sign(oauth.merge(body, query).sort)
       end
 
       api_uri =
-        if query.nil?
+        if query.empty?
           URI(@endpoint)
         else
           URI(@endpoint + "?" + query)
@@ -148,7 +148,7 @@ module Tweeter
       base = encode parameters
       key = @consumer_secret + "&" + @oauth_secret
       message = [@method, encode(@endpoint), encode(base)].join("&")
-      Base64.encode64(OpenSSL::HMAC.digest("sha1", key, message)).chomp
+      Base64.strict_encode64(OpenSSL::HMAC.digest("sha1", key, message))
     end
   end
 end
