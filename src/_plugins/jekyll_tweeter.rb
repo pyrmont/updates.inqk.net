@@ -148,7 +148,7 @@ module Tweeter
       base = encode parameters
       key = @consumer_secret + "&" + @oauth_secret
       message = [@method, encode(@endpoint), encode(base)].join("&")
-      Base64.encode64(OpenSSL::HMAC.digest("sha1", key, message))
+      Base64.encode64(OpenSSL::HMAC.digest("sha1", key, message)).chomp
     end
   end
 end
