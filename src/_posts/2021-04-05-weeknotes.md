@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - There's an outbreak of cases in the Osaka area and for the last week it's had a higher number of detected cases per day than Tokyo. It's difficult to know how much to believe the figures for Tokyo, though. I don't think the numbers are being actively doctored but is the rate of testing high enough to have an accurate picture of the situation in Tokyo ([Reuters](https://www.reuters.com/article/us-health-coronavirus-japan-strain-idUSKBN2BS0MB))? And with the vaccine rollout proceeding as slowly as it is, are we we risking a mutation that is resistant to treatment?
 
-- Hopefully it wasn't a bad idea but I took Emma and John out on Saturday to meet with Ferdinando and his daughter. Ferdinando and I both Brough bicycles to ferry the kids and we went on something of a 'tour' of some of the parks in the area. Emma and John had a good time and it was really nice to talk to a friend in person again.
+- Hopefully it wasn't a bad idea but I took Emma and John out on Saturday to meet with Ferdinando and his daughter. Ferdinando and I both brought bicycles to ferry the kids and we went on something of a 'tour' of some of the parks in the area. Emma and John had a good time and it was really nice to talk to a friend in person again.
 
 - The end of March meant a mad dash to collect all the Continuing Professional Development points I need in order to renew my practising certificate for another year. The Law Society of New South Wales will let you count study you do that's unrelated to the jurisdiction but with the pandemic, I'd done none of the mandatory ten hours. Ten hours (and $800 later) and I'm good for another year.
 
