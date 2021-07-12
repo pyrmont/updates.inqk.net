@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - To keep myself awake, I started watching _Loki_. Large portions of the show make no sense but I'm enjoying it almost in spite of myself. Tom Hiddleston is the real draw but Sophia Di Martino has fantastic chemistry with Hiddleston. Having been drawn back into the MCU, I also watched _Black Widow_. As much as I love Scarlett Johansson, the film is a distillation of everything I dislike about Marvel movies. A formulaic plot, monotonous style, complete lack of coherence with the broader continuity and a soundtrack that is so forgettable it's almost an achievement. 
 
-- Speaking of soundtracks, one of my favourite parts of _Loki_ is its soundtrack ([Apple Music](https://music.apple.com/us/album/loki-vol-1-episodes-1-3-original-soundtrack/1574250166)). Did this slip by someone at Disney who didn't realise?
+- Speaking of soundtracks, one of my favourite parts of _Loki_ is its soundtrack ([Apple Music](https://music.apple.com/us/album/loki-vol-1-episodes-1-3-original-soundtrack/1574250166)). Did this slip by someone at Disney who didn't realise it was good?
