@@ -20,4 +20,4 @@ categories: ["weeknotes"]
 
 - On the topic of bad movies, I showed Emma and John a little more of _Harry Potter and the Philosopher's Stone_ to help solidify the characters we're reading about in the book and I was reminded again how bad the film is. It's really quite remarkable it was as successful as it was. Good casting can go a long way, I suppose.
 
-- It's not a great sign when the thing you like most about a band is their name but I do really love the name I DON'T KNOW HOW BUT THEY FOUND ME ([Apple Music](https://music.apple.com/us/album/razzmatazz/1522943458)). None of the music has really clicked with me but in addition to the name, the design aesthetic is pretty tops, too. Not quite at the level of Franz Ferdinand but close.
+- It's not a great sign when the thing you like most about a band is their name but I do really love the name I DONT KNOW HOW BUT THEY FOUND ME ([Apple Music](https://music.apple.com/us/album/razzmatazz/1522943458)). None of the music has really clicked with me but in addition to the name, the design aesthetic is pretty tops, too. Not quite at the level of Franz Ferdinand but close.
