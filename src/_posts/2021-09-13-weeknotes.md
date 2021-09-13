@@ -1,0 +1,23 @@
+---
+date: 2021-09-13 12:57:00 +0900
+title: "Weeknotes #87"
+categories: ["weeknotes"]
+---
+
+- My birthday approaches and Emma and John are extremely excited about it. I am being given daily updates of how many days there are left and on the weekend negotiations commenced on what cake I wanted. Emma's strong preference is for the [Dreamy Unicorn Cake](https://lotte-shop.jp/shop/g/gyru) from Cozy Corner Ginza. I was less enthusiastic, mostly because of the ¥4,000 price.
+
+- The number of detected COVID-19 cases continued to decline ([NHK](https://www3.nhk.or.jp/nhkworld/en/news/20210910_29/)). Hospitals still seem to be under strain, though, and I'm worried about what will happen as we go into the northern hemisphere winter.
+
+- Eri gave John a haircut. She'd bought a home hairdressing kit from Amazon and watched a couple of YouTube videos and it turned out really well. It was such an ordeal the last time John got his hair cut that even if COVID-19 wasn't a thing, I'd prefer Eri do the next few.
+
+- John's iPad (an iPad Mini 2) has stopped working with a couple of the apps he plays and it's precipitated a deep reconsideration of our entire device strategy when it comes to the kids. When Emma and John were becoming able to manipulate devices, I figured it would be (a) a helpful distraction device and (b) good digital preparation for them to have access to an iPad. I wasn't using my iPad much at that point (a years-old iPad Mini 2) and so decided to give it to them. I don't remember if this was at the same time but in 2019, I bought a second iPad (a then-new iPad Mini 5) so that they would each have their own. Although this has certainly made things easy, this was quite decadent and I feel like that it would have been better to have had the kids share an iPad. Now that John's is really struggling, I'm wondering whether that should be where we end up.
+
+- In some ways the iPad problems are fortuitously timed because Apple has a product event this coming week and while the key product will almost certainly be new iPhones, one of the rumours is that iPad revisions will be announced as well. I don't think the solution to this problem is to buy a brand-new iPad but it seems likely that new iPads will have a deflationary impact on the second-hand iPad market. The iPad Mini 5 is still the 'current' iPad Mini and it costs as much now as it did two years ago (the price has actually gone _up_ because of a consumption tax increase that's happened in the interim).
+
+- I decided to go back to one of my programming projects from last year and started working again on [Persimmon](https://github.com/pyrmont/persimmon). Persimmon was an attempt to write some persistent, immutable data structures for Janet. I began the initial implementation of a persistent, immutable sequential collection (i.e. an array) in C but never finished it. In that version, the C code and Janet code were tied up together but I started wondering if it would be possible to write it as proper C library. My progress is in a [separate branch](https://github.com/pyrmont/persimmon/tree/c-library) at the moment but I now have initial implementations of the get, push, pop, insert and removal functions. I don't know if it'll ever be of interest to anyone else but I'm enjoying it all the same.
+
+- I watched Film Crit Hulk's recent video essay ['Why MAD MAX: FURY ROAD Works - A Scene-By-Scene Breakdown'](https://www.youtube.com/watch?v=8K2YdftsywM). It was excellent and while I was [lukewarm overall](https://letterboxd.com/pyrmont/film/mad-max-fury-road/) when I saw the movie back in 2015, this made me want to go back and watch it again to see if I was too harsh in my appraisal.
+
+- About a decade ago, I decided to stop watching movie trailers. I don't remember now which trailer was the proverbial straw but I do remember being frustrated with trailers containing footage that spoiled key plot details and containing footage that was _not_ in the film (but which I would be expecting to see). I decided to break the rule for the _Matrix Resurrections_ trailer that came out this week ([YouTube](https://www.youtube.com/watch?v=9ix7TUGVYIo)). Partly it was to enjoy the hype for a movie I'm excited about, and partly it was because I remember the trailer for the first movie being very judicious in what it revealed.
+
+- I started making a playlist of songs that were featured in the show _Daria_. As a hilarious consequence, Apple Music's New Music Mix this week suggested a number of songs from 90s bands that are apparently still together in 2021. The one that surprised me most was Local H. The song it suggested was 'Brandy (You're a Fine Girl)' ([Apple Music](https://music.apple.com/us/album/brandy-youre-a-fine-girl/1576427383?i=1576427629)).
