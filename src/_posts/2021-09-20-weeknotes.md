@@ -1,0 +1,19 @@
+---
+date: 2021-09-20 23:52:00 +0900
+title: "Weeknotes #88"
+categories: ["weeknotes"]
+---
+
+- I turned 39 this week. To Dave's great disappointment, I did not enjoy the Dreamy Unicorn Cake mentioned [last week](https://updates.inqk.net/post/1631505420.html). The kids were nevertheless happy when 'I' (the term is used loosely) received the Neon Pink/Neon Green Nintendo Joy-Con controller. In an incredible coincidence, these were the colours that Emma and John were very much wishing we had.
+
+- Apple held its annual September product event and, among other things, announced new iPhones. In what I'm struggling to justify to myself, on Friday I purchased _both_ an iPhone 13 Mini and an iPhone 13 Pro Max. The previous sentence isn't really true: the Mini isn't difficult to justify. I upgraded to the 12 Pro Max last year and handed down my XS Max to Eri. She's given it a go but finds the overly large size unwieldy, especially in situations where she has Rowan in one hand and wants to check something on the phone in her other. So OK, fine but what about the 13 Pro Max? Perhaps because we've rarely gone out in the past 12 months, my 12 Pro Max is in excellent condition and I think should qualify for close to the maximum trade-in price. That makes the new model 'only' ¥70,000. Oh, and the camera is better.
+
+- With Mum's assistance, we had a FaceTime call with my grandmother and read _Where the Wild Things Are_ (we both have copies). It's one of my grandmother's favourite picture books and the kids enjoyed reading it remotely so that was good. I wish I could say it was a meaningful book but while I recognise its cultural status, I've never had especially fond memories of it. I don't know what it says about me but the picture book that left a far deeper impression on me was _Willy the Wimp_. There's tragically no Wikipedia article to link to here for those unfamiliar with it but I did find a [retrospective](https://www.theguardian.com/childrens-books-site/gallery/2014/sep/03/willy-the-wimp-anthony-browne-gallery-30-years) the _Guardian_ published in 2014.
+
+- I really struggled to do anything productive programming-wise this week. I should be working on the Persimmon library but in what's something of a pattern for me, I've lost a lot of my enthusiasm now that I'm in the boring phase of the project. At one point during the week, I found myself considering a return to the static-site generator I started last year. The impetus was my periodic desire to have a blog where I publish e-mails that I send to other people (but which I think might be of interest to others).
+
+- I didn't watch much in the way of traditional TV, but I very much enjoyed video essays by Patt Finnerty (['Little Stinkers Ep. 1 - Walker Hayes "Fancy Like"'](https://youtu.be/hcwVZTtx-3M)), Patrick Willems (['The Most Difficult Shot in Movie History (and Why It Matters)'](https://youtu.be/5POb5fQ4BYM)) and Film Crit Hulk (['Why STAR WARS Works - A Scene-by-Scene Breakdown'](https://youtu.be/3TQHc9bxjzk)).
+
+- One of my favourite video essayists, Jonathan McIntosh of the [Pop Culture Detective Agency](https://popculturedetective.agency/), launched a new podcast. The first episode was a [discussion about _Ted Lasso_](https://popculturedetective.agency/podcast/the-curious-case-of-ted-lasso). I loved season 1 of _Ted Lasso_ (so much so I [wrote about it](https://articles.inqk.net/2020/12/09/ted-lasso.html)) and so was primed for McIntosh to delve in. I'm delighted to report that the delving was thorough and it was a great episode. Given how good McIntosh's videos are, I have high hopes that future shows will maintain this level of quality.
+
+- I don't know if it'll create much of a lasting impression, but I enjoyed Lil Nas X's debut album, _Montero_ ([Apple Music](https://music.apple.com/us/album/montero/1582660720)).
