@@ -1,4 +1,5 @@
 require "base64"
+require "cgi"
 require "date"
 require "json"
 require "net/http"
@@ -9,6 +10,10 @@ require "yaml"
 
 module TweeterRefinements
   refine String do
+    def decode_entities
+      CGI.unescapeHTML(self)
+    end
+
     def extract_links(links)
       link_pattern = /<a [^>]*?href="(https?:\/\/[^"]+)"[^>]*>/i
       self.scan(link_pattern) { |m| links.push $1 }
@@ -90,6 +95,7 @@ module Tweeter
         .unmention(pattern[:link], pattern[:url])
         .extract_links(links)
         .strip_html
+        .decode_entities
 
       links.each do |link|
         if link =~ pattern[:tweet] && attachment.nil?
