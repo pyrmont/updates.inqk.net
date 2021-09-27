@@ -28,4 +28,4 @@ categories: ["weeknotes"]
 
 - The kids started watching _Spidey and His Amazing Friends_ ([Wikipedia](https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends_(2021_TV_series)) on Disney+ over the weekend and quickly became obsessed with it. It's well-made but as I [commented](https://updates.inqk.net/post/1632535980.html) I'm surprised how much it 'borrows' from _PJ Masks_.
 
-- One of the things that the kids love is the theme song. While I think it's inferior to the _PJ Masks_ theme song, I'm a little ashamed that I didn't pick up on the fact that it's by Fall Out Boy's Patrick Stump ([Apple Music](https://music.apple.com/us/album/spidey-and-his-amazing-friends-theme-from-disney/1569258238?i=1569258546)).
+- One of the things that the kids love is the theme song. While I think it's inferior to the _PJ Masks_ theme song, I'm a little ashamed that I didn't pick up on the fact that it's by Fall Out Boy's Patrick Stump ([Apple Music](https://music.apple.com/us/album/spidey-and-his-amazing-friends-theme-from-disney/1569258238?i=1569258546)). If you want to know what it feels like to have little kids, put this on repeat.
