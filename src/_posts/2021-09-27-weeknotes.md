@@ -19,8 +19,11 @@ categories: ["weeknotes"]
 - While I didn't progress any further with my Persimmon library, I did get a proof-of-concept of [Watchful](https://github.com/pyrmont/watchful) working with Janet's new event loop. As loyal readers may remember, Watchful was a Janet library I worked on last year that watched for file system changes in Linux and macOS. Although the C code that called the respect system calls was pretty independent of the C code that made it accessible from Janet, things weren't cleanly separated and it wasn't possible to use the C code without the Janet code. That's now fixed and what I hope to release is a C library with a Janet wrapper. It should then be relatively straightforward to use that code by itself, either in a project written in C or with a wrapper for another language (e.g. Ruby).
 
 - After what seemed a dearth of video essays over summer, I watched another slew of great ones this week:
-    - Jenny Nicholson, ['Oh no! The Rise of Skywalker was real bad :('](https://www.youtube.com/watch?v=GErIPKjwuDg)): Dave sent this to me and while I think I'd started it before, I hadn't watched it all the way through (it's an hour long). It is excellent.
+
+    - Jenny Nicholson, ['Oh no! The Rise of Skywalker was real bad :('](https://www.youtube.com/watch?v=GErIPKjwuDg): Dave sent this to me and while I think I'd started it before, I hadn't watched it all the way through (it's an hour long). It is excellent.
+
     - Trash Theory, ['The Shocking Real-Life Story Behind "Teenage Dirtbag"'](https://www.youtube.com/watch?v=4myqphgH3Uk): The title is unfortunately click-baity but if you're remotely interested in the background to that staple of the early 2000s, I recommend it.
+
     - What's So Grace About That?, ['What Isn't a Video Essay?'](https://www.youtube.com/watch?v=tI_TeoIGwCU): Grace Lee's video essays are exemplars of the form. She's both a gifted writer and really good at using video (especially motion graphics) to illustrate her points.
 
 - The kids started watching _Spidey and His Amazing Friends_ ([Wikipedia](https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends_(2021_TV_series)) on Disney+ over the weekend and quickly became obsessed with it. It's well-made but as I [commented](https://updates.inqk.net/post/1632535980.html) I'm surprised how much it 'borrows' from _PJ Masks_.
