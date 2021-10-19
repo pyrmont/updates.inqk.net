@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - I'm not sure what I was doing with the time but I haven't watched any more episodes of _Foundation_, _Ted Lasso_ or _The Problem with Jon Stewart_. After I raved about James Acaster last week, Dave suggested I check out the series of Taskmaster where he was a contestant and while I haven't done that yet, it's definitely near the top of the list. I assume it's probably geographically gated but the episodes from [that series](https://www.youtube.com/playlist?list=PLRWvNQVqAeWLksz49j1YmlkfgQelECDb0) are available on YouTube.
 
-- I did just remember that Jenny Nicholson published a [video essay](https://www.youtube.com/watch?v=8quWUSZCW5g) on the recently released film adaptation of the musical _Dear Evan Hansen_. In finding the link for these weeknotes, I noticed that video already has 1.6 million videos which is honestly a little difficult to process. The essay is 1 hour and 17 minutes long.
+- I did just remember that Jenny Nicholson published a [video essay](https://www.youtube.com/watch?v=8quWUSZCW5g) on the recently released film adaptation of the musical _Dear Evan Hansen_. In finding the link for these weeknotes, I noticed that video already has 1.6 million views which is honestly a little difficult to process. The essay is 1 hour and 17 minutes long.
 
 - I made more progress on Watchful and now have it passing a rename monitoring test on Linux. I do think I might be about to rewrite the way that the Janet wrapper communicates with the monitoring part, though. Up to now I've been using a simple pipe but sending raw bytes down a pipe isn't particularly fun and I think I have an idea of how I can use Janet's built-in event loop to communicate with the Janet wrapper more seamlessly.
 
