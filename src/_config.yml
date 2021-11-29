@@ -15,6 +15,7 @@ markdown: "CommonMark"
 
 commonmark:
   options: ["FOOTNOTES", "SMART", "UNSAFE"]
+  extensions: []
 
 exclude:
   - Gemfile
