@@ -4,11 +4,11 @@ title: "Weeknotes #100"
 categories: ["weeknotes"]
 ---
 
-- I'm pretty sure my visa has been renewed! I say 'pretty sure' because while I got the little postcard asking me to come back to the Immigration Bureau office, it doesn't actually say that the renewal has been granted. That said, it does ask me to bring a ¥4,000 revenue stamp (which is the cost of a renewal) so that seems pretty dispositive.
+- I'm pretty sure my visa has been renewed! I say 'pretty sure' because while I got the little postcard asking me to come back to the Immigration Services Agency office, it doesn't actually say that the renewal has been granted. That said, it does ask me to bring a ¥4,000 revenue stamp (which is the cost of a renewal) so that seems pretty dispositive.
 
-- Unfortunately, I wasn't able to get to the office this week because Rowan's condition seemed to worsen. In this case my hesitancy has to do with the fact that Rowan's had persistent breathing issues since shortly after he was born and nobody's been able to tell us precisely what's wrong. On Friday, Eri took him to one of the larger hospitals near us and we were relieved after fact ran a number of tests as well as taking X-rays; all of which came back negative. The only bad part of that news was that it meant it's still not clear what's going on.
+- Unfortunately, I wasn't able to get to the Immigration Services Agency office because Rowan's condition worsened and Eri was occupied most of the week taking him around to various doctors. Rowan's had this persistent breathing issue since shortly after he was born but this week his respiratory system seemed to become even more congested. On Friday, Eri took him to one of the larger hospitals near us and it was a relief after they ran a number of tests all of which came back negative. The only bad part of that news was that it meant it's still not clear what's going on.
 
-- We had a scare on Sunday that John had contracted a case of gastroenteritis. He threw up just before eating breakfast. Fortunately, we were able to see a paediatrician at another of the nearby hospitals and they didn't think it was anything especially serious (by that point a number of hours had passed and John hadn't thrown up again).
+- Separately, we had a scare on Sunday when John threw up just before breakfast and we thought he might have contracted gastroenteritis. Fortunately, we were able to see a paediatrician at another of the nearby hospitals and they didn't think it was anything especially serious (by that point a number of hours had passed and John hadn't thrown up again).
 
 - In the midst of all of this, Japan's cases continued to be relatively low ([NHK](https://www3.nhk.or.jp/nhkworld/en/news/20211212_18/)). I'm expecting that number to increase once the Omicron variant starts to spread.
 
