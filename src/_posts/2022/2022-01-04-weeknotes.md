@@ -1,0 +1,23 @@
+---
+date: 2022-01-04 13:12:00 +0900
+title: "Weeknotes #103"
+categories: ["weeknotes"]
+---
+
+- Welcome to 2022. I'm less optimistic about things than I was last year. I was pretty confident as 2021 started that we'd be able to visit Australia by Christmas, here we are in 2022 and I'm not sure that's true for this year. I'm not even sure that Mum will be able to visit in February as originally planned.
+
+- One advantage of being in Tokyo was that the two-hour time difference with Sydney made it relatively easy to have the kids watch Sydney's New Year's Eve fireworks display. Emma and John enjoyed it well enough although they did start to lose interest in the 15-minute display after about 10 minutes.
+
+- It feels a bit weird to me to have the Christmas decorations up during New Year in Japan so I took the tree and wreath down and put them away. Given our upcoming move, it'll be the last time the tree was up here. As much as I'm frustrated by this house, that made me a little sad.
+
+- Speaking of the move, Eri and I made some selections for places to inspect. The real estate agents were all closed for the New Year's break so I haven't heard anything back but hopefully they're agreeable to direct inspections rather than the more traditional come-into-the-office-and-we'll-waste-your-time-showing-you-places-you're-not-interested-in dance that I've experienced in the past. I am sorry to James that we have decided not to chance moving out to Yokohama and will stick with western Tokyo.
+
+- While doing some Google Maps 'legwork' in connection with the property hunting, I was reminded that after five years I _still_ didn't know what the mysterious complex is that's next to one of our nearby supermarkets ([Google Street View](https://www.google.com/maps/@35.7174939,139.5353539,3a,75y,235.52h,97.2t/data=!3m7!1e1!3m5!1syrnPmKt5j5iY1j8BwIEbdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DyrnPmKt5j5iY1j8BwIEbdQ%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D221.79535%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)). I haven't been over to it in a while but it used to have no signage and strangely isn't identified on mapping services like Google Maps or Yahoo Maps. I'd thought that perhaps it was a facility associated with a government intelligence agency (e.g. the [Public Security Intelligence Agency](https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency)) but wasn't sure. I decided I needed to know and so began searching the Japanese web in earnest. It turned out not to be such a mystery: it's a Canon data centre that even has [its own webpage](https://www.canon-its.co.jp/products/idc_west_tokyo/).
+
+- I was unfortunately not so productive with Advent of Code, although that was in part due to me working on a [pull request](https://github.com/janet-lang/janet/pull/898) that would better support dynamic evaluation in Janet. I'm not sure the PR will be accepted as it's a rather significant change to how things work but my fingers are crossed because it would make REPL-driven development a lot more pleasant.
+
+- The training wheels came off Emma's bicycle and we began the next phase of her learning to ride. I'll be honest, at this point in the process (i.e. after one day) things feel insurmountable. I am especially jealous now of aforementioned James' video demonstrating his four(?)-year-old son's successful [first ride](https://twitter.com/jamesvandyne/status/1469910131660181509). I believe James used a pedalless bicycle to start with and perhaps that's what I should have done, too. I suppose I can always remove the pedals on Emma's bike and then put them back on once she's learnt to balance.
+
+- I came across a [great blog post](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/) on the 'Expression Problem' that Eli Bendersky wrote back in 2016. I've never understood the name (thinking it should be known as the 'Extension Problem') but Bendersky's post put it in better context and helped clarify why Clojure's approach to solving it is interesting.
+
+- For some reason, one of the things I think about at Christmas is Doctor Who. This is especially strange to me because I never grew up watching the show and didn't get into it after the BBC brought it back in 2005 (I did watch a few episodes during the Peter Capaldi run but determined it wasn't for me). I don't know if the Christmas Special is out yet (I think maybe it is?) but consider this week's musical selection a tie-in to that ([Apple Music](https://music.apple.com/us/album/doctor-who-theme-new-stereo-remix-2002/716761142?i=716761248)).
