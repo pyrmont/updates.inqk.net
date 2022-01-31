@@ -16,7 +16,7 @@ categories: ["weeknotes"]
 
 - Martin Feld expressed amazement at how well Xbox Cloud Gaming works on iOS on [episode 45](https://listen.hemisphericviews.com/045) of Hemispheric Views and like the sucker that I am for subscription services I signed up for [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass) to try it out. It's not perfect but I find it incredible that it works at all given it's all going through Safari. One of the games that you can play is _Jedi: Fallen Order_ and even though I have that on the PS4, I started playing it again on the iPad and I much prefer it there. The load times are shorter, the graphics are sharper and I'm not tied to the television. I just wish it had Rocket League.
 
-- John Gruber linked to [Ian Leslie's notes on _The Beatles: Get Back_](https://ianleslie.substack.com/p/the-banality-of-genius-notes-on-peter) and it's an excellent, if very long, read. Leslie also links at the end to his ['64 Reasons to Celebrate Paul McCartney'](https://music.apple.com/us/album/alive-2007-live-deluxe-edition/717067737) and it's also terrific.
+- John Gruber linked to [Ian Leslie's notes on _The Beatles: Get Back_](https://ianleslie.substack.com/p/the-banality-of-genius-notes-on-peter) and it's an excellent, if very long, read. Leslie also links at the end to his ['64 Reasons to Celebrate Paul McCartney'](https://ianleslie.substack.com/p/64-reasons-to-celebrate-paul-mccartney) and it's also terrific.
 
 - I also enjoyed Nick Canovas (AKA Mic the Snare)'s [Deep Dive Discography of Daft Punk](https://www.youtube.com/watch?v=vSABmblQ7Ek) even if I violently disagree with his view that Daft Punk's _TRON: Legacy_ soundtrack isn't that good a stand-alone album. (I mean _what?_)
 
