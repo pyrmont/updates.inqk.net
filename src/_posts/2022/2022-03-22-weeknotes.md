@@ -4,7 +4,7 @@ title: "Weeknotes #114"
 categories: ["weeknotes"]
 ---
 
-- The war in Ukraine drags on.
+- The war in Ukraine drags on. It certainly seems like the Russians badly underestimated the Ukrainians.
 
 - On Saturday I collected the key for the new place and got the power, water and gas hooked up. It was my first time being in the apartment since it was cleaned (there hadn't been time to clean it before my inspection). It looks good and hopefully we're really going to enjoy living there.
 
@@ -22,4 +22,4 @@ categories: ["weeknotes"]
 
 - I said that _Murderville_ was recommended to me by Hamish but I spoke to him subsequently and he denied that's the case. So if you are out there mystery recommender (Dave?), let me know so I can ask if you'd seen the last episode when you recommended it. When confirming with Hamish that he didn't know what I was talking about, he mentioned he'd heard the original British version on which the American one is based was better. I checked out the first episode and can confirm this is _not_ the case. There are three 'seasons' (series in British parlance) so maybe it gets better at some point but based on the respective pilots, the American incarnation is better in every respect.
 
-- My ears are terrible so maybe you'll be able to tell but Muse released a 20th anniversary remix of their _Origin of Symmtetry_ album at some point last year. My favourite track from the album remains the incongruous cover of 'Feeling Good' ([Apple Music](https://music.apple.com/us/album/feeling-good-xx-anniversary-remixx/1567289496?i=1567289510)). 
+- Muse released a 20th anniversary remix of their _Origin of Symmtetry_ album at some point last year. My ears are terrible so I couldn't tell what was different but maybe you'll be able to tell. My favourite track from the album remains the incongruous cover of 'Feeling Good' ([Apple Music](https://music.apple.com/us/album/feeling-good-xx-anniversary-remixx/1567289496?i=1567289510)). 
