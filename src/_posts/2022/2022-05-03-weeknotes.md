@@ -1,6 +1,7 @@
 ---
 date: 2022-05-03 23:43:00 +0900
 title: "Weeknotes #120"
+categories: ["weeknotes"]
 ---
 
 - Mum discovered that she qualifies for a visa to Japan as a 'first-degree relative' of a long-term resident (i.e. me). It's not clear how long it will take to get—maybe a month—so it's possible she'll be here by June. As prosaic as this all is when viewed in a completely rational manner, it's all a little unreal after so long in relative isolation.
