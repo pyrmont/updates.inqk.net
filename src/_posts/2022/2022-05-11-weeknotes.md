@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - Flush off the success of showing the kids _Encanto_, I tried to show them _Turning Red_. It did not go well. John in particular still gets scared whenever people argue in movies and watching the mother lose it at one point has made him scared to be alone which is both frustrating and very cute.
 
-- I sent in the application for Rowan's citizenship. And paid the ridiculous $300+ the Australian Government charges you for the privilege. I realise there's no constituency for ex-patriate Australians (literally, given you're not supposed to vote if you don't intend to return to Australia in the near-term) but one does wonder how much more they'll keep squeezing. I'm not looking forward to the passport applications. In addition to applying for Rowan's, Emma, John and me all happen to need renewals.
+- I sent in the application for Rowan's citizenship. And paid the ridiculous $300+ the Australian Government charges you for the privilege. I realise there's no constituency for ex-patriate Australians (literally, given you're not supposed to vote if you don't intend to return to Australia in the near-term) but one does wonder how much more they'll keep squeezing. I'm not looking forward to the passport applications. In addition to applying for Rowan's, Emma, John and I all happen to need renewals as well.
 
 - I bought the kids some cakes themed to Peter Pan from Ginza Cozy Corner for [Children's Day](https://en.wikipedia.org/wiki/Children%27s_Day_(Japan)). This lead to questions about who the characters were and we started watching _Peter Pan_.
 
