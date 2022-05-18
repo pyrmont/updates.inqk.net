@@ -4,7 +4,7 @@ title: "Weeknotes #122"
 categories: ["weeknotes"]
 ---
 
-- By the time of the next update, that's results of the upcoming Australian federal election ([Wikipedia](https://en.wikipedia.org/wiki/2022_Australian_federal_election)) will be known. I've had some interesting conversations with Eugenia about how the campaign has gone so far. On paper, it seems like an election Scott Morrison should win easily and yet everything I read suggests he's so loathed personally that Anthony Albanese is all but a shoe-in.
+- By the time of the next update, the results of the upcoming Australian federal election ([Wikipedia](https://en.wikipedia.org/wiki/2022_Australian_federal_election)) will be known. I've had some interesting conversations with Eugenia about how the campaign has gone so far. On paper, it seems like an election Scott Morrison should win easily and yet everything I read suggests he's so loathed personally that Anthony Albanese is all but a shoe-in.
 
 - Apple announced the [iPod Touch is being discontinued](https://www.apple.com/newsroom/2022/05/the-music-lives-on/) and with it the only current product using the iPod brand. The Apple News announcement has a nice photo gallery, including photos of the 2006 iPod Nano which was the first Apple product I owned.
 
