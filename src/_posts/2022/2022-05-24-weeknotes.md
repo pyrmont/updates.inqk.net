@@ -8,11 +8,13 @@ categories: ["weeknotes"]
 
 - Mum contracted COVID-19. Her case looks to be following a path similar to Dad's: relatively mild symptoms that ease after a few days. I'm really relieved both had already been double boosted at the time they caught it.
 
-- John and I attended a pre-enrolment interview at his preschool on Monday. John was given a handful of tasks to check his cognitive ability and I was quizzed on why we'd selected the preschool. A day later his enrolment was successfully accepted. He's due to start at the beginning of June.
+- John and I attended a pre-enrolment interview at his preschool on Monday. John was given a handful of tasks to check his cognitive ability and I was quizzed on why we'd selected the preschool. A day later his enrolment was accepted. He's due to start at the beginning of June.
 
-- I went into work for the annual physical on Wednesday. I won't know all of the results for a while but I was surprised to be told my weight is still 72 kg. Before we'd moved, I'd been diligently weighing myself every night but the scales were in one of the very last boxes to be unpacked and with my frankly crappy diet at the moment I'd just assumed I must have put on a bit of weight. Perhaps I have but it's been offset by a decrease in muscle mass.
+- I went into work for the annual physical on Wednesday. I won't know all of the results for a while but I was surprised to be told my weight is still 72 kg. Before we'd moved, I'd been diligently weighing myself every night but the scales were in one of the very last boxes to be unpacked and with my frankly crappy diet at the moment I'd just assumed I must have put on a bit of weight. Perhaps I have and it's been offset by a decrease in muscle mass.
 
-- I guess it'd felt like too long since I last gave Apple any money because I bought both a third HomePod Mini and an AirTag. The HomePod Mini is for Emma and John's room. I'd like to pretend it's for the [intercom feature](https://support.apple.com/en-us/HT206149) but really it's so the kids can listen to music while they're playing in their bedroom. Couldn't they just do that with the iPads?
+- Yes, that does mean we've _finally_ finished unpacking and getting rid of the rubbish we'd brought with us. That part was especially painful: ¥25,000 worth of pain as it turns out. I'm certain that part could have been done for less but I paid for the convenience. A man came around on Sunday afternoon and within 20 minutes it was gone.
+
+- I guess it'd felt like too long since I last gave Apple any money because I bought both a third HomePod Mini and an AirTag. The HomePod Mini is for Emma and John's room. I'd like to pretend it's for the [intercom feature](https://support.apple.com/en-us/HT206149) but really it's so the kids can listen to music while they're playing in there. 'Couldn't they just do that with the iPads?' I hear someone (my conscience?) ask. Well, technically yes.
 
 - The AirTag was more of an experiment. Almost immediately I regretted it. The idea was to use it as a tracker on Emma's backpack that Eri and I could view in the Find My app. I should have researched it more thoroughly before the purchase because it can't be used that way. An AirTag will only appear in the Find My app of the user to whom it is registered and not, as I'd hoped, anyone in that user's family.
 
@@ -20,6 +22,6 @@ categories: ["weeknotes"]
 
 - I do finally appear to be back in a rhythm with _Star Trek: Discovery_ and will most likely wrap up this season in the next week or so. While there's a lot I like about it, it remains an incredibly frustrating watch.
 
-- It feels like a while since I've linked to a good video essay and that's partly due to the fact that most of the essayists I follow on YouTube have been pretty quiet over the past couple of months. A result of burnout after so many months of COVID? Not sure. I did come across ['James Acaster - Unreliable'](https://www.youtube.com/watch?v=eMLvjZACr8M) and enjoyed all 46 minutes of it.
+- It feels like a while since I've linked to a good video essay and that's partly due to the fact that most of the essayists I follow on YouTube have been pretty quiet over the past couple of months. A result of burnout after so many months of COVID? Not sure. I did come across ['James Acaster - Unreliable'](https://www.youtube.com/watch?v=eMLvjZACr8M) and consider all 46 minutes of it a decent watch for Acaster fans.
 
 - I'm not sure my musical recommendations over the past few weeks have had an adequate level of wankery so here's Pasquale Grasso playing a jazz guitar solo for the 50-minute runtime of his 2020 album, _Solo Masterpieces_ ([Apple Music](https://music.apple.com/us/album/solo-masterpieces/1499321924)). I'm making the chef's kiss gesture.
