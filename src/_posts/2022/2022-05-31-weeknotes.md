@@ -6,7 +6,7 @@ categories: ["weeknotes"]
 
 - Should I be paying more attention to what's going on in Ukraine? The latest news doesn't sound especially good for the Ukrainians ([ABC News](https://www.abc.net.au/news/2022-05-29/russia-pummels-eastern-towns-in-bid-to-encircle-ukraine-forces/101108152)). While they repelled the initial invasion, it seems increasingly difficult to believe they'll be able to completely push the Russians out of the eastern parts of the country. How does this end? Is it worth giving up land for peace?
 
-- That perhaps sounds like I've been following the news of the war closely but confess I started this post like that because I felt ashamed I haven't actually been paying attention. I've seen small updates crossing my inbox and Twitter timeline but I haven't dug into any of the thinkpieces out there. Well, OK, that's not entirely true. Driven at least partly by a desire to have a link to end this paragraph, I did read Robert E. Kelly's [recent piece](https://www.19fortyfive.com/2022/05/why-giving-arms-to-ukraine-is-not-pro-war/).
+- That perhaps sounds like I've been following the news of the war closely but I confess I started this post like that because I felt ashamed I haven't actually been paying attention. I've seen small updates crossing my inbox and Twitter timeline but I haven't dug into any of the thinkpieces out there. Well, OK, that's not entirely true. Driven at least partly by a desire to have a link to end this paragraph, I did read Robert E. Kelly's [recent piece](https://www.19fortyfive.com/2022/05/why-giving-arms-to-ukraine-is-not-pro-war/).
 
 - Yes, _that_ Robert E. Kelly ([YouTube](https://youtu.be/Mh4f9AYRCZY)).
 
