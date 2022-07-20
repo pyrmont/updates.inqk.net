@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - _[This paragraph contains spoilers for the end of _Star Trek: Strange New Worlds_.]_ I finally caught up on the remaining episodes of _Star Trek: Strange New Worlds_ that I had left over for this season. I remain very disappointed about the death of Hemmer in the second last episode. I was really enjoyed the vibe of the entire ensemble of this crew and feel like there's so much they could have explored. I'm still very positive overall on the show; this is easily the best Star Trek show since DS9.
 
-- I linked to the 'Table Tennis' playlist above and it's where I had occasion to hear Lit's 'My Own Worst Enemy' ([Apple Music](https://music.apple.com/us/album/my-own-worst-enemy/258611802?i=258611995) for the first time in quite possibly decades. Feels incredibly 90s.
+- I linked to the 'Table Tennis' playlist above and it's where I had occasion to hear Lit's 'My Own Worst Enemy' ([Apple Music](https://music.apple.com/us/album/my-own-worst-enemy/258611802?i=258611995)) for the first time in quite possibly decades. Feels incredibly 90s.
