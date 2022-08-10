@@ -1,0 +1,19 @@
+---
+date: 2022-08-09 23:25:00 +0900
+title: "Weeknotes #134"
+categories: ["weeknotes"]
+---
+
+- If you're confused as to when you saw this come up on your timeline and the date above, it's an incredibly late post. I have thought previously about not backdating these updates but I continue to do so mainly because the period they cover remains Monday to Sunday. Have I ever said that somewhere before? Perhaps not. In any event, that is the idea: Monday to Sunday. (As I write this it's Wednesday afternoon.)
+
+- Unrelenting heat has continued to beat down on Japan and it's made it such that we continue to spend most weekends almost entirely indoors. I'm not especially proud of that approach but when it's 38 degrees outside and somehow still over 50% humidity, it's a trade I'll take.
+
+- Emma and John's colds have basically gone away and Rowan sounds a little less congested. Out of an abundance of caution, Eri did skip taking Emma over to the (sort of) nearby ice skating rink for her second visit there.
+
+- I started watching a [series of YouTube video essays]([YouTube](https://www.youtube.com/watch?v=lIGAcW86ZJ0&list=PLGciYgiR4atEUey1J37g4Bjy7rI2wzPi3)) by CinemaTyler on _Apocalypse Now_ and that then of course got me all all excited to see _Apocalypse Now_ again. I feel like I must have seen it twice. We read _Heart of Darkness_ for English class in high school in 1999 and I believe I watched it that year. And then I'm pretty sure I also went and saw _Redux_ when it was released in 2001. In any event, it's been a long time, and I remembered very little. The most overwhelming impression I had watching it again is how beautiful it is. Perhaps this is the video essays talking but what cinematographer Vittorio Storaro achieved is truly remarkable and perhaps is more noticeable because of the improvement in quality over what I would have seen in 1999 or 2001. The other thing that must be mentioned is the scale of it all. I kept reminding myself that nothing on screen was computer generated and still not quite believing it. There's an 8-second shot at the beginning where Martin Sheen looks out onto the streets of Saigon and I couldn't work out how they'd managed to get the Vietnamese Government to let them dress up the old [Chamber of Commerce](https://virtual-saigon.net/Photos/Images?ID=30896) building to look like it did when it was being used for the Senate of the Republic of Vietnam in the 1960s but no, they just built their own in the Philippines. You understand why people consider Coppola a madman.
+
+- _Diablo Immortal_ continues to suck up a not insignificant amount of my time. The exhortations to purchase in-app content do wear on you and the crafting system is far too complex for my liking but the actual 'run around while mashing buttons' mechanic is as addictive as it ever was. Once I finish the 'story', though, I'm not sure I'll be interested in playing more. I will say that the experience with the Xbox controller is excellent. I wish for the millionth time that Rocket League existed on iOS (and not the pale imitation that is [_Sideswipe_](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048)).
+
+- I really liked Scott Alexander's ['Forer Statements as Updates and Affirmations'](https://astralcodexten.substack.com/p/forer-statements-as-updates-and-affirmations). The Forer Effect ([Wikipedia](https://en.wikipedia.org/wiki/Barnum_effect)) is the effect of feeling like vague personality descriptions, such as those used in astrology, are tailored to you.
+
+- Last week my musical selection was an acoustic album from Richard Ashcroft. The playlist via which I discovered that album existed, 'Rock Hits Unplugged' ([Apple Music](https://music.apple.com/us/playlist/rock-hits-unplugged/pl.5cd369ebc40b49d883b643c67d1e493d)), is pretty great if you're into acoustic versions as much as I am.
