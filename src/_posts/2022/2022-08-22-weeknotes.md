@@ -4,8 +4,6 @@ title: "Weeknotes #136"
 categories: ["weeknotes"]
 ---
 
-# Weeknotes-136
-
 - I was disgusted at the revelations that the former Australian Prime Minister, Scott Morrison, had secretly appointed himself to five ministries in the final years of his government ([ABC](https://www.abc.net.au/news/2022-08-16/albanese-reveal-morrison-appointed-to-five-additional-ministries/101336546)). This is the kind of thing one might expect from 'managed democracies'. I seem to be in a minority on this point but I think the Governor-General should resign as well. I understand the argument that he didn't have the authority to refuse but he presumably could have quit.
 
 - Rowan's citizenship certificate came. It's a different design to the ones Emma and John received.
