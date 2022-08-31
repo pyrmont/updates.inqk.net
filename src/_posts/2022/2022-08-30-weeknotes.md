@@ -6,7 +6,7 @@ categories: ["weeknotes"]
 
 - Mum is coming to visit us again. The documents she needed to submit to receive a visa were a little different this time around but otherwise everything has gone smoothly. She's scheduled to arrive next weekend which is quite exciting.
 
-- I mixed up the date of an appointment I had at the hospital and so just had to go down and wait to see the doctor. Fortunately, that didn't take too long. I must do a better job of ensuring I write these things done in my calendar correctly.
+- I mixed up the date of an appointment I had at the hospital and so had to go down and just wait to see the doctor. Fortunately, that didn't take too long. I must do a better job of ensuring I write these things done in my calendar correctly.
 
 - I mentioned briefly in [Weeknotes #134]() that Emma had started ice skating. That's continued and seems like it will be her 'sport'. When I was growing up, Mum and Dad insisted that all the children have at least one physical activity in which they participated (mine was basketball). I've always thought that was a good idea and something to replicate with the kids.
 
