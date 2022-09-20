@@ -4,7 +4,7 @@ title: "Weeknotes #140"
 categories: ["weeknotes"]
 ---
 
-- I turned 40. Every time I reflect on it, I feel a sense of disconnection from my own body. I checked the journal I kept a decade ago to whether the same thing had happened when I turned 30 but it doesn't look like it.
+- I turned 40. Every time I reflect on it, I feel a sense of disconnection from my own body. I checked the journal I kept a decade ago to see whether the same thing had happened when I turned 30 but it doesn't look like it did.
 
 - It was nice that Mum was able to be here for the 'party' (the cutting of a chocolate cake). Speaking of whom, she returned to Australia on Saturday night. If everything goes according to plan, we'll next see her in Sydney at Christmas.
 
