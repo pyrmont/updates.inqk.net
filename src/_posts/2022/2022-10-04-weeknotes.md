@@ -1,0 +1,23 @@
+---
+date: 2022-10-04 17:48:00 +0900
+title: "Weeknotes #142"
+categories: ["weeknotes"]
+---
+
+- At the risk of sounding hyperbolic, the world edged closer to nuclear war as Vladimir Putin announced the annexation of four Ukrainian regions ([ABC](https://www.abc.net.au/news/2022-09-30/putin-announces-annexation-of-four-ukranian-regions-into-russia/101493000)). If the Ukrainian counter-offensive continues to go well and if Putin is serious about using 'all means' to defend what he now considers Russian territory, it feels like this could end up in a very bad place.
+
+- The iPhone 14 Pro Max arrived. I'm very ambivalent about it so far. The always-on display hasn't bothered me like it did some reviewers but I also haven't been as fascinated by the Dynamic Island as others were. I very much agree with [Nilay Patel's review](https://www.theverge.com/23351948/apple-iphone-14-pro-review) at the Verge. He called the iPhone 13 the epitome of the previous era of the iPhone and the 14 the first step into the next.
+
+- The process of moving to the new phone mostly went smoothly. The major caveat was with respect to two Japanese banking apps I use to authenticate my identity. Moving to a new device basically seems to break these apps and, despite my best efforts, it looks like I might need to go through the entire application process from scratch. My fingers are crossed it's not quite that bad.
+
+- Work has announced that it will run a fourth round of vaccinations in mid-November. I haven't received a vaccination coupon yet but have reserved a spot nevertheless. This booster is the one that is partially targeted at the Omicron variants.
+
+- DALL-E 2 opened up to the general public and I gave it a spin. The first AI-generated art I made used the prompt 'A young girl and her two younger brothers running across a hill'.
+
+- I very much enjoyed reading [this translation](https://gaodawei.wordpress.com/2022/06/01/wang-jisi-has-the-u-s-really-declined-chinese-need-to-have-a-clear-understanding-about-this/) of an interview with Wang Jisi. Professor Wang is the Director of the Institute for International Strategic Studies at Peking University. The interview is from May 2022 and offers a fascinating perspective on how a senior scholar in China thinks about the West and communicates to a domestic audience. I found the comments on the U.S. losing 'face' particularly interesting. That's a concept I would not think of applying to Western countries.
+
+- _Law & Order_ returned surprisingly. Not surprising that it returned at all all; rather a surprise that it returned now when it only ended in May. At this stage, I don't know if this means the show will be back to a roughly 20-episode season or whether it'll stick to the 10 episodes that made up season 21. So far, things haven't been promising. While I think the police investigation half has largely returned to form, the legal prosecution half needs a complete reset.
+
+- I enjoyed [this post](https://www.fullstackeconomics.com/p/im-a-professional-dad-who-leaned) by Timothy B. Lee about how 'unequal' marriages are necessary if we want an equal society (that is, a society in which married women can pursue the same opportunities outside the home as married men). When we first had children I was very angry at how impossible it seemed to have an equal marriage that didn't involve me making these kinds of sacrifices. Why get so angry? I had this sense that other married men I observed weren't making these sacrifices and the reason they weren't was because their wives were. Worse, beyond the rote platitudes of their wives being 'incredible' these men never acknowledged having had a conversation like the one Lee writes about where he and his wife agreed that he would do more at home so that she could pursue her career. This left me feeling gaslit, constantly asking why I couldn't pull my weight at home while also having time to pursue things like developing an iOS app on the side.
+
+- I quite enjoyed the most recent episode of [Hit Parade](https://slate.com/podcasts/hit-parade/2022/09/pop-chart-flops-can-turn-into-latter-day-classics) about 'legacy hits'. Those are the hits that build over time and that we now associate with certain artists even though they weren't their most popular songs at the time. The episode is filled with examples that I found surprising, none more so than discovering the Isley Brothers' smash 'Shout' ([Apple Music](https://music.apple.com/us/album/shout-pts-1-2/198017385?i=198022766)) wasn't, well, that much of a smash after all. It seems beyond belief that it topped out on the Hot 100 at 47 back in 1959 but there you go.
