@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - I booked my appointment for the latest COVID-19 vaccine. After five minutes of research, I decided to get the Pfizer bivalent vaccine that partially targets the Omicron BA.4 and BA.5 sub-variants. I had intended to get the booster through  work but they only have the vaccine targeted at the Omicron BA.1 sub-variant. Is that meaningfully different? Probably not but an appointment locally also means I don't need to travel all the way into work. Although I booked the appointment this week, the actual date is in November. Again, not sure if this makes a difference but why not try to maximise the strength of my immune system for when we're in Australia?
 
-- Speaking of variants, the _Washington Post_ had an [article about what's out there](https://www.washingtonpost.com/health/2022/10/18/covid-variants-xbb-bq1-bq11/) if you, like me, have fallen out of news with how things are going.
+- Speaking of variants, the _Washington Post_ had an [article about what's out there](https://www.washingtonpost.com/health/2022/10/18/covid-variants-xbb-bq1-bq11/) if you, like me, have fallen out of touch with the news of how things are going.
 
 - Eri and I were compiling a list of things to do on the weekend and I had a mental breakthrough that it would actually be kind of great if you could easily create headings in a todo list app. That doesn't seem that momentous now that I'm reading it back but it enflamed the last vestiges of enthusiasm that my previous forays into SwiftUI hadn't managed to completely extinguish. I did move the project over to Xcode which immediately made me wish I had a new MacBook. Supposedly an M2 Mac Mini is coming in the next few months, so perhaps I upgrade to that?
 
