@@ -1,0 +1,21 @@
+---
+date: 2022-11-02 06:28:00 +0900
+title: "Weeknotes #146"
+categories: ["weeknotes"]
+---
+
+- The conceit of these entries is that they cover the period from the previous Monday to Sunday. However, given that it's now Wednesday morning as I write this (the post is backdated to make me look slightly less tardy), I'll include mention of this most recent Monday given that it was Hallowe'en. (Yes, I spell it 'Hallowe'en' because I am that guy.)
+
+- Monday was Hallowe'en! Despite neither Eri or I coming from countries with a real tradition of the event, we've embraced it for the kids. Is this because of COVID-19 or despite it? I'm not sure. Maybe it's just that it gives the kids an excuse to dress up in costume and what child doesn't like doing that? For the past two years, Emma and John have worn the same respective costume: Emma had an Elsa-reminiscent snow queen costume and John had a Jack-Sparrow-reminiscent pirate costume. Amortising costumes across two Hallowe'ens felt like enough even for me and so this year I bought Emma a unicorn-…er-I-don't-know-you-tell-me princess costume and John a Harry-Potter-reminiscent wizard costume. Both were successfully received and we had a fun evening on Monday putting them on and doing trick-or-treat on our own front door.
+
+- I say that amortising the costume across two years was enough even for me but the truth is that I largely bought the new costume because the parents who all drop their children off at John's bus stop all agreed a couple of weeks ago to arrive slightly early, put on a costume and exchange lollies. That event went well with everyone telling John he looked the spitting image of Harry Potter (with his reddish hair, he'd actually be a much better Ron but it was still a nice thing to say).
+
+- I started using Core Data for the first time in the todo list app. My previous app, [Flext](https://apps.inqk.net/flext), puts everything in UserDefaults which makes things a hell of a lot easier architecturally but largely forecloses things like synced data or shared data. I don't know if the todo app will ever support that but since these experiments are as much about learning new things as anything else, why not give it a go, I thought. Ouch. It is not easy to find blog posts on how best to integrate Core Data with SwiftUI; at least not once you get past the absolute basics. I'm very tempted to buy Donny Wals' [_Practical Core Data: A modern guide to the Core Data framework_](https://donnywals.gumroad.com/l/practical-core-data) but it's $35 (which is ¥5,200 at current exchange rates!) and doesn't appear especially targeted at development with SwiftUI.
+
+- I had _two_ completely friends who are from two different circles independently recommend that I watch _Andor_. Both said that if I found the initial episode a slog (which I did), I needed to just make it through the first three episodes and then things really take off.
+
+- So of course rather than do this (I promise, I'll do it! I'll do it!), I watched the first episode of _This England_. Lest you make the mistake Tom made, this is not 2006's _This is England_ (or one of its sequels). It's instead the [new docudrama](https://insidestory.org.au/boris-johnson-outside-in/) where Kenneth Branagh does his best impersonation of Johnson. I found it very strange. Rather than flow like a typical drama from scene to scene, it's instead an almost montage of moments as the first year of Johnson's prime ministership unfolds. The biggest revelation to me (I was never a close watcher of Johnson) was that he spent the early months of his time writing a biography of Shakespeare. I'm sure everyone who knew that already is not surprised but isn't that just completely bonkers?
+
+- _Law & Order_ went back to sucking. A few more episodes like this and I really think I might be out this time. I'm still continuing my rewatch (I'm on season 10 at the moment) and the gap in the quality of the writing is almost absurd.
+
+- I was messaging with a friend about Björk (yes, it's more Björk) and was whinging about her musical direction post-_Vespertine_ when I remembered that in addition to her first four albums, I also love _Selmasongs_ ([Apple Music](https://music.apple.com/us/album/selmasongs-music-from-the-motion-picture-dancer-in-the-dark/313221815)), her soundtrack album for the 2000 musical, _Dancer in the Dark_.
