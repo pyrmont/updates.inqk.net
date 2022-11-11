@@ -2,9 +2,10 @@
 .jekyll-metadata
 *.swp
 Gemfile.lock
-/tmp/
+/public/
 /src/.bundle
 /src/.sass-cache/
 /src/_site/
 /src/vendor/
-/src/_tweeter.yaml
+/src/_posteriser.yaml
+/tmp/
