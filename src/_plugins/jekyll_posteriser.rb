@@ -67,7 +67,7 @@ module Posteriser
         body = Hash.new
         body[:status] = content
 
-        request(body, oauth: { oauth_token: @oauth_token })
+        request(body)
       end
 
       private def encode(data)
@@ -121,7 +121,7 @@ module Posteriser
 
           req.body = encode(body) unless body.empty?
 
-          req["Authorization"] = "Bearer #{bearer_token}"
+          req["Authorization"] = "Bearer #{@bearer_token}"
           req["Connection"] = "close"
           req["Content-Length"] = req.body&.length || 0
           req["Content-Type"] = "application/x-www-form-urlencoded" unless body.empty?
