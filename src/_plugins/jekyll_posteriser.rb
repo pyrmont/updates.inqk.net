@@ -21,7 +21,7 @@ module Posteriser
         self
       end
 
-      def later?(comp)
+      def later_than?(comp)
         return true if comp.nil?
         DateTime.parse(self) > DateTime.parse(comp)
       end
@@ -42,9 +42,11 @@ module Posteriser
       end
     end
   end
+end
 
-  using Refinements
+using Posteriser::Refinements
 
+module Posteriser
   module Mastodon
     class API
       def initialize(config)
@@ -130,7 +132,6 @@ module Posteriser
     end
   end
 
-
   module Twitter
     class API
       def initialize(config)
@@ -188,10 +189,11 @@ module Posteriser
           .decode_entities
 
         links.each do |link|
-        if link =~ pattern[:tweet] && attachment.nil?
-          attachment = link
-        else
-          content.concat " ", link
+          if link =~ pattern[:tweet] && attachment.nil?
+            attachment = link
+          else
+            content.concat " ", link
+          end
         end
 
         [content, attachment]
@@ -259,7 +261,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
   fid = 1
 
   feed["items"].reverse.each do |item|
-    next unless item["date_published"].later? config[:latest]
+    next unless item["date_published"].later_than? config[:latest]
 
     sentinel_file = "_posteriser_#{fid}.pid"
     fid += 1
