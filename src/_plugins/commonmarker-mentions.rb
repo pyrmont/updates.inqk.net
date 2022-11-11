@@ -9,14 +9,18 @@ module CommonMarker
 
           before = node
 
-          while m = /@(\w\S*?):(\w\w*(?:[.]\w+))/.match(before.string_content) do
+          while m = /@(\w\S*?)([:@])(\w\w*(?:[.]\w+))/.match(before.string_content) do
+            domain = "https://" + m[3]
+            prefix = m[2] == "@" ? "@" : ""
+            username = m[1]
+
             before.string_content = m.pre_match
 
             mention_text = CommonMarker::Node.new(:text)
-            mention_text.string_content = "@#{m[1]}"
+            mention_text.string_content = "@#{username}"
 
             mention_link = CommonMarker::Node.new(:link)
-            mention_link.url = "https://#{m[2]}/#{m[1]}"
+            mention_link.url = "#{domain}/#{prefix}#{username}"
             mention_link.append_child mention_text
             before.insert_after mention_link
 
