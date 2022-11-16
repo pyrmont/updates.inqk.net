@@ -10,17 +10,21 @@
   <meta content="{{ site.description }}" name="description">
   <title>{{ site.title }}</title>
   {% elsif page.layout == 'post' -%}
+  {% if page.categories contains "weeknotes" -%}
+  {% assign description = site.weeknotes.description -%}
+  {% else -%}
+  {% assign description = page.excerpt | strip_html -%}
+  {% endif -%}
+  <meta content="{{ description }}" name="description">
   <title>{{ site.title }} - {{ page_title }}</title>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ site.title }} - {{ page_title }}">
-  {% if page.categories contains "weeknotes" -%}
-  <meta property="og:description" content="{{ site.weeknotes.description }}">
-  <meta content="{{ site.weeknotes.description }}" name="description">
-  {% else -%}
-  <meta property="og:description" content="{{ page.excerpt | strip_html }}">
-  <meta content="{{ page.excerpt | strip_html }}" name="description">
-  {% endif -%}
+  <meta property="og:description" content="{{ description }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
+  <meta name="twitter:title" content="{{ site.title }} - {{ page_title }}">
+  <meta name="twitter:description" content="{{ description }}">
   {% else -%}
   <title>{{ site.title }} - {{ page_title }}</title>
   {% endif -%}
