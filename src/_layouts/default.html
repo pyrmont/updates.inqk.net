@@ -5,18 +5,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta content="{{ site.author.name }}" name="author">
+  {% capture page_title %}{% if page.title == '' %}Update from {{ page.date | date: "%B %d, %Y at %H:%M %Z" }}{% else %}{{ page.title }}{% endif %}{% endcapture -%}
   {% if page.url == "/" -%}
   <meta content="{{ site.description }}" name="description">
   <title>{{ site.title }}</title>
-  {% elsif paginator -%}
-  <title>{{ site.title }} - Page {{ paginator.page }}</title>
+  {% elsif page.layout == 'post' -%}
+  <title>{{ site.title }} - {{ page_title }}</title>
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }} - {{ page_title }}">
+  {% if page.categories contains "weeknotes" -%}
+  <meta property="og:description" content="{{ site.weeknotes.description }}">
+  <meta content="{{ site.weeknotes.description }}" name="description">
   {% else -%}
-    {% if page.categories contains "weeknotes" -%}
-    <meta content="{{ site.weeknotes.description }}" name="description">
-    {% else -%}
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}">
   <meta content="{{ page.excerpt | strip_html }}" name="description">
-    {% endif -%}
-  <title>{{ site.title }}{% assign exist_or_not = page.title | size %}{% if exist_or_not < 1 %} - Status{% else %} - {{ page.title }}{% endif %}</title>
+  {% endif -%}
+  {% else -%}
+  <title>{{ site.title }} - {{ page_title }}</title>
   {% endif -%}
 	<link href="https://micro.blog/{{ site.microblog_username}}/favicon.png" rel="shortcut icon" type="image/x-icon" />
   <link href="/assets/css/style.css" rel="stylesheet">
