@@ -1,6 +1,6 @@
 ---
 date: 2022-11-15 23:28:00 +0900
-title: "Weeknotes 148"
+title: "Weeknotes #148"
 categories: ["weeknotes"]
 ---
 
