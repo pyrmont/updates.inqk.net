@@ -9,6 +9,14 @@
   {% if page.url == "/" -%}
   <meta content="{{ site.description }}" name="description">
   <title>{{ site.title }}</title>
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.tagline }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.tagline }}">
   {% elsif page.layout == 'post' -%}
   {% if page.categories contains "weeknotes" -%}
   {% assign description = site.weeknotes.description -%}
