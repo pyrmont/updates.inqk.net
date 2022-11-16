@@ -251,35 +251,37 @@ module Posteriser
   end
 end
 
-Jekyll::Hooks.register :site, :post_write do |site|
-  config_file = "_posteriser.yaml"
-  config = YAML.load_file(config_file, symbolize_names: true)
-  twitter = Posteriser::Twitter::API.new config[:twitter]
-  mastodon = Posteriser::Mastodon::API.new config[:mastodon]
+unless Jekyll.env == "posteriser_off"
+  Jekyll::Hooks.register :site, :post_write do |site|
+    config_file = "_posteriser.yaml"
+    config = YAML.load_file(config_file, symbolize_names: true)
+    twitter = Posteriser::Twitter::API.new config[:twitter]
+    mastodon = Posteriser::Mastodon::API.new config[:mastodon]
 
-  feed = JSON.load_file "#{site.config["destination"]}/feed.json"
-  fid = 1
+    feed = JSON.load_file "#{site.config["destination"]}/feed.json"
+    fid = 1
 
-  feed["items"].reverse.each do |item|
-    next unless item["date_published"].later_than? config[:latest]
+    feed["items"].reverse.each do |item|
+      next unless item["date_published"].later_than? config[:latest]
 
-    sentinel_file = "_posteriser_#{fid}.pid"
-    fid += 1
+      sentinel_file = "_posteriser_#{fid}.pid"
+      fid += 1
 
-    pid = fork do
-      sleep(fid * config[:sleep])
-      exit unless File.file?(sentinel_file) && Process.pid.to_s == File.read(sentinel_file)
+      pid = fork do
+        sleep(fid * config[:sleep])
+        exit unless File.file?(sentinel_file) && Process.pid.to_s == File.read(sentinel_file)
 
-      twitter.post item
-      mastodon.post item
+        twitter.post item
+        mastodon.post item
 
-      config[:latest] = item["date_published"]
-      File.write config_file, YAML.dump(config)
+        config[:latest] = item["date_published"]
+        File.write config_file, YAML.dump(config)
 
-      File.unlink sentinel_file
+        File.unlink sentinel_file
+      end
+
+      Process.detach pid
+      File.write sentinel_file, pid.to_s
     end
-
-    Process.detach pid
-    File.write sentinel_file, pid.to_s
   end
 end

@@ -5,28 +5,29 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta content="{{ site.author.name }}" name="author">
-  <meta content="{{ site.description }}" name="description">
   {% if page.url == "/" -%}
+  <meta content="{{ site.description }}" name="description">
   <title>{{ site.title }}</title>
   {% elsif paginator -%}
   <title>{{ site.title }} - Page {{ paginator.page }}</title>
   {% else -%}
+    {% if page.categories contains "weeknotes" -%}
+    <meta content="{{ site.weeknotes.description }}" name="description">
+    {% else -%}
+  <meta content="{{ page.excerpt | strip_html }}" name="description">
+    {% endif -%}
   <title>{{ site.title }}{% assign exist_or_not = page.title | size %}{% if exist_or_not < 1 %} - Status{% else %} - {{ page.title }}{% endif %}</title>
   {% endif -%}
 	<link href="https://micro.blog/{{ site.microblog_username}}/favicon.png" rel="shortcut icon" type="image/x-icon" />
   <link href="/assets/css/style.css" rel="stylesheet">
   <link href="/assets/css/highlight.css"rel="stylesheet">
-  <link href="/feed.json" title="{{ site.title }}" type="application/json" rel="alternate">
-  <link href="/feed.xml" title="{{ site.title }}" type="application/rss+xml" rel="alternate">
+  <link href="/feed.json" title="{{ site.title }} - JSON Feed" type="application/json" rel="alternate">
+  <link href="/feed.xml" title="{{ site.title }} - RSS Feed" type="application/rss+xml" rel="alternate">
 
-  <link rel="me" href="https://micro.blog/{{ site.microblog_username }}" />
-  <link rel="me" href="https://twitter.com/{{ site.twitter_username }}" />
-  <link rel="me" href="https://github.com/{{ site.github_username }}" />
-  <link rel="pgpkey" href="/key.txt" />
-
-  <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
-  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
-  <link rel="micropub" href="https://inqk-indiekit.herokuapp.com/micropub"/>
+  <link rel="me" href="{{ site.links.github }}" />
+  <link rel="me" href="{{ site.links.mastodon }}" />
+  <link rel="me" href="{{ site.links.twitter }}" />
+  <link rel="pgpkey" href="{{ site.links.pgpkey }}" />
 </head>
 <body>
   {% include navigation.html %}

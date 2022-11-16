@@ -36,9 +36,14 @@ author:
 
 bio: "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes."
 
-microblog_username: "pyrmont"
-twitter_username: "pyrmont"
-github_username: "pyrmont"
+weeknotes:
+  description: "This is one of Michael's weekly update posts. Do you really want to read it?"
+
+links:
+  mastodon: "https://social.lol/@pyrmont"
+  twitter: "https://twitter.com/pyrmont"
+  github: "https://github.com/pyrmont"
+  pgpkey: "https://inqk.net/7EB218A48DF8B572.asc"
 
 podcast: false
 
