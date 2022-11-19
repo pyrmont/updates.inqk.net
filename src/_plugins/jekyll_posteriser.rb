@@ -33,7 +33,7 @@ module Posteriser
       def unmention(link_pattern, local_domain, formatter)
         self.gsub(link_pattern) do |m|
           mention_link = "#{m[1]}#{m[2]}"
-          if domain.nil? || m[1] == local_domain
+          if local_domain.nil? || m[1] == local_domain
             formatter.call(m)
           else
             mention_link
