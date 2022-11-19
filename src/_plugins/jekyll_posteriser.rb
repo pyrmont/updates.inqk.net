@@ -30,13 +30,13 @@ module Posteriser
         self.gsub(/<\/?[^>]*>/, "")
       end
 
-      def unmention(link_pattern, local_domain, formatter)
+      def unmention(local_domain, formatter)
+        pattern =/<a [^>]*?href="https?:\/\/([^\/]+)([^"]+)"[^>]*>(@[^<]+)<\/a>/i
         self.gsub(link_pattern) do |m|
-          mention_link = "#{m[1]}#{m[2]}"
           if local_domain.nil? || m[1] == local_domain
             formatter.call(m)
           else
-            mention_link
+            "#{m[1]}#{m[2]}"
           end
         end
       end
@@ -85,12 +85,11 @@ module Posteriser
       end
 
       private def format(input)
-        pattern =/<a [^>]*?href="https?:\/\/([^\/]+)(\/[^"]+)"[^>]*>(@[^<]+)<\/a>/i
-        formatter = lambda { |m| "#{m[3]}@#{m[1]}" }
         links = []
 
+        formatter = lambda { |m| "#{m[3]}@#{m[1]}" }
         content = input
-          .unmention(pattern, nil, formatter)
+          .unmention(nil, formatter)
           .extract_links(links)
           .strip_html
           .decode_entities
@@ -174,22 +173,19 @@ module Posteriser
       end
 
       private def format(input)
-        pattern = {
-          link: /<a [^>]*?href="https?:\/\/([^"]*)"[^>]*>(@[^<]+)<\/a>/i,
-          tweet: /^https:\/\/twitter\.com\/\w+\/status\/\d+/i
-        }
-        formatter = lambda { |m| m[3] }
         links = []
-        attachment = nil
 
+        formatter = lambda { |m| m[3] }
         content = input
-          .unmention(pattern[:link], "twitter.com", formatter)
+          .unmention("twitter.com", formatter)
           .extract_links(links)
           .strip_html
           .decode_entities
 
+        tweet_link = /^https:\/\/twitter\.com\/\w+\/status\/\d+/i
+        attachment = nil
         links.each do |link|
-          if link =~ pattern[:tweet] && attachment.nil?
+          if link =~ tweet_link && attachment.nil?
             attachment = link
           else
             content.concat " ", link
