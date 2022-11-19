@@ -32,7 +32,7 @@ module Posteriser
 
       def unmention(local_domain, formatter)
         pattern =/<a [^>]*?href="https?:\/\/([^\/]+)([^"]+)"[^>]*>(@[^<]+)<\/a>/i
-        self.gsub(link_pattern) do |m|
+        self.gsub(pattern) do |m|
           if local_domain.nil? || m[1] == local_domain
             formatter.call(m)
           else
