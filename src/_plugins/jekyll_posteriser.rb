@@ -268,7 +268,8 @@ unless Jekyll.env == "posteriser_off"
         sleep(fid * config[:sleep])
         exit unless File.file?(sentinel_file) && Process.pid.to_s == File.read(sentinel_file)
 
-        twitter.post item
+        # Disable Twitter cross-posting
+        # twitter.post item
         mastodon.post item
 
         config[:latest] = item["date_published"]
