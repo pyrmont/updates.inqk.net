@@ -1,5 +1,5 @@
 ---
-date: 2022-11-23 06:38:00 +0900
+date: 2022-11-22 23:38:00 +0900
 title: "Weeknotes #149"
 categories: ["weeknotes"]
 ---
