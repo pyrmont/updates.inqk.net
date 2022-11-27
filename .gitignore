@@ -1,7 +1,6 @@
 .jekyll-cache
 .jekyll-metadata
 *.swp
-Gemfile.lock
 /public/
 /src/.bundle
 /src/.sass-cache/
