@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll"
 
 group :jekyll_plugins do
-  gem "jekyll-commonmark", github: "jekyll/jekyll-commonmark", ref: "37e262a5635e74f2a2a4b1233f91cf49ac29ee7f"
+  gem "jekyll-commonmark"
   gem "jekyll-paginate"
   gem "commonmarker-pluggable", github: "pyrmont/commonmarker-pluggable", branch: "master"
 end
