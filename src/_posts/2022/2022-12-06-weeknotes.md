@@ -1,5 +1,5 @@
 ---
-date: 2022-12-07 23:05:00 +0900
+date: 2022-12-06 23:05:00 +0900
 title: "Weeknotes #151"
 categories: ["weeknotes"]
 ---
