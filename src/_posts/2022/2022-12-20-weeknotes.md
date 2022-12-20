@@ -22,4 +22,4 @@ categories: ["weeknotes"]
 
 - I'm always amazed when I'm reminded that Radiohead's 'Talk Show Host' was a B-side to 'Street Spirit (Fade Out)' ([Apple Music](https://music.apple.com/us/album/talk-show-host/1112425223?i=1112425458)).
 
-- This will be the last update I write in Japan for 2022. I started writing these weeknotes in 2020 and while I haven't missed a week yet, I also haven't written any while travelling. My aim is to post while I'm in Australia but we'll see how that goes. If I don't end up writing again before the end of the year, I will us all the best in 2023!
+- This will be the last update I write in Japan for 2022. I started writing these weeknotes in 2020 and while I haven't missed a week yet, I also haven't written any while travelling. My aim is to post while I'm in Australia but we'll see how that goes. If I don't end up writing again before the end of the year, I wish us all the best in 2023!
