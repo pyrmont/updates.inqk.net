@@ -2,4 +2,4 @@
 date: 2023-01-14 10:27:00 +0900
 ---
 
-I'm not sure if this is intentional or not but apple.co.jp is no longer redirecting to apple.com/jp.
+I'm not sure if this is intentional or not but [apple.co.jp](https://apple.co.jp) is no longer redirecting to [apple.com/jp](https://apple.com/jp).
