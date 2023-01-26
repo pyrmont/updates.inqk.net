@@ -1,18 +1,28 @@
-require "base64"
+# frozen_string_literal: true
+
 require "cgi"
 require "date"
 require "json"
-require "net/http"
-require "openssl"
-require "securerandom"
 require "uri"
 require "yaml"
 
 module Posteriser
   module Refinements
+    refine Enumerable do
+      def encode
+        self.map do |k, v|
+          URI.encode_www_form_component(k).gsub("+", "%20") + "=" + URI.encode_www_form_component(v).gsub("+", "%20")
+        end.join("&")
+      end
+    end
+
     refine String do
       def decode_entities
         CGI.unescapeHTML(self)
+      end
+
+      def encode
+        URI.encode_www_form_component(self).gsub("+", "%20")
       end
 
       def extract_links(links)
@@ -45,239 +55,41 @@ module Posteriser
   end
 end
 
-using Posteriser::Refinements
-
 module Posteriser
-  module Mastodon
-    class API
-      def initialize(config)
-        @endpoint = config[:endpoint]
-        @bearer_token = config[:bearer_token]
+  def self.services(config)
+    return [] unless defined? Posteriser::Services
+    @services ||=
+      Posteriser::Services.constants.reduce(Array.new) do |acc, c|
+        obj = Posteriser::Services.const_get(c)
+        next acc unless obj.is_a?(Class)
+        name = c.to_s.downcase.to_sym
+        service_config = config[:services][name]
+        next acc if service_config.nil? || service_config[:disabled]
+        acc.push obj.new(service_config)
       end
-
-      def post(input)
-        @method = "POST"
-
-        content =
-          if input["title"].empty?
-            format(input["content_html"])
-          else
-            input["title"] + " " + input["url"]
-          end
-
-        body = Hash.new
-        body[:status] = content
-
-        request(body)
-      end
-
-      private def encode(data)
-        if data.is_a? Enumerable
-          data.map { |k, v|
-            "#{encode_component(k)}=#{encode_component(v)}"
-          }.join("&")
-        else
-          encode_component(data)
-        end
-      end
-
-      private def encode_component(component)
-        URI.encode_www_form_component(component).gsub("+", "%20")
-      end
-
-      private def format(input)
-        links = []
-
-        formatter = lambda { |m| "#{m[3]}@#{m[1]}" }
-        content = input
-          .unmention(nil, formatter)
-          .extract_links(links)
-          .strip_html
-          .decode_entities
-
-        links.each do |link|
-          content.concat " ", link
-        end
-
-        content
-      end
-
-      private def request(body, query: {})
-        api_uri =
-          if query.empty?
-            URI(@endpoint)
-          else
-            URI(@endpoint + "?" + query)
-          end
-
-        res = Net::HTTP.start(api_uri.host, api_uri.port, { use_ssl: true }) do |https|
-          req =
-            case @method
-            when "GET"
-              Net::HTTP::Get.new api_uri
-            when "POST"
-              Net::HTTP::Post.new api_uri
-            end
-
-          req.body = encode(body) unless body.empty?
-
-          req["Authorization"] = "Bearer #{@bearer_token}"
-          req["Connection"] = "close"
-          req["Content-Length"] = req.body&.length || 0
-          req["Content-Type"] = "application/x-www-form-urlencoded" unless body.empty?
-
-          https.request req
-        end
-      end
-    end
-  end
-
-  module Twitter
-    class API
-      def initialize(config)
-        @endpoint = config[:endpoint]
-        @consumer_key = config[:consumer_key]
-        @consumer_secret = config[:consumer_secret]
-        @oauth_token = config[:oauth_token]
-        @oauth_secret = config[:oauth_secret]
-      end
-
-      def post(input)
-        @method = "POST"
-
-        content, attachment =
-          if input["title"].empty?
-            format(input["content_html"])
-          else
-            [input["title"] + " " + input["url"], nil]
-          end
-
-        body = Hash.new
-        body[:status] = content
-        body[:attachment_url] = attachment unless attachment.nil?
-
-        request(body, oauth: { oauth_token: @oauth_token })
-      end
-
-      private def encode(data)
-        if data.is_a? Enumerable
-          data.map { |k, v|
-            "#{encode_component(k)}=#{encode_component(v)}"
-          }.join("&")
-        else
-          encode_component(data)
-        end
-      end
-
-      private def encode_component(component)
-        URI.encode_www_form_component(component).gsub("+", "%20")
-      end
-
-      private def format(input)
-        links = []
-
-        formatter = lambda { |m| m[3] }
-        content = input
-          .unmention("twitter.com", formatter)
-          .extract_links(links)
-          .strip_html
-          .decode_entities
-
-        tweet_link = /^https:\/\/twitter\.com\/\w+\/status\/\d+/i
-        attachment = nil
-        links.each do |link|
-          if link =~ tweet_link && attachment.nil?
-            attachment = link
-          else
-            content.concat " ", link
-          end
-        end
-
-        [content, attachment]
-      end
-
-      private def request(body, oauth: nil, query: {})
-        unless oauth.nil?
-          oauth[:oauth_consumer_key] = @consumer_key
-          oauth[:oauth_nonce] = SecureRandom.urlsafe_base64(32)
-          oauth[:oauth_signature_method] = "HMAC-SHA1"
-          oauth[:oauth_timestamp] = Time.now.to_i
-          oauth[:oauth_version] = "1.0"
-          oauth[:oauth_signature] = sign(oauth.merge(body, query).sort)
-        end
-
-        api_uri =
-          if query.empty?
-            URI(@endpoint)
-          else
-            URI(@endpoint + "?" + query)
-          end
-
-        res = Net::HTTP.start(api_uri.host, api_uri.port, { use_ssl: true }) do |https|
-          req =
-            case @method
-            when "GET"
-              Net::HTTP::Get.new api_uri
-            when "POST"
-              Net::HTTP::Post.new api_uri
-            end
-
-          req.body = encode(body) unless body.empty?
-
-          unless oauth.nil?
-            req["Authorization"] = "OAuth " + oauth.sort.reduce("") { |s, (k, v)|
-              s + (s.empty? ? "" : ", ") + "#{k}=\"#{encode(v)}\""
-            }
-          end
-
-          req["Connection"] = "close"
-          req["Content-Length"] = req.body&.length || 0
-          req["Content-Type"] = "application/x-www-form-urlencoded" unless body.empty?
-
-          https.request req
-        end
-      end
-
-      private def sign(parameters)
-        base = encode parameters
-        key = @consumer_secret + "&" + @oauth_secret
-        message = [@method, encode(@endpoint), encode(base)].join("&")
-        Base64.strict_encode64(OpenSSL::HMAC.digest("sha1", key, message))
-      end
-    end
   end
 end
+
+using Posteriser::Refinements
 
 unless Jekyll.env == "posteriser_off"
   Jekyll::Hooks.register :site, :post_write do |site|
     config_file = "_posteriser.yaml"
     config = YAML.load_file(config_file, symbolize_names: true)
-    twitter = Posteriser::Twitter::API.new config[:twitter]
-    mastodon = Posteriser::Mastodon::API.new config[:mastodon]
-
-    feed = JSON.load_file "#{site.config["destination"]}/feed.json"
     fid = 1
-
+    feed = JSON.load_file "#{site.config["destination"]}/feed.json"
     feed["items"].reverse.each do |item|
       next unless item["date_published"].later_than? config[:latest]
-
       sentinel_file = "_posteriser_#{fid}.pid"
       fid += 1
-
       pid = fork do
         sleep(fid * config[:sleep])
         exit unless File.file?(sentinel_file) && Process.pid.to_s == File.read(sentinel_file)
-
-        # Disable Twitter cross-posting
-        # twitter.post item
-        mastodon.post item
-
+        Posteriser.services(config).each { |service| service.post(item) }
         config[:latest] = item["date_published"]
         File.write config_file, YAML.dump(config)
-
         File.unlink sentinel_file
       end
-
       Process.detach pid
       File.write sentinel_file, pid.to_s
     end
