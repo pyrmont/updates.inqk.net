@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - Speaking of the tea bags, apparently you are allowed to bring barley tea into Australia so the purchase was both overpriced and unnecessary. Or at least, [I think it was](https://www.agriculture.gov.au/biosecurity-trade/travelling/bringing-mailing-goods#tea-and-dried-herbs). It's a little difficult to tell whether barley tea is allowed because the information is all targeted at people who want to bring in either black or herbal varieties. I'm tossing up whether to bring a single bag with me as a test to see what happens.
 
-- I didn't watch what some are calling the greatest World Cup Final ever but I did read the [greatest World Cup Final essay](https://www.theringer.com/world-cup/2022/12/18/23515703/argentina-france-world-cup-final-lionel-messi-kylian-mbappe) ever. I've loved Brian Phillips' writing about tennis but this made me think I should go and listen to his podcast, [22 Goals](https://www.theringer.com/22-goals).
+- I didn't watch what some are calling the greatest World Cup Final ever but I did read the [greatest World Cup Final essay](https://www.theringer.com/world-cup/2022/12/18/23515703/argentina-france-world-cup-final-lionel-messi-kylian-mbappe) ever. I've loved Brian Phillips' writing about tennis but this made me think I should go and listen to his podcast, [_22 Goals_](https://www.theringer.com/22-goals).
 
 - There are certain jokes that, as a 40-year-old man, I feel safe saying I'll never find old. One of those is:
 
