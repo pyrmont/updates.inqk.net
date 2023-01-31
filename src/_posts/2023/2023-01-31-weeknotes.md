@@ -4,7 +4,7 @@ title: "Weeknotes #159"
 categories: ["weeknotes"]
 ---
 
-- I spoke too soon about keeping the gastroenteritis to Rowan. Emma came down ill on Tuesday evening and I fell sick on Friday. Fortunately, as of this writing, John hasn't got it and Eri might have had a very mild case of it or might not—not totally clear.
+- I spoke too soon about limiting the gastroenteritis to Rowan. Emma came down ill on Tuesday evening and I fell sick on Friday. Fortunately, as of this writing, John hasn't got it and Eri might have had a very mild case of it or might not—not totally clear.
 
 - I placed a reservation for a Steam Deck on Monday with Komodo after chatting with Raphael about his experience. He was under the impression that reservations were being made and fulfilled pretty quickly but on Friday, the distributor [announced on its website](https://komodo.jp/news/steamdeck-instock.html) that while 256GB and 512GB models are available immediately, 64GB models (the one that I'd tried to reserve) are back-ordered. To rub salt into the wound, the distributor for Japan also distributes the Steam Deck in Hong Kong, South Korea and Taiwan and the 64GB model is only back-ordered in Japan. I've kept my reservation to maintain my place in the queue but don't know how long I'm prepared to wait.
 
