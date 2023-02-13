@@ -25,9 +25,8 @@ surprise to discover that this blog is replete with feeds.
 [rss-wn]: https://updates.inqk.net/feeds/weeknotes.xml
 [json-wn]: https://updates.inqk.net/feeds/weeknotes.json
 
-OK, perhaps 'replete' was overstating it a bit.
-
-Oh, and there is also a [newsletter][email-wn] for the weeknotes if that's more
-your thing.
+OK, perhaps 'replete' was overstating it a bit. And while I admit it's a bit of
+a misnomer to put this on the feeds page, there is also a
+[newsletter][email-wn] for the weeknotes if that's more your thing.
 
 [email-wn]: https://buttondown.email/pyrmont
