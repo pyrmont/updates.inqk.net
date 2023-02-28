@@ -4,7 +4,7 @@ title: "Weeknotes #163"
 categories: ["weeknotes"]
 ---
 
-- It was Emma's birthday. Eugenia's daughter was born a few days after Emma and I felt a little sheepish seeing the photos for the party Eugenia organised. Emma turned seven and has never had a birthday with friends. Then again, she's also never been invited to a friend's birthday party so maybe, as someone who dislikes birthday parties, Japan just doesn't really do kids birthday parties and I've landed in the right country. It could also be a COVID-19 thing, I guess.
+- It was Emma's birthday. Eugenia's daughter was born a few days after Emma and I felt a little sheepish seeing the photos for the party Eugenia organised. Emma turned seven and has never had a birthday with friends. Then again, she's also never been invited to a friend's birthday party so maybe Japan just doesn't do kids birthday parties and, as someone who dislikes birthday parties, I've landed in exactly the right country. It could also be a COVID-19 thing, I guess.
 
 - On Sunday, we woke up early to take both Emma and John to the ice skating rink that's relatively close to us. Emma has been attending a class for a few months now but it's on Wednesday afternoons and she's about to 'age out' of her current class and need to attend the class that begins after hers. That's not until 5 pm which means Eri isn't likely to return with Emma until around 7. Sunday morning has an alternative class, and because it's Sunday morning means that I can get the car and drive everyone over there (Eri otherwise has to ride her bicycle). That then means we can bring John and he can join a class as well.
 
