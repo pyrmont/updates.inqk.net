@@ -20,4 +20,4 @@ categories: ["weeknotes"]
 
 - Oh, speaking of video essays, if you have _any_ love for Nirvana's 'Smells Like Teen Spirit', then you must watch [this 23-minute masterclass](https://youtu.be/X6uMfJosvnA) from 12tone. It's a wonderful deconstruction and analysis of the song. I am biased, of course. As someone born in 1982, 'Smells Like Teen Spirit' is the defining song of my childhood. I have such a vivid memory of watching the music video ([YouTube](https://youtu.be/hTWKbfoikeg)) as a 9-year-old on _Rage_ ([Wikipedia](https://en.wikipedia.org/wiki/Rage_(TV_program))) on some random Sunday morning and somehow realising that this song was significant. Even if that doesn't describe your experience and you're just interested in music, I'd still recommend it.
 
-- I suppose there's no way for that to not be the link that ends the update ([Apple Music](https://music.apple.com/us/album/smells-like-teen-spirit/1586895441?i=1586895442)).
+- I suppose there's no way for that to not be the link that ends the update ([Apple Music](https://music.apple.com/us/album/smells-like-teen-spirit/1440783617?i=1440783625)).
