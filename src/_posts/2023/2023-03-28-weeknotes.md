@@ -1,0 +1,17 @@
+---
+date: 2023-03-28 22:44:00 +0900
+title: "Weeknotes #167"
+categories: ["weeknotes"]
+---
+
+- John does have pneumonia. We were able to get a referral to the large hospital near our place and after running a few tests, the doctor told us the kids were infected with a respiratory virus that, unfortunately in John's case, led to the pneumonia infection. The kids were prescribed various medicines and are doing much better now.
+
+- I remembered that it was that time of the year again when I need to spend a silly amount of money paying for online courses that will enable me to meet the continuing professional development requirements to maintain my legal practitioner's practising certificate in New South Wales. It's cost me almost $1,000 which has been a great reminder that I need to start going to seminars here in Japan again.
+
+- I'm up to season 3 of _Seinfeld_ and am enjoying watching these episodes immensely. A substantial chunk of that is undoubtedly nostalgia but at least some of it is due to the fact that it's just a fun, simple and tight 25 minutes of television. I wonder if my kids will ever want to watch it and have to assume they probably won't. If I think of the sitcoms from the 70s that I've seen, none appealed in the slightest.
+
+- It's probably a bad idea but I showed Emma and John _Mission: Impossible – Ghost Protocol_. Has there ever been a film with such a weak third act? I feel like once they get out of Dubai, the whole thing really falls apart. There's the Indian guy they don't bother to introduce until then, a car chase that's basically a traffic jam and then a climactic showdown with the Kurt Hendricks, the villain, that has no zing because Ethan and Hendricks have no relationship. I question the decision, though, not because it's a bad movie—I still enjoy it overall—but because it is a little violent in places.
+
+- Eugenia was complaining a couple of weeks ago about a spam-like e-mail from ANA she'd received. She had bought airline tickets from ANA a year or so ago and had no doubt given consent to receive marketing e-mails but she was surprised that unsubscribing required her needing to log into the ANA website and track down the marketing preferences page. This is one of my biggest peeves with living in Japan (maybe my biggest?). It drives me insane every time it occurs. I explained that the problem was that Japan didn't have anti-spam legislation and Eugenia corrected me that [they do](https://www.benchmarkemail.com/blog/the-quirks-of-japans-opt-in-email-marketing-legislation/ ). While that blog post frames the Japanese legislation as 'tough' it is missing an absolutely critical ingredient: a statutory requirement to make it possible to unsubscribe _without_ needing to log in to anything. Australia's legislation does have this (see [here](https://www.legislation.gov.au/Details/F2021L00285 )) and it makes all the difference.
+
+- When I moved to Japan in 2006, I'd make semi-regular trips to the HMV near my place and hunt for albums that were on sale. One of those was the _Timeless_ album by Sergio Mendes. Anyone familiar with it would recognise that it's not really a Mendes album. His music forms the basis for all the tracks but it's far more of a will.i.am record, produced at what was probably the apex of his career. The songs sound far more pedestrian than they were in my memory but if you've never heard it before, maybe give it a spin ([Apple Music](https://music.apple.com/us/album/timeless/1440800263)).
