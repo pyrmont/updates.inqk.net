@@ -4,7 +4,7 @@ title: "Weeknotes #168"
 categories: ["weeknotes"]
 ---
 
-- Have I talked about damper and dampener before? _(Yes, [I have](https://updates.inqk.net/post/1597718160.html)!)_ 'Damper' is used in [this edition](https://www.nytimes.com/2023/03/27/briefing/nashville-school-shooting-israel-judicial-overhaul.html) of the _New York Times_'s Evening Briefing newsletter:
+- Have I talked about damper and dampener before? _([Yes, I have](https://updates.inqk.net/post/1597718160.html)!)_ 'Damper' is used in [this edition](https://www.nytimes.com/2023/03/27/briefing/nashville-school-shooting-israel-judicial-overhaul.html) of the _New York Times_'s Evening Briefing newsletter:
 
   > But SVB’s failure continues to put a damper on the environment for tech start-ups.
 
