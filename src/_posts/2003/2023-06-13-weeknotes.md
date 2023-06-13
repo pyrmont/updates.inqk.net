@@ -1,0 +1,23 @@
+---
+date: 2023-06-13 23:46:00 +0900
+title: "Weeknotes #178"
+categories: ["weeknotes"]
+---
+
+- Rowan visited Tokyo Disneyland for the first time! The plan had been for us all to go together with Mum but John came down with a fever on Friday night and so he and Eri stayed at home. That was especially bittersweet given that we'd booked a room large enough for us all to stay in at the [Sheraton Grande Tokyo Bay Hotel](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/). Disneyland itself was really good and Emma went on a number of rides for the first time but the hotel stay felt superfluous and at ¥88,000 for a single night really didn't justify the price. I'm very keen to go back for a day trip but wouldn't want to stay overnight again.
+
+- We were at least fortunate with the weather. While it rained heavily during most of the week, the skies cleared up temporarily on Saturday during the day before it rained again over night.
+
+- Apple announced the Vision Pro ([Apple Newsroom](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)). I was talking with Brandon about it and my initial reaction is that this is a big deal. I've been lukewarm on VR but what Apple presented looked genuinely useful and it felt like the closest to the iPhone introduction of any new product Apple has launched since then. That said, with a starting price of $3500 and initial availability restricted to the U.S., who knows when I'll be able to justify buying one. I'm especially concerned that as the ability to shrink CPU process nodes slows down, the relentless silicon improvements that democratised smartphones won't apply to headsets like the Vision Pro.
+
+- The Vision Pro was announced at Apple's keynote for WWDC which was held last week. None of the other announcements were particularly notable. The two that most grabbed my attention were SwiftData ([Apple Developer](https://developer.apple.com/documentation/swiftdata)) and proper support in macOS Safari for web apps ([Apple Newsroom](https://www.apple.com/newsroom/2023/06/macos-sonoma-brings-new-capabilities-for-elevating-productivity-and-creativity/)).
+
+- Speaking of Apple, I've noticed a problem with my Mac Mini where when notifications are received, the external monitor will briefly 'wake up'. The monitor doesn't actually _show_ anything and after a couple of seconds goes back to sleep. Unfortunately, my particular monitor displays a grey screen for a moment and this lights up (relatively speaking) the entire room the Mac is in. The culprit seems to be 'Enhanced notifications' but I've turned these off so I'm at something of a loss. I can manually turn off the monitor but I shouldn't have to do that. Maybe the next version of macOS will fix it.
+
+- I started intermittent fasting again. I haven't noticed much effect on my weight but that's probably because I'm still eating lunch. I might need to stretch it out to 18 hours and try to restrict myself to just dinner.
+
+- I started watching Netflix's version of _Matilda: The Musical_ ([Netflix](https://www.netflix.com/au/title/80993016)). I haven't finished it yet but I haven't enjoyed it very much so far.
+
+- I did very much enjoy Big Joel's video essay on Ricky Gervais' appearance in the 2011 HBO special, Talking Funny_ ([YouTube](https://youtu.be/1PdBRI-qtNQ)). I watched the special ([Wikipedia](https://en.wikipedia.org/wiki/Talking_Funny_(television_special))) a couple of years after it was released and, like Big Joel, found Gervais' performance very weird. I'd chalked it up to Gervais not being a stand-up on the same level as Jerry Seinfeld, Chris Rock and Louis C.K. but the essay persuasively argues that there's something more profound being revealed here. I'm not sure it'll be of interest to anyone who hasn't spent the last 12 years thinking about this one-off TV special but in the unlikely event you fall into that bucket, I highly recommend it.
+
+- I was listening to the subscribers-only episode of Slate's _Hit Parade_ for April and the subscriber they called to appear on the trivia segment was painfully familiar. He was about my age, grew up with a strong dislike for pop music during the 90s (in contrast to alternative genres) before gradually becoming more of a fan. Chalk this up as another instance of an apparent idiosyncrasy instead being a common feature of your generational cohort? In any event, my musical selection this week is the contemporary pop song that I first remember really embracing as I came out of this period: Justin Timberlake's 'Cry Me a River' ([Apple Music](https://music.apple.com/us/album/cry-me-a-river/252606580?i=252606592)).
