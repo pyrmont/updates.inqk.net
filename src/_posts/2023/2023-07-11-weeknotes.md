@@ -4,9 +4,9 @@ title: "Weeknotes #182"
 categories: ["weeknotes"]
 ---
 
-- It was all social all the time this week. I finally got an invite to Bluesky on Monday via [Scott](https://ohmypizza.com). My initial thoughts were that it was nice if a bit quiet. John Gruber really summed it up best when he quipped that Bluesky is for people who liked Twitter. As someone who did quite like Twitter, I appreciate some of its early decisions (notably quote-posts). I'm [pyrmont.bsky.social](https://bsky.app/profile/pyrmont.bsky.social). 
+- It was all social all the time this week. I finally got an invite to Bluesky on Monday via [Scott](https://ohmypizza.com). My initial thoughts were that it was nice if a bit quiet. John Gruber really summed it up best when he quipped that Bluesky is for people who liked Twitter. As someone who did quite like Twitter, I appreciate some of its early decisions (notably quote-posts). I'm [@pyrmont.bsky.social](https://bsky.app/profile/pyrmont.bsky.social). 
 
-- Of course, I didn't have much time to enjoy the afterglow of being in the cool club before Meta launched Threads on Thursday, obliterating any momentum that Bluesky had. While I prefer Bluesky's design (both in terms of the app and the protocol), Threads becoming the dominant short-form text posting app feels inevitable, even at this early a stage. My hope is that Meta does follow through with the promise to support ActivityPub and I can follow Threads accounts through something like Ivory. In the meantime, I'm [@pyrmont@threads.net](https://www.threads.net/@pyrmont).
+- Of course, I didn't have much time to enjoy the afterglow of being in the cool club before Meta launched Threads on Thursday, obliterating any momentum that Bluesky had. While I prefer Bluesky's design (both in terms of the app and the protocol), Threads becoming the dominant short-form text posting app feels inevitable, even at this early a stage. My hope is that Meta does follow through with the promise to support ActivityPub and I can follow Threads accounts through something like Ivory. In the meantime, I'm [@pyrmont@threads.net](https://www.threads.net/@pyrmont) (God, Mastodon's fully-qualified usernames are so ugly).
 
 - I lost two Wordles in a row! The first snapped my 294-game winning streak.
 
