@@ -1,0 +1,21 @@
+---
+date: 2023-07-18 12:45:00 +0900
+title: "Weeknotes #183"
+categories: ["weeknotes"]
+---
+
+- It's been swelteringly hot this week. Temperatures have regularly been around 37 or 38 degrees during the day. Emma and I ducked out to the library on Sunday to borrow some books and I went out later by myself to get a haircut but it was an otherwise uneventful weekend.
+
+- I've once again started intermittent fasting. This is actually the second attempt in the last couple of months. On the first try, I eased my way into it but didn't make any progress. This time, I decided to jump straight to 20-hour fasts. So far, I've been able to resist breaking the fast early but I haven't seen much of an effect on my weight over the past week. I intend to keep going and see.
+
+- One thing that could throw a spanner in the works is an upcoming surgery. In 2015 and again in 2016, I had operations in connection with a pilonidal cyst. The first removed the cyst itself and the second removed a reinfection. I avoided stitches after the second operation as stitches apparently increase the risk of reinfection. While I did avoid immediate reinfection, the wound itself didn't close unfortunately. I had intended to have a third operation in 2020 but then the pandemic hit and it got delayed. Now, here we are three years later and I finally have it scheduled. Hopefully the third time is the charm.
+
+- [Scott Yoshinaga](https://ohmypizza.com/) typically begins his Weekender posts with a 'birb watch' update about the birds near his place. What is a 'birb' for those of us who are no longer hip? Basically, [cute birds](https://www.audubon.org/news/when-bird-birb-extremely-important-guide).
+
+- I've been using 1Password 6 on the Mac for the past several years, resistant to using the Electron-based app they first introduced with 1Password 7 (they're now at 1Password 8, I believe). I've been on the lookout for alternatives but clearly I hadn't been looking well enough because I'd somehow missed [Minimalist](https://minimalistpassword.com). Minimalist is if someone came and updated 1Password 6 for modern Apple platforms. There are native apps for Mac, iPhone and iPad, it syncs using iCloud and it supports Safari's password autofill feature _without_ requiring an always-running extension. What really sealed the deal for me is that it is one of the only (perhaps the only?) password manager that supports the same other categories as 1Password. As someone who saves banking information, passport details and things beyond username/password tuples, that has made the transition painless. It is subscription-based (and shared vaults are a 'coming later' feature) but as someone who at this point _wants_ the developer to stick around and not need to take VC money, I view this as a feature. If you're a frustrated 1Password user, I can't recommend it highly enough.
+
+- The awkwardly named _Mission: Impossible – Dead Reckoning Part One_ isn't out in Japan yet, but in anticipation, I've been enjoying the _Beyond the Screenplay_ podcast break down the previous movies (they skipped _Mission: Impossible 2_). The official website hasn't been updated in forever but you can 'listen' to the episodes on YouTube ([here](https://youtu.be/gUegETz_0lo), [here](https://youtu.be/3CedYb6rUD4) and [here](https://youtu.be/BNpjMHu3Yfg)). One thing they mentioned which I hadn't realised was that, even though Christopher McQuarrie directed both 5 and 6, he did make intend for 6 to feel   different to 5, continuing in spirit the tradition of each film having its own style.
+
+- Speaking of YouTube, if you're interested in programming languages and have a spare hour, I really liked [this talk](https://www.youtube.com/watch?v=43XaZEn2aLc) by Shriram Krishnamurthi on the expression power of programming languages.
+
+- I'm very, very out of the loop when it comes to the discourse on popular music so at the risk of sounding like I'm repeating things everyone has been saying for the last month, Janelle Monae's _The Age of Pleasure_ is absolutely brilliant ([Apple Music](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)). At 32 minutes, it goes by fast but I've found my solution to that is to simply start it over again once I've reach the end.
