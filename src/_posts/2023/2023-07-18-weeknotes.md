@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - Speaking of YouTube, if you're interested in programming languages and have a spare hour, I really liked [this talk](https://www.youtube.com/watch?v=43XaZEn2aLc) by Shriram Krishnamurthi on the expression power of programming languages.
 
-- I'm very, very out of the loop when it comes to the discourse on popular music so at the risk of sounding like I'm repeating things everyone has been saying for the last month, Janelle Monae's _The Age of Pleasure_ is absolutely brilliant ([Apple Music](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)). At 32 minutes, it goes by fast but I've found my solution to that is to simply start it over again once I've reach the end.
+- I'm very, very out of the loop when it comes to the discourse on popular music so at the risk of sounding like I'm repeating things everyone has been saying for the last month, Janelle Monáe's _The Age of Pleasure_ is absolutely brilliant ([Apple Music](https://music.apple.com/us/album/the-age-of-pleasure/1686979040)). At 32 minutes, it goes by fast but I've found my solution to that is to simply start it over again once I've reach the end.
