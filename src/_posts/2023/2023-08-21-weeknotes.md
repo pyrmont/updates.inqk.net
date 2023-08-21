@@ -1,0 +1,17 @@
+---
+date: 2023-08-21 19:06:00 +0900
+title: "Weeknotes #188"
+categories: ["weeknotes"]
+---
+
+- Three weeks in and I'm still in the hospital. I had another surgery—that's one a week! I think I deserve a set of steak knives or something—on Tuesday after the second surgery from the Thursday before failed to catalyse any improvement. Things didn't improve much after this third effort, though, and by Friday evening, the doctors said they'd get me to do an MRI test on Monday to see if that can shine some light on precisely what's causing the problem.
+
+- As well as all the work Eri has had to do looking after the kids, I'm concerned about how much time away I've missed of work. With no sense of how long I'm in here for I'm getting quite anxious. Over the weekend, I decided to adopt the approach I used to take to tests in high school: convince myself of the worst (zero) and then be pleasantly surprised no matter the result. Obviously, I wouldn't have received literally zero but that's where the mental ju-jitsu comes in. The trick is in being able to make yourself believe in the worst case regardless of its improbability.
+
+- In addition to the above mental gymnastics, I spent probably too long thinking about how computer language environments manage dependencies. For those who don't—and yet bizarrely wish to—know, typically what happens is that the programmer will specify the dependencies in a file and then at compile-time or run-time the information in that file will be user to make the appropriate version of the dependency available to the requesting code. My thought was that this is wrong. The programmer should specify in the code itself the version being required. This is a pretty radical break with how most languages (at least that I know of) do things but I think is appropriate. It makes explicit the coupling between code that most languages leave implicit.
+
+- After YouTube kept recommending clips from _The Hollowmen_ ([Wikipedia](https://en.wikipedia.org/wiki/The_Hollowmen)), I started watching the series again. _The Thick of It_ is the political satire from the 2000s that everyone remembers (and with good reason), but the Australian show definitely has its moments. I'm disappointed it lasted only two seasons.
+
+- Speaking of YouTube, I was watching [this video](https://youtu.be/n79SYpEVMgM) by Game Maker's Toolkit entitled 'The Rise and Fall of Britain's Bedroom Coders' when they mentioned in passing that the studio that made _Lemmings_ eventually went on to make _Grand Theft Auto_. I couldn't believe this was true. I used to devour British PC magazines in the early- to mid-90s and I couldn't remember hearing anything about this. Sure enough, it's real. _Lemmings_ was created by DMA Design Limited who, according to [Wikipedia](https://en.wikipedia.org/wiki/Rockstar_North), were renamed Rockstar North in 2001. So why didn't I remember it? My best guess is that, while I was still reading games magazines around 1997 (when the original GTA came out), I'd largely moved on from British titles like _Pc Gamer_ and _PC Zone_ to Australian magazines like _Hyper_ and _Atomic_. These magazines didn't have the same access to British studios and tended to focus more on titles from the U.S. and Japan. Well, either that or I simply forgot.
+
+- I don't especially like Elton John but the song I've been listening to the most this week has been 'Cold Heart (PNAU Remix)' ([Apple Music](https://music.apple.com/us/album/cold-heart-pnau-remix/1578986656?i=1578986673)). I do like PNAU and Dua Lipa so maybe that's why?
