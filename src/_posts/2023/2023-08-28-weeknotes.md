@@ -1,0 +1,19 @@
+---
+date: 2023-08-28 07:19:00 +0900
+title: "Weeknotes #189"
+categories: ["weeknotes"]
+---
+
+- I'm still in the hospital and will in almost all certainty be here until at least next Monday. The MRI results last week indicated that the wound is mostly all right but there is a slight infection and to make sure it stays in check, my doctor feels being in the hospital is the safest approach (mainly for provision of antibiotics and daily dressing and cleaning of the wound). It was disappointing to hear I'll be in hospital for all of August but hopefully things improve (continue to improve?) over the next week and I'll be able to go home in early September.
+
+- On Friday, I finally did what I should have done when I first came into the hospital and began studying Japanese. It's a little frustrating to think that I could have had four weeks of almost uninterrupted time to study and, instead, it's only been three days but there's no point worrying about that now, I suppose. As usual, I'm at somewhat of a loss as to how best to study.
+
+- My approach so far has been a combination of [Kanshudo](https://kanshudo.com), watching Japanese media on Netflix at 0.75x speed with closed caption subtitles on and—as of Sunday—the [Udemy Online Japanese N2 course](https://www.udemy.com/course/japanese-n2-course/). This is my first time trying one of these online courses. So far it's been all right. The quality of the videos is good and I'm finding the explanations of words and grammar helpful, but there's not much structure to it. Am I just meant to watch the videos one by one? Am I supposed to watch a lesson a day? Half a lesson a day? I am not good at these kind of 'go at your own pace' things. I need someone to tell me what to do.
+
+- A couple of weeks ago, I started paying more attention to Tokyo Weekender's weekly [news roundups](https://www.tokyoweekender.com/tag/news-roundup/) as a way to stay on top of the general interest news from the past week. In addition to things going on in Japan, there's usually something about the fortunes of the top half dozen or so Japanese soccer players in Europe and I noticed they kept mentioning the word 'brace' to describe a player scoring two goals in a single game. I guess I've never followed a sport where doing something twice is of significance because I can never remember hearing this. Of course, it got to the point where I wanted to look up the etymology and there's a [great answer](https://english.stackexchange.com/a/124852/414017) on StackExchange's English Language & Usage site. It turns out it comes from a term used in hunting but the cool thing is that that term derives from the Old French word for 'arms' (_brace_) (which is where a word like 'embrace' comes from).
+
+- I finished _Poker Face_ and while the final episode was a bit of a letdown, I'd still give the show a huge thumbs up. I'm excited for a season 2.
+
+- Speaking of season 2, I completely blew through season 1 of _Only Murders in the Building_ and have already started on the second season. This show is incredible. First, it's a lot of fun. Second, each episode is only 30 minutes! We need more 30-minute television. While it's not a fair comparison, the closest comparable experience I've had with media is the first season of the _Serial_ podcast, which is somewhat unsurprising given that's what the show is parodying. OMITB is a parody in the vein of _Scream_, though. While it has a lot of fun sending up the tropes of murder-mystery-style true crime podcasts, it's also a very good murder mystery. It doesn't seem fair Steve Martin (who co-created the show) is this talented.
+
+- It also has an absolutely kick-arse soundtrack. I [asked yesterday](https://updates.inqk.net/post/1693131060.html) how many times was too many times to listen to the theme but the truth is I've had the entire album on repeat for days ([Apple Music](https://music.apple.com/us/album/only-murders-in-the-building-original-score/1581503290)).
