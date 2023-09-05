@@ -4,11 +4,11 @@ title: "Weeknotes #190"
 categories: ["weeknotes"]
 ---
 
-- After almost five complete weeks (but the entire month of August!), I was discharged from hospital on Saturday. The wound hasn't completely healed so there's still the risk of another reinfection. That's meant I didn't feel the sense of relief you might expect and indeed I'm not sure I will until the stitches are removed. Still, it's nice to be back at home with Eri and the kids. Speaking of which, I was struck by how short the kids all were (I had spoken to them exclusively via FaceTime during the hospitalisation and so had become used to them all being at my eye-level).
+- After almost five complete weeks (including the entire month of August!), I was discharged from hospital on Saturday. The wound hasn't completely healed so there's still the risk of another reinfection. That's meant I didn't feel the sense of relief you might expect and indeed I'm not sure I will until the stitches are removed. Still, it's nice to be back at home with Eri and the kids. Speaking of which, I was struck by how short the kids all were (I had spoken to them exclusively via FaceTime during the hospitalisation and so had become used to them all being at my eye-level).
 
 - Why did things improve? Some people will say it was the antibiotics but I choose to believe that I successfully reverse jinxed myself by restarting my Japanese study. This of course does mean I could have got out weeks ago if I'd just started studying after the initial operation but I'll know better for next time (which hopefully I'm successfully reverse jinxing myself against).
 
-- As for the Japanese study, it went went all right, I think. I liked the Udemy course enough to take advantage of their August sale and purchase the N1 one as well. I will say that immediately upon returning home, the amount of time I have to devote to studying has dropped to almost zero so I'm not sure if/when I'll get around to that one.
+- As for the Japanese study, it went all right, I think. I liked the Udemy course enough to take advantage of their August sale and purchase the N1 one as well. I will say that immediately upon returning home, the amount of time I have to devote to studying has dropped to almost zero so I'm not sure if/when I'll get around to that one.
 
 - Before I was discharged, I did make it all the way through season 2 of _Only Murders in the Building_. Brandon expressed some reservations about this season but it went down a treat for me. I've now caught up on all the episodes of season 3 and am almost ready to put it ahead of _Westworld_ in my all-time ranking of TV shows. I can't recommend it highly enough.
 
