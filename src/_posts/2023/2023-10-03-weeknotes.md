@@ -16,7 +16,7 @@ categories: ["weeknotes"]
 
 - [Two weeks ago](https://updates.inqk.net/post/1695127680.html) I wrote about the ennui I feel towards video games. Rather than recognise that this means it would be a waste of money to purchase more games, I instead buy the two 'new' _Wolfenstein_ games (they came out in 2014 and 2017), play the first one for about 30 minutes and immediately lose interest. Great job, me.
 
-- Speaking of ennui, is it just me or has it been a bit of a fallow period for video essays of late? Fortunately, Adam Neely came to the rescue by putting together a [terrific one about Laufey](https://youtu.be/68zOvCLwcL8), the Icelandic singer I recommended a couple of weeks back. Is she jazz? Is she mid-century pop? What's the difference? Watch this and as an added bonus you'll know how to pronounce 'Laufey'.
+- Speaking of ennui, is it just me or has it been a bit of a fallow period for video essays of late? Fortunately, Adam Neely came to the rescue by putting together a [terrific one about Laufey](https://youtu.be/68zOvCLwcL8), the Icelandic singer I recommended a couple of weeks back. Is she jazz? Is she mid-century pop? What's the difference? Watch this to find out (and as a bonus you'll know how to pronounce 'Laufey').
 
 - Maybe the solution to the dearth of good video essays is good old-fashioned written essays! I came across Jo Freeman's classic the ['Tyranny of Structurelessness'](https://www.jofreeman.com/joreen/tyranny.htm).
 
