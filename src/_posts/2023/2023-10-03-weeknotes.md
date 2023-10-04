@@ -24,4 +24,4 @@ categories: ["weeknotes"]
 
 - Eugenia and I have a love-hate relationship with [Connections](https://www.nytimes.com/games/connections), the latest addition to the _New York Times_'s collection of word games. The game requires you to put 16 words into 4-word groups. The words in each group have some kind of connection. When it's good, it's a lot of fun but when it's bad—or more correctly lazy—it's incredibly frustrating.
 
-- I was listening to a playlist of alternative songs from 2001 (as you do when you're in your 40s) and the song that had the most nostalgia was Sum 41's 'Fat Lip' ([Apple Music](https://music.apple.com/us/album/fat-lip/1440920798?i=1440921141)).
+- I was listening to a playlist of alternative songs from 2001 (as you do when you're in your 40s) and the song that conjured up the most nostalgia was Sum 41's 'Fat Lip' ([Apple Music](https://music.apple.com/us/album/fat-lip/1440920798?i=1440921141)). Let's not think too long about that.
