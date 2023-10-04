@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - Eri took Emma for a trial swimming lesson at the nearby sports club. Emma used to take swimming lessons but stopped during the pandemic and then we moved and she just never got back into it. After deciding that ice skating is a bit too much of a hassle, we thought we'd try swimming again. Emma said she had a good time so we've put her down for Sunday lessons.
 
-- I think I've mentioned before that I make the kids watch the evening news. I am 50 percent sure this is one of those silly parenting decisions that will backfire and cause precisely the opposite effect of what I'm going for but so be it. What's the point of having children if you can't be a tyrant at least some of the time? Anyway, all of this is an excruciatingly long introduction to me being disappointed when [Mitsuki Uehara](https://www6.nhk.or.jp/a-room/search/detail.html?i=621), the female host of _Shutoken Nettowaaku_([Wikipedia](https://ja.wikipedia.org/wiki/首都圏ネットワーク)), announced suddenly on Friday that she's going on maternity leave.
+- I think I've mentioned before that I make the kids watch the evening news. I am 50 percent sure this is one of those silly parenting decisions that will backfire and cause precisely the opposite effect of what I'm going for but so be it. What's the point of having children if you can't be a tyrant at least some of the time? Anyway, all of this is an excruciatingly long introduction to me being disappointed when [Mitsuki Uehara](https://www6.nhk.or.jp/a-room/search/detail.html?i=621), the female host of _Shutoken Nettowaaku_ ([Wikipedia](https://ja.wikipedia.org/wiki/首都圏ネットワーク)), announced suddenly on Friday that she's going on maternity leave.
 
 - Look, it's been a slow week.
 
