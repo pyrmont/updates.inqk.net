@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - Look, it's been a slow week.
 
-- Brandon said he's taken the somewhat extreme step of resetting his Apple Watch to try to solve the battery issues he's experienced since upgrading to watchOS 10. I haven't gone to those lengths yet but I'm considering it. My watch used to last from when I got up til when I went to sleep without issue. Now I'm lucky if it can go 18 hours without going into low-power mode. This, together with the annoying decision to remove the ability to swipe between watch faces, has made the entire upgrade more of a... _down_grade.
+- Brandon said he's taken the somewhat extreme step of resetting his Apple Watch to try to solve the battery issues he's experienced since upgrading to watchOS 10. I haven't gone to those lengths yet but I'm considering it. My watch used to last from when I got up til when I went to sleep without issue. Now I'm lucky if it can go 18 hours without going into low-power mode. This, together with the annoying decision to remove the ability to swipe between watch faces, has made the entire upgrade more of a... <em>down</em>grade.
 
 - [Two weeks ago](https://updates.inqk.net/post/1695127680.html) I wrote about the ennui I feel towards video games. Rather than recognise that this means it would be a waste of money to purchase more games, I instead buy the two 'new' _Wolfenstein_ games (they came out in 2014 and 2017), play the first one for about 30 minutes and immediately lose interest. Great job, me.
 
