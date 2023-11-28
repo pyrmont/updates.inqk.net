@@ -4,7 +4,7 @@ title: "Weeknotes #202"
 categories: ["weeknotes"]
 ---
 
-- Thursday was another public holiday. It'd been a while since we'd been to a 'family restaurant' and so we trekked over to one of the closer ones: Jonathan's. We used to go to a Jonathan's near our old place about once a month and my memory is of the food being decent. Either my memory is wrong or things have taken a turn. Fortunately, we walked home via a park we don't normally visit and Emma, John and Rowan had a blast.
+- Thursday was another public holiday ([Wikipedia](https://en.wikipedia.org/wiki/Labor_Thanksgiving_Day)). It'd been a while since we'd been to a 'family restaurant' and so we trekked over to one of the closer ones: Jonathan's. We used to go to a Jonathan's near our old place about once a month and my memory is of the food being decent. Either my memory is wrong or things have taken a turn. Fortunately, we walked home via a park we don't normally visit and Emma, John and Rowan had a blast.
 
 - Plenty of shops in Tokyo put up their Christmas decorations the day after Hallowe'en but I resisted bringing out our 'decorations' (really just a Christmas tree) until Saturday. I probably should have waited until the start of Advent but since we're leaving this year on 16 December, if I wait til this coming Sunday, the tree will be up for less than two weeks.
 
