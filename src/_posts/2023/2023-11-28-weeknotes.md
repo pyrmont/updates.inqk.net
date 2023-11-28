@@ -14,11 +14,11 @@ categories: ["weeknotes"]
 
 - It's been a while since I've done any programming and I got the itch again. For ages now, I've wanted a collaborative crossword app that I could do with Eugenia. I've gone back and forth about doing it as an iOS app or a web app. Trying it as a web app won out and I started hacking something together using [Squint](https://github.com/squint-cljs/squint) and [Solid.js](https://www.solidjs.com). I don't have that much working at the moment but I do have a webpage that automatically updates as I change the code.
 
-- Tanner Greer wrote about a [new translated excerpts](https://scholars-stage.org/wang-huning-and-the-eternal-return-to-1975/) of Wang Huning's travelogue _America Against America_. Huning wrote the travelogue in 1975 and marvels at the transformative power of American society. Much of that amazement makes for bracing reading today. As Greer observes:
+- Tanner Greer wrote about some [new translated excerpts](https://scholars-stage.org/wang-huning-and-the-eternal-return-to-1975/) of Wang Huning's travelogue _America Against America_. Huning wrote the travelogue in 1975 and marvels at the transformative power of American society. Much of that amazement makes for bracing reading today. As Greer observes:
   
   > Wang’s confidence in American ambition is expressed in a one particularly painful passage:
   >
-  > > 'If tomorrow someone were to propose building a highway across the Atlantic Ocean from the United States to Europe, or a highway running across the Pacific Ocean all the way to Asia,' Wang concludes, 'it would not be considered crazy. On the contrary, people would think this was an amazing idea.'
+  > > If tomorrow someone were to propose building a highway across the Atlantic Ocean from the United States to Europe, or a highway running across the Pacific Ocean all the way to Asia, it would not be considered crazy. On the contrary, people would think this was an amazing idea.
   >
   > These are not new sentiments. [Foreigners were saying things like this about the American people all the way back in the 1820s](https://www.palladiummag.com/2023/03/30/a-school-of-strength-and-character/). I do not think this would be most foreign visitors first observations about Americans today. It is, however, the sort of thing foreign visitors say about China. If a road was to be built across the Pacific today, we would expect the Chinese to build it.
 
