@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - About a week or so ago I noticed that the black bars that show up on a YouTube video when viewed on an iPad or an iPhone were, well, _not_ black. It turns out this is apparently something called 'ambient mode'. It's incredibly distracting and baffles me as a product design decision. Fortunately, you can turn it off by tapping the settings gear on a video and digging down into 'Additional Settings'. You might think this would only apply to the current video but it's a global preference that persists across videos (but does need to be manually changed per-device).
 
-- Speaking of YouTube, Harris Brewis released his long-awaited (by me, anyway) [plagiarism video essay](https://youtu.be/yDp3cB5fHXQ). At an incredible _three hours and 51 minutes_, I can't honestly recommend it to anyone who isn't a fan but if you are, it's so good. As of this writing, it's well on its way to 5 million views which I find incredible.
+- Speaking of YouTube, Harris Brewis released his long-awaited (by me, anyway) [plagiarism video essay](https://youtu.be/yDp3cB5fHXQ). At an incredible _three hours and fifty-one minutes_, I can't honestly recommend it to anyone who isn't a fan but if you are, it's so good. As of this writing, it's well on its way to 5 million views which I find incredible.
 
 - I also quite liked Phil Edwards' explanation of [why Reebok lost the sneaker war](https://youtu.be/kRJIgX7cJPw). It's a piddly 11 minutes so no reason not to watch it!
 
