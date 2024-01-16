@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - I had one of my periodic attacks of regret that I’ve not advanced more with Japanese. I opened up [Kashudo](https://www.kanshudo.com) for the first time in ages on Friday but it hasn’t really stuck. Is the answer just to knuckle down and force myself to do it? Or is there some 'hack' or 'approach' I could take that would make this easier?
 
-- How is [Swarm](https://www.swarmapp.com) still functioning? Don’t get me wrong—I it’s my favourite social network and I hope it avoids enshittification ([Wikipedia](https://en.wikipedia.org/wiki/Enshittification)) but surely that’s only a matter of time, isn’t it?
+- How is [Swarm](https://www.swarmapp.com) still functioning? Don’t get me wrong—it’s my favourite social network and I hope it avoids enshittification ([Wikipedia](https://en.wikipedia.org/wiki/Enshittification)) but surely that’s only a matter of time, isn’t it?
 
 - [Matt Lakeman has published another of his travelogues](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/), this time on the Ivory Coast:
 
@@ -26,4 +26,4 @@ categories: ["weeknotes"]
 
 - If long written essays aren’t your thing, [Pat Finnerty is back](https://www.youtube.com/watch?v=jeJXF55HXRI) with an entry in his ongoing series ‘What Makes This Song Stink’. This time it’s about ‘Try that in a Small Town’ and it’s exactly the kind of slightly unhinged analysis I’m looking for in my media diet.
 
-- Can it be true that I haven’t linked to White Town’s ‘Your Woman’ before this post ([Apple Music](https://music.apple.com/us/album/your-woman/1675516474?i=1675516478)? That certainly seems to be the case. If you’ve always wanted to know more, Todd Nathanson (AKA Todd in the Shadows) has a [video about it](https://www.youtube.com/watch?v=RRYO6-gNGzQ) as part of his ‘One Hit Wonderland’ series.
+- Can it be true that I haven’t linked to White Town’s ‘Your Woman’ before this post ([Apple Music](https://music.apple.com/us/album/your-woman/1675516474?i=1675516478))? That certainly seems to be the case. If you’ve always wanted to know more, Todd Nathanson (AKA Todd in the Shadows) has a [video about it](https://www.youtube.com/watch?v=RRYO6-gNGzQ) as part of his ‘One Hit Wonderland’ series.
