@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - One of the things that surprised me during the setup was that our ISP now apparently does give out IPv6 addresses because I have one. I’m sure I checked this a couple of months back and was surprised to discover that they didn’t. Now they do.
 
-- I had one of my periodic attacks of regret that I’ve not advanced more with Japanese. I opened up [Kashudo](https://www.kanshudo.com) for the first time in ages on Friday but it hasn’t really stuck. Is the answer just to knuckle down and force myself to do it? Or is there some 'hack' or 'approach' I could take that would make this easier?
+- I had one of my periodic attacks of regret that I’ve not advanced more with Japanese. I opened up [Kanshudo](https://www.kanshudo.com) for the first time in ages on Friday but it hasn’t really stuck. Is the answer just to knuckle down and force myself to do it? Or is there some 'hack' or 'approach' I could take that would make this easier?
 
 - How is [Swarm](https://www.swarmapp.com) still functioning? Don’t get me wrong—it’s my favourite social network and I hope it avoids enshittification ([Wikipedia](https://en.wikipedia.org/wiki/Enshittification)) but surely that’s only a matter of time, isn’t it?
 
