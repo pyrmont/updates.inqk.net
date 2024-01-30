@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - Google finally stopped supporting the version of the YouTube app I was running on Rowan’s ancient iPad Mini (2nd Generation) (purchased in 2013!). Unfortunately, because the kids use YouTube through a child account, the website also didn’t work. I’d been considering an iPad upgrade for the kids for more than a year and when I saw that an iPad (8th Generation) was available refurbished from Apple for ¥38,800, I leapt on it. Emma and John now have that and Rowan has their iPad Mini (5th Generation). I’m a little concerned the ‘new’ iPad only has 32GB for storage and that won’t be enough (I’ve already had to offload apps so that I could update iPadOS) but hopefully that won’t prove a common occurrence.
 
-- [Two weeks ago](https://updates.inqk.net/post/1704808740.html) I lamented my weight increase to 77kg and this past week, it broke through 78. That prompted me to see again if calorie counting might help. I paid for a year of [Foodnoms+](https://www.foodnoms.com/#pricing) and will see how it goes.
+- [Two weeks ago](https://updates.inqk.net/post/1704808740.html) I lamented my weight increase to 77kg and this past week, it broke through 78. That prompted me to see again if calorie counting might help. I paid for a year of [FoodNoms+](https://www.foodnoms.com/#pricing) and will see how it goes.
 
 - I cancelled my NBA League Pass subscription. I barely watch any games so maybe I’ll just be the type of fan who subscribes during the play-offs? The final straw was deciding to try to watch more of the TV and film that’s on my ever growing watch list.
 
