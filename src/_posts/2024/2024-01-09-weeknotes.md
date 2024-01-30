@@ -14,7 +14,7 @@ categories: ["weeknotes"]
 
 - I've broken one of my Raspberry Pis. It was a little slow downloading a file from GitHub and I thought a restart might help. It refused to do that cleanly and when I tried to connect a monitor to it to see what the problem was, there was no signal. I've tried turning it on and off a couple of times but to no avail. I decided to use the opportunity to buy a Raspberry Pi 4. I've been resisting doing that for years at this point because I hoped the price would eventually fall but it doesn't look like that's likely. The Raspberry Pi 5 is out and the 4 still costs about ¥10,000.
 
-- My weight is up to almost 77 kg. I know the solution is simply to eat more healthily but I don't know if I've got the willpower to do that.
+- My weight is up to almost 77kg. I know the solution is simply to eat more healthily but I don't know if I've got the willpower to do that.
 
 - Dan Luu wrote a [post analysing how search engines fare on relatively basic enquiries](https://danluu.com/seo-spam/) (unfortunately, not great). This isn't Luu's point but my main takeaway from the article was that the only real solution to SEO spam are AI chatbots. It doesn't seem as if Google can solve this (or is at least incentivised to try).
 

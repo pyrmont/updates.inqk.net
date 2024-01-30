@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - I came across [MusicHarbor](https://marcosatanaka.com/) via [Brandon's weekly update](https://sangsara.net/2022/08/14/week-33-22/) and wow, what an embarrassingly better job this does informing you of new music than Apple does. And as best I can tell, it does it all with no real 'intelligence'. It merely looks at your music library and presumes you'll be interested in new music from artists you've got in there. Genius! My favourite feature—and what made me instantly pay to unlock all its features—was the ability to show only albums. The interface leaves something to be desired but am still very happy to have this.
 
-- My dieting has fizzled out again. I'm now up to around 73 kg when I'm trying to get down to 68 or so. I'm not sure what to do. Exercise greater will power, I suppose.
+- My dieting has fizzled out again. I'm now up to around 73kg when I'm trying to get down to 68 or so. I'm not sure what to do. Exercise greater will power, I suppose.
 
 - Our main air conditioner started leaking. This is a perennial problem we have in all the places we've lived in Tokyo. The building management company sent a general handyman to take a look at it but it kept leaking and we now have a visit from someone from Hitachi scheduled for next weekend. I'm incredibly pessimistic. The air conditioner is about seven years old and based on the previous experiences, the only permanent solution is to replace the entire air conditioner. I don't expect the owner to want to do this and so I'm girding myself for a drawn-out fight as we go through the rigmarole of having numerous maintenance visits. Fortunately, the leak hasn't been that bad (and we are near the end of summer).
 

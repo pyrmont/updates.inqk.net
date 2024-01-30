@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - John and I attended a pre-enrolment interview at his preschool on Monday. John was given a handful of tasks to check his cognitive ability and I was quizzed on why we'd selected the preschool. A day later his enrolment was accepted. He's due to start at the beginning of June.
 
-- I went into work for the annual physical on Wednesday. I won't know all of the results for a while but I was surprised to be told my weight is still 72 kg. Before we'd moved, I'd been diligently weighing myself every night but the scales were in one of the very last boxes to be unpacked and with my frankly crappy diet at the moment I'd just assumed I must have put on a bit of weight. Perhaps I have and it's been offset by a decrease in muscle mass.
+- I went into work for the annual physical on Wednesday. I won't know all of the results for a while but I was surprised to be told my weight is still 72kg. Before we'd moved, I'd been diligently weighing myself every night but the scales were in one of the very last boxes to be unpacked and with my frankly crappy diet at the moment I'd just assumed I must have put on a bit of weight. Perhaps I have and it's been offset by a decrease in muscle mass.
 
 - Yes, that does mean we've _finally_ finished unpacking and getting rid of the rubbish we'd brought with us. That part was especially painful: ¥25,000 worth of pain as it turns out. I'm certain that part could have been done for less but I paid for the convenience. A man came around on Sunday afternoon and within 20 minutes it was gone.
 
