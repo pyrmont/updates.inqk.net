@@ -1,11 +1,12 @@
 source "https://rubygems.org"
 
 gem "jekyll"
+gem 'google-protobuf', '= 4.26.0.rc.1'
 
 group :jekyll_plugins do
+  gem "commonmarker-pluggable", github: "pyrmont/commonmarker-pluggable", branch: "master"
   gem "jekyll-commonmark"
   gem "jekyll-paginate"
-  gem "commonmarker-pluggable", github: "pyrmont/commonmarker-pluggable", branch: "master"
 end
 
 group :development do
