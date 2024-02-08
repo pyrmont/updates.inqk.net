@@ -76,9 +76,11 @@ unless Jekyll.env == "posteriser_off"
   Jekyll::Hooks.register :site, :post_write do |site|
     config_file = "_posteriser.yaml"
     config = YAML.load_file(config_file, symbolize_names: true)
+    fid = 0
     feed = JSON.load_file "#{site.config["destination"]}/feed.json"
-    feed["items"].reverse.each_with_index do |item, fid|
+    feed["items"].reverse.each do |item|
       next unless item["date_published"].later_than? config[:latest]
+      fid += 1
       sentinel_file = "_posteriser_#{fid}.pid"
       pid = fork do
         sleep(fid * config[:sleep])
