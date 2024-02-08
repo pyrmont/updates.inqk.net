@@ -52,6 +52,7 @@ Thumbs.db
 #################
 *.conf
 hooks.yaml
+/src/_posteriser.yaml
 
 # Miscellaneous #
 #################
