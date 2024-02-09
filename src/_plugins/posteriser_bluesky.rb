@@ -59,12 +59,12 @@ module Posteriser
           title_select = 'meta[property="og:title"],' +
                          'meta[name="twitter:title"]'
           title_fallback = "title"
-          title = doc.css(title_select).first&.attributes["content"] ||
+          title = doc.css(title_select).first&.attributes&.[]("content") ||
                   doc.css(title_fallback).first&.inner_text
           desc_select = 'meta[property="og:description"],' +
                         'meta[name="twitter:description"],' +
                         'meta[name="description"]'
-          desc = doc.css(desc_select).first&.attributes["content"]
+          desc = doc.css(desc_select).first&.attributes&.[]("content")
           return nil if title.nil? || desc.nil?
           { uri: uri, title: title, description: desc }
         end

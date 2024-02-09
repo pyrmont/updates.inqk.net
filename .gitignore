@@ -58,3 +58,4 @@ hooks.yaml
 #################
 *.swp
 /tmp/
+/src/helper.rb

@@ -72,7 +72,7 @@ end
 
 using Posteriser::Refinements
 
-unless Jekyll.env == "posteriser_off"
+unless !defined?(Jekyll) || Jekyll.env == "posteriser_off"
   Jekyll::Hooks.register :site, :post_write do |site|
     config_file = "_posteriser.yaml"
     config = YAML.load_file(config_file, symbolize_names: true)
