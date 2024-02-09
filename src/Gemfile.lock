@@ -11,15 +11,19 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.2.0)
+    bigdecimal (3.1.6)
     colorator (1.1.0)
     commonmarker (0.23.10)
     concurrent-ruby (1.2.3)
+    csv (3.2.8)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
+    gammo (0.3.0)
     google-protobuf (4.26.0.rc.1-arm64-darwin)
       rake (>= 13)
     google-protobuf (4.26.0.rc.1-x86_64-darwin)
@@ -64,6 +68,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.4)
+    racc (1.7.3)
     rake (13.1.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -84,11 +89,16 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  bigdecimal
   commonmarker-pluggable!
+  csv
+  gammo
   google-protobuf (= 4.26.0.rc.1)
   jekyll
   jekyll-commonmark
   jekyll-paginate
+  racc
   webrick
 
 BUNDLED WITH

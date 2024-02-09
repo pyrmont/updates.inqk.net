@@ -2,6 +2,7 @@
 
 require_relative "jekyll_posteriser"
 
+require "gammo"
 require "json"
 require "net/http"
 require "open-uri"
@@ -53,10 +54,18 @@ module Posteriser
         return nil if uri.nil?
         URI.open(uri) do |page|
           html = page.read
-          title_re = /<meta\s+(?:property="og|name="twitter):title"\s+content="([^"]*)"[^>]*>/i
-          desc_re = /<meta\s+(?:property="og|name="twitter):description"\s+content="([^"]*)"[^>]*>/i
-          title = html.match(title_re)&.[](1)
-          desc = html.match(desc_re)&.[](1)
+          parser = Gammo.new(html)
+          doc = parser.parse
+          title_select = 'meta[property="og:title"],' +
+                         'meta[name="twitter:title"]'
+          title_fallback = "title"
+          title = doc.css(title_select).first&.attributes["content"] ||
+                  doc.css(title_fallback).first&.inner_text
+          desc_select = 'meta[property="og:description"],' +
+                        'meta[name="twitter:description"],' +
+                        'meta[name="description"]'
+          desc = doc.css(desc_select).first&.attributes["content"]
+          return nil if title.nil? || desc.nil?
           { uri: uri, title: title, description: desc }
         end
       end

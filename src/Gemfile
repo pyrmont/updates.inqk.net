@@ -1,7 +1,21 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem 'google-protobuf', '= 4.26.0.rc.1'
+
+group :broken_gems do
+  gem "google-protobuf", "= 4.26.0.rc.1"
+end
+
+group :legacy_gems do
+  gem "base64"
+  gem "bigdecimal"
+  gem "csv"
+end
+
+group :posteriser_gems do
+  gem "gammo"
+  gem "racc"
+end
 
 group :jekyll_plugins do
   gem "commonmarker-pluggable", github: "pyrmont/commonmarker-pluggable", branch: "master"
