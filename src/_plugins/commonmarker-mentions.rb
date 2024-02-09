@@ -9,7 +9,7 @@ module CommonMarker
 
           before = node
 
-          while m = /@(\w\S*?)([:@])(\w\w*(?:[.]\w+))/.match(before.string_content) do
+          while m = /@(\w[^:@]*)([:@])(\w+(?:[.\/]\w+)+)/.match(before.string_content) do
             domain = "https://" + m[3]
             prefix = m[2] == "@" ? "@" : ""
             username = m[1]

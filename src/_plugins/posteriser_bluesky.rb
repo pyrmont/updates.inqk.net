@@ -4,6 +4,7 @@ require_relative "jekyll_posteriser"
 
 require "json"
 require "net/http"
+require "open-uri"
 require "uri"
 
 using Posteriser::Refinements
@@ -21,14 +22,43 @@ module Posteriser
 
       def post(input)
         start_session
+        content, embed = format(input["content_html"])
         record = Hash.new
-        record[:text] = input["content_text"]
+        record[:text] = content
         record[:createdAt] = input["date_published"]
+        unless embed.nil?
+          record[:embed] = { "$type" => "app.bsky.embed.external",
+                             "external" => embed }
+        end
         body = Hash.new
         body[:repo] = @user_handle
         body[:collection] = "app.bsky.feed.post"
         body[:record] = record
         request(@post_endpoint, body)
+      end
+
+      private def format(input)
+        links = []
+        formatter = lambda { |m| m[3] }
+        content = input
+          .unmention("bsky.app", formatter)
+          .extract_links(links)
+          .strip_html
+          .decode_entities
+        embed = preview(links.first)
+        [content, embed]
+      end
+
+      private def preview(uri)
+        return nil if uri.nil?
+        URI.open(uri) do |page|
+          html = page.read
+          title_re = /<meta\s+(?:property="og|name="twitter):title"\s+content="([^"]*)"[^>]*>/i
+          desc_re = /<meta\s+(?:property="og|name="twitter):description"\s+content="([^"]*)"[^>]*>/i
+          title = html.match(title_re)&.[](1)
+          desc = html.match(desc_re)&.[](1)
+          { uri: uri, title: title, description: desc }
+        end
       end
 
       private def request(endpoint, body, query: {})
