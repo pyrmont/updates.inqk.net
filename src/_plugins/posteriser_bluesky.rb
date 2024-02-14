@@ -23,7 +23,12 @@ module Posteriser
 
       def post(input)
         start_session
-        content, embed = format(input["content_html"])
+        content, embed =
+          if input["title"].empty?
+            format(input["content_html"])
+          else
+            [ input["title"], preview(input["url"]) ]
+          end
         record = Hash.new
         record[:text] = content
         record[:createdAt] = input["date_published"]
@@ -47,7 +52,7 @@ module Posteriser
           .strip_html
           .decode_entities
         embed = preview(links.first)
-        [content, embed]
+        [ content, embed ]
       end
 
       private def preview(uri)
