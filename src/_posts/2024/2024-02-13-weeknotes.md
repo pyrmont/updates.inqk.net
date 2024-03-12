@@ -6,7 +6,7 @@ categories: ["weeknotes"]
 
 - It snowed last Monday ([NHK World](https://www3.nhk.or.jp/nhkworld/en/news/20240205_26/))! I probably should have encouraged the kids to try and build a snowman or something but they ducked out to the backyard for a bit and that was it. I enjoyed a walk through the falling snow to lunch at Mos Burger.
 
-- King Charles was diagnosed with (some form) of cancer ([BBC](https://www.bbc.com/news/uk-68208157)).
+- King Charles was diagnosed with (some form of) cancer ([BBC](https://www.bbc.com/news/uk-68208157)).
 
 - Bluesky opened to the general public on Tuesday ([TechCrunch](https://techcrunch.com/2024/02/06/bluesky-is-now-open-for-anyone-to-join/)). I’ve had an account [since July 2023](https://updates.inqk.net/post/1689044700.html) but never really got into it, preferring instead to spend most of my time on Mastodon. I’m not sure why being generally available felt so significant but it prompted me to (1) work out how to use my inqk.net domain as part of [my handle](https://bsky.app/profile/pyrmont.inqk.net) and (2) add [cross-posting support](https://updates.inqk.net/post/1689044700.html) to this blog. This means that if you’re like Brandon, you now need never follow me on Mastodon again! All the posts will be on Bluesky, too. I’m still not that optimistic about its prospects (not least because of Threads) but I remain a fan of the [AT Protocol](https://atproto.com) and hope it succeeds.
 
