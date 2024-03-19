@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - Unfortunately, the book is clearly not remembered by many as fondly as by me and it is now out of print. I did spend the frankly quite ridiculous sum of $72.70 (with postage) to order it from eBay. It arrived at my parents and while it's not in mint condition, I was relieved to see that it is in very good nick. I don't know if any of the kids will respond to it the way that I did but Mum will bring it over on her next visit and we'll see.
 
-- Rowan was asking about going to the zoo for some reason and so I took him and John there on Sunday. In classic me fashion, I didn't bother to investigate how much the tickets were in advance and I was pleasantly shocked to discover on lining up that I had to only pay ¥600 and John and Rowan were free! I still grouse about the $132.84 that I spent on the tickets the last time we visited Taronga Zoo. While Taronga is unquestionably a nicer park, I couldn't say the delta is ten times.
+- Rowan was asking about going to the zoo for some reason and so I took him and John to Ueno Zoo on Sunday. In classic me fashion, I didn't bother to investigate how much the tickets were in advance and I was pleasantly shocked to discover on lining up that I had to pay only ¥600 and John and Rowan were free! I still grouse about the $132.84 that I spent on the tickets the last time we visited Taronga Zoo. While Taronga is unquestionably a nicer park, I couldn't say the delta is ten-fold.
 
 - ['Grouse'](https://en.wiktionary.org/wiki/grouse) is one of those words I actively avoided saying as a child growing up in rural New South Wales. I can't remember now if the most common sense in which it was used was grumble or as an indication of excellence.
 
