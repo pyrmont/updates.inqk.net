@@ -1,0 +1,19 @@
+---
+date: 2024-03-19 09:06:00 +0900
+title: "Weeknotes #218"
+categories: ["weeknotes"]
+---
+
+- Last week, I meant to write about a picture book I've been trying to track down for ages. Australia has a number of well-regarded children's illustrated books but I've always been sad not to see mention of a book about sunburn that I remembered reading as a child. The problem was that while I could still remember some of the illustrations, I had no such luck trying to rustle up the title or the author from my memory. Now that I'm paying (at least for the moment) to access the fancier versions of ChatGPT and Google Gemini, I hoped this might be something with which they'd be able to assist. No such luck. Although they came up with a handful of answers, none were remotely close. I feel ashamed to say that I neglected all this time to ask my sister, a librarian. When I did finally reach out to her, it was after asking my mother and my grandfather to no avail. To make the insult all the worse, she was able to tell me the answer within an hour. So much for my vaunted Google-fu. The book is [_Don’t Get Burnt!_](https://www.austlit.edu.au/austlit/page/C390572) by Jack Bedson and Peter Gouldthorpe.
+
+- Unfortunately, the book is clearly not remembered by many as fondly as by me and it is now out of print. I did spend the frankly quite ridiculous sum of $72.70 (with postage) to order it from eBay. It arrived at my parents and while it's not in mint condition, I was relieved to see that it is in very good nick. I don't know if any of the kids will respond to it the way that I did but Mum will bring it over on her next visit and we'll see.
+
+- Rowan was asking about going to the zoo for some reason and so I took him and John there on Sunday. In classic me fashion, I didn't bother to investigate how much the tickets were in advance and I was pleasantly shocked to discover on lining up that I had to only pay ¥600 and John and Rowan were free! I still grouse about the $132.84 that I spent on the tickets the last time we visited Taronga Zoo. While Taronga is unquestionably a nicer park, I couldn't say the delta is ten times.
+
+- ['Grouse'](https://en.wiktionary.org/wiki/grouse) is one of those words I actively avoided saying as a child growing up in rural New South Wales. I can't remember now if the most common sense in which it was used was grumble or as an indication of excellence.
+
+- There's a bug (if that's the right word) in Apple Music (née iTunes) where if you have an album in your library with metadata that doesn't match Apple's metadata, it will get very confused when you view it and show things like the same song twice. The only solution I've found to this is to delete the album from your library, wait some indeterminate amount of time and then add it back. If you've waited long enough, the album will show up correctly; if you've haven't, it won't and you have to go through the same song and dance again. Other people must have this problem but I've rarely seen anyone mention it so maybe it's just me.
+
+- It might only be me (to a first approximation) because I spent an embarrassing amount of time in the 2000s adding metadata to my music and I can only imagine a very few people doing this. It really compounds the frustration that the 'solution' is to delete the problematic album (thereby losing all the work). It also makes me wonder what I could have achieved if I'd spent this time more (as it turns out) productively. Are there similar mistakes I'm making now? Time I'm spending on projects that will add little benefit in the long run?
+
+- Linking to two covers in a row isn't very adventurous but I've got no choice. Abigail Lapell's 2023 cover of 'Blinding Lights' ([Apple Music](https://music.apple.com/us/album/blinding-lights/1663028357?i=1663028385)) has been on repeat almost constantly that it would be disingenuous to link to anything else this week.
