@@ -22,11 +22,11 @@ categories: ["weeknotes"]
 
 - I watched _Tenet_ again and, as I suspected [after I first saw it](https://letterboxd.com/pyrmont/film/tenet/), I’ve come to really like it. This time around it was Robert Pattinson that captivated my attention. In a film that is far too serious, he brings a delightful levity to the entire enterprise. It’s a small moment but I loved this exchange:
 
-  > IVES: There’s no way of bringing you back.
-  > PROTAGONIST: We find another machine.
-  > IVES: A week ago? Where?
-  > PROTAGONIST: Oslo.
-  > IVES: That facility’s inside an airport security perimeter. It’s impregnable.
+  > IVES: There’s no way of bringing you back.  
+  > PROTAGONIST: We find another machine.  
+  > IVES: A week ago? Where?  
+  > PROTAGONIST: Oslo.  
+  > IVES: That facility’s inside an airport security perimeter. It’s impregnable.  
   > NEIL: Mmmm... it wasn’t last week.
 
 - I want to like Apple’s new Heavy Rotation playlist but it doesn’t update reliably (surprise!). I listened to Olivia Rodrigo’s ‘get him back!’ ([Apple Music](https://music.apple.com/us/album/get-him-back/1694386825?i=1694386841)) multiple times over the weekend and yet it’s still not on the playlist.
