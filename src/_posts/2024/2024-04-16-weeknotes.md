@@ -1,6 +1,6 @@
 ---
 date: 2024-04-16 14:36:00 +0900
-title: "Weeknotes #223"
+title: "Weeknotes #222"
 categories: ["weeknotes"]
 ---
 
