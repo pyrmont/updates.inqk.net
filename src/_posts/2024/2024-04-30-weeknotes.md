@@ -18,7 +18,7 @@ categories: ["weeknotes"]
 
 - I bought [Soulver 3](https://soulver.app) for the iPhone. I don’t know why I’d put this off until now. Soulver has long been one of my favourite apps for the Mac and while the iPhone version is not exactly cheap, it is a one-time purchase rather than another subscription.
 
-- Speaking of, I saw that Brandon is pausing his Netflix subscription and it made me wonder again if that was worth doing. I think the answer is a weak no, mostly because it’s the best source of Japanese-language entertainment for the kids.
+- Speaking of, I saw that [Brandon is pausing his Netflix subscription](https://sangsara.net/2024/04/29/week-17-24/) and it made me wonder again if that was worth doing. I think the answer is a weak no, mostly because it’s the best source of Japanese-language entertainment for the kids.
 
 - I finished the first season of _True Detective_ and can see why it was so acclaimed at the time. Both McConaughey and Harrelson are fantastic but everyone in the show is terrific. The ending felt like it conformed a little too closely to the Hollywood formula for serial killers but by that point I was willing to cut it some slack.
 
