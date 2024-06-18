@@ -22,4 +22,4 @@ categories: ["weeknotes"]
 
 - My fasting has been going well. I reached my lowest in years at 67.46kg!
 
-- Every now and then I hear the word ‘calamity’ and sing to myself ‘Holy calamity’. I could never remember the name of the song but finally looked it up and it’s from Handsome Boy Modeling School’s 1999 _So... How’s Your Girl?_ ([Apple Music](https://music.apple.com/us/album/holy-calamity-bear-witness-ii-feat-dj-shadow-dj-quest/1607689963?i=1607689971)).
+- Every now and then I hear the word ‘calamity’ and sing to myself ‘Holy calamity, scream insanity, all you ever gonna be's another great fan of me’. I could never remember the name of the song but finally looked it up and it’s 'Holy Calamity (Bear Witness II)' from Handsome Boy Modeling School’s 1999 _So... How’s Your Girl?_ ([Apple Music](https://music.apple.com/us/album/holy-calamity-bear-witness-ii-feat-dj-shadow-dj-quest/1607689963?i=1607689971)).
