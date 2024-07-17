@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll"
 
-group :broken_gems do
-  gem "google-protobuf", "= 4.26.0.rc.1"
-end
+# group :broken_gems do
+#   gem "google-protobuf", "= 4.26.0.rc.1"
+# end
 
 group :legacy_gems do
   gem "base64"
