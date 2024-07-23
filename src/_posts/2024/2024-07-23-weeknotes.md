@@ -4,7 +4,7 @@ title: "Weeknotes #236"
 categories: ["weeknotes"]
 ---
 
-- Joe Biden announced he would not contest the 2024 U.S. Presidential Election ([ABC News](https://www.abc.net.au/news/2024-07-22/joe-biden-steps-aside-as-democratic-presidential-candidate-2024/104124806). From the standpoint of defeating Donald Trump's election campaign, this seems like the best strategy. I'm doing my best to not become invested in an outcome that is not in my control.
+- Joe Biden announced he would not contest the 2024 U.S. Presidential Election ([ABC News](https://www.abc.net.au/news/2024-07-22/joe-biden-steps-aside-as-democratic-presidential-candidate-2024/104124806)). From the standpoint of defeating Donald Trump's election campaign, this seems like the best strategy. I'm doing my best to not become invested in an outcome that is not in my control.
 
 - Now that I'm not taking the kids to Yoyogi Chapters on Saturday mornings, I took the opportunity to take Rowan on the Laview express train that runs from Ikebukuro up to Chichibu. Rather than go down to Ikebukuro and then back up to Tokorozawa (the first stop), I went the other way. This put Rowan and me in Ikebukuro at around 10.30 and so with oodles of time left in the day, when Rowan asked if we could also go on the shinkansen I thought 'Why not?' and we caught the Yamanote train around to Ueno before riding an E5 Hayabusa shinkansen ([Wikipedia](https://en.wikipedia.org/wiki/E5_and_H5_Series_Shinkansen)) to Tokyo Station. This was both Rowan's and my first time on the E5.
 
