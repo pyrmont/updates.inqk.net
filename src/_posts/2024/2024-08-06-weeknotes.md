@@ -14,7 +14,7 @@ categories: ["weeknotes"]
 
 - As you can no doubt discern from a 200-word digression on the electronic payment technologies being used in Japan, it was a quiet week. Dare I call it the dog days of summer ([Wikipedia](https://en.wikipedia.org/wiki/Dog_days))? I once again took Rowan on a train trip on the weekend, this time out to Haneda Airport so that we could ride the monorail. 
 
-- If you follow U.S. national politics at all, you’re likely aware that the current attack _do jour_ the Democrats have been deploying against the Republicans is to call them weird. I thought Noah Smith had a [good explanation](https://www.noahpinion.blog/p/whos-weird) of why it seems to rankle Republicans so much.
+- If you follow U.S. national politics at all, you’re likely aware that the current attack _du jour_ the Democrats have been deploying against the Republicans is to call them weird. I thought Noah Smith had a [good explanation](https://www.noahpinion.blog/p/whos-weird) of why it seems to rankle Republicans so much.
 
 - I found [this talk](https://www.youtube.com/watch?v=h4s891KVN80) by Anders Schau Knatten about what C compilation toolchains actually _do_ to be a helpful introduction to understanding the process of turning human-readable source code into machine code. If that sounds a little dry, [this 11-minute lighting talk](https://www.youtube.com/watch?v=Zcg1Ku4YB4g) by Tom Ballinger about how undo could work in program execution is both amusing and thought-provoking.
 
