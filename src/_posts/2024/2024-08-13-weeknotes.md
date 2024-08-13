@@ -6,7 +6,7 @@ categories: ["weeknotes"]
 
 - Eri took Emma to see _Inside Out 2_ in Japanese on Saturday and I took John with me to ride the Narita Express with Rowan. Trains aren't really John's thing so we went to Tokyo Station via Asobono. That's the indoor playground I took Emma and John to [back in April](https://updates.inqk.net/post/1712671440.html) (has it been that long?). I wasn't sure how Rowan would fare given he can be territorial but it all went surprisingly smoothly. So much so, in fact, that when Rowan asked if we could go again, I told him we might be able to go back on Monday with everyone.
 
-- I'm burying the big lede as they say because the big news of the week was weighing myself on Friday evening to see that my weight was below 65kg. I don't actually want to be 64 but 65 was my semi-arbitrary goal when I started the diet back in May and it feels great to have reached it. I still haven't quite worked out the diet I want to move to, so far it's mostly consisted of eating the occasional lunch with longer fasts when my weight heads back up to 66 or 67.
+- I'm burying the lede as they say because the big news of the week was weighing myself on Friday evening to see that my weight was below 65kg. I don't actually want to be 64 but 65 was my semi-arbitrary goal when I started the diet back in May and it feels great to have reached it. I still haven't quite worked out the diet I want to move to, so far it's mostly consisted of eating the occasional lunch with longer fasts when my weight heads back up to 66 or 67.
 
 - I still haven't got back into exercising so that hasn't gone anywhere near as well. Maybe next week.
 
