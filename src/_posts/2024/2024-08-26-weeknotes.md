@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - My largest disappointment (other than with my own incompetence) has been with Backblaze. I don’t know if I did something wrong but despite intending to configure the Backblaze client to back up the entirety of the drive, when I now check Backblaze’s website, I see no record of the the ‘Developer’ directory (and some of the other directories doesn’t seem as complete as I expect). Most of the code had been pushed to GitHub but not all of it. Notably, I’ve lost the Sketch file for the [Flext](https://apps.inqk.net/flext/) logo. It’s not a huge loss but that was and is my first app and I created that icon myself—now it’s gone.
 
-- I don’t believe in premonitions, but if I did, I would tell you that I had one last week that almost prompted me to check the Backblaze backup contained what I thought it did. Almost prompted me.
+- I don’t believe in premonitions, but if I did, I would tell you that I had one last week that almost prompted me to check that the Backblaze backup contained what I thought it did. _Almost_ prompted me.
 
 - The one silver lining was that I didn’t lose more. About six months ago, I moved a lot of the older data I’ve been carrying around for decades at this point to iCloud. So fortunately my study notes for the 2000 HSC remain safe and sound should I ever need to brush up on my Thucydides. [_Which you never know_](https://www.theatlantic.com/international/archive/2015/09/united-states-china-war-thucydides-trap/406756/).
 
