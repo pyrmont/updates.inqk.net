@@ -4,7 +4,7 @@ title: "Weeknotes #241"
 categories: ["weeknotes"]
 ---
 
-- Some time late Saturday or early Sunday, the portable hard drive I have connected to my Mac Mini disconnected. I should have immediately shut things down and seen what I could salvage but instead of that, I restarted the computer a few times, connected the drive to a variety of devices that were lying around, trying in vain to get a device to detect the portable drive as a hard disk. I eventually succeeded somehow—I’m still not sure what I did—only to have macOS freeze as I tried writing to the disk (yes, for reasons I cannot explain, even once I got access to the disk, I did not immediately copy everything off it that I could).
+- Some time late Saturday or early Sunday, the portable hard drive I have connected to my Mac Mini disconnected. I should have immediately shut things down and seen what I could salvage but instead of doing that, I restarted the computer a few times, connected the drive to a variety of devices that were lying around, trying in vain to get one of them to detect the portable drive as a hard disk. I eventually succeeded somehow—I’m still not sure what I did—only to have macOS freeze as I tried writing to the disk (yes, for reasons I cannot explain, even once I could read again from the disk, I did not immediately copy everything off it that I could).
 
 - As of this writing, the drive isn’t working on any computer I own. It is detected on whichever USB bus that it’s plugged in to but it isn’t recognised as a disk at all so I can’t run any diagnostics on it. I assume it’s probably hosed and I’ve put it aside for the moment. Why would it work again if I wait a couple of weeks and try again? I can’t think of a rational reason but it’s all I have left.
 
