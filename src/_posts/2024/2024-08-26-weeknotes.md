@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - Around the time of _The Last Jedi_, a couple of film critics I follow (such as [Patrick Willems](https://www.youtube.com/watch?v=j9HivyjAKlc)) were critical of the overemphasis from some fans on plot coherence. As someone who thinks plot coherence is a fair thing to emphasise (especially in the case of _The Last Jedi_), I appreciated Freddie deBoer’s [somewhat tardy rejoinder](https://freddiedeboer.substack.com/p/perhaps-movies-should-make-sense).
 
-- I’d forgotten Ed Sheeran’s ‘Bad Habits’ until it came on my personal Apple Music radio station. Searching for it later, somehow led me to the Apple Music Home Session of Norwegian singer-songwriter, Sigrid, and her cover of the song ([Apple Music](https://music.apple.com/us/album/bad-habits-apple-music-home-session/1579905790?i=1579905808)).
+- I’d forgotten Ed Sheeran’s ‘Bad Habits’ until it came on my personal Apple Music radio station. Searching for it later, somehow led me to the Apple Music Home Session of Norwegian singer-songwriter, Sigrid, and her cover of the song ([Apple Music](https://music.apple.com/us/album/apple-music-home-session-sigrid/1620358195)).
