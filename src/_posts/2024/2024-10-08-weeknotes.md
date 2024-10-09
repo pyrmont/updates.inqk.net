@@ -11,9 +11,13 @@ categories: ["weeknotes"]
 - It was a ‘finally’ kind of day because the same day I wrote the shortcut was also the same that I managed to get Time Machine working with a [sparse bundle disk image](https://en.wikipedia.org/wiki/Sparse_image) on my external drive. For anyone interested (or me in the future), there were five steps:
 
   1. Create the sparse bundle disk image. This can be done in Disk Utility.
+
   2. Mount the disk image. Run this command in Terminal: `hdiutil attach </path/to/sparse/bundle/image>.sparsebundle`.
+
   3. Tell Time Machine to use this disk image. Run this command in Terminal: `sudo tmutil setdestination /Volumes/<VolumeName>`.
+
   4. Create an Automator action. macOS won’t automatically mount the disk image on restart, so you have to do this yourself. My preferred option was to create an Automator ‘app’ that merely runs the ‘shell script’ `hdiutil attach </path/to/sparse/bundle/image>.sparsebundle` from Step 2.
+
   5. Run the Automator action on login. In Settings > General > Login Items & Extensions, you need to add the Automator app you created in Step 4.
 
   Not exactly the most straightforward process but I now have a Time Machine backup that my Mac backs up to without me needing to do anything.
