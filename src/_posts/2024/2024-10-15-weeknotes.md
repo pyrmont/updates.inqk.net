@@ -14,10 +14,10 @@ categories: ["weeknotes"]
 
 - _Law & Order_ is back and it’s fine. They've replaced yet another cast member before they replace either of the prosecutors which, at the risk of sounding solipsistic, feels like conscious decision targeting me. My experience wasn't improved by pairing the season opener with Season 11's ‘Hubris’ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/LawAndOrderS11E9Hubris)). 'Hubris' is completely ridiculous but so much more substantive.
 
-- I finished season four of _Slow Horses_ and was extremely disappointed. I'm not sure whether this reflects a weaker novel but this series had almost none of the elements I enjoyed in the previous seasons. There will be a season five and I hope it's a return to form.
+- I finished season four of _Slow Horses_ and was extremely disappointed. I'm not sure whether it reflects a weaker novel but this season had almost none of the elements I enjoyed in prior episodes. There will be a season five and I hope it's a return to form.
 
 - I am _extremely_ disappointed that Yoshe has not been watching _Only Murders in the Building_. She is a terrible friend.
 
 - I was talking to Brandon about _Brat_ and specifically whether Charli XCX's pronunciation of the lyric 'looking like an icon' in album opener '360' intentionally sounds like 'looking like a Nikon'. I contend that it is given the camera-related imagery in the lines surrounding it. Brandon disagrees. He is also a terrible friend.
 
-- Since I linked to the album [three weeks ago](https://updates.inqk.net/post/1727182500.html) so while in my heart I'm linking to it again, I'll instead link to Northeast Party House's cover of 'Heads Will Roll' in the style of the A-Trak remix ([Apple Music](https://music.apple.com/us/album/heads-will-roll-triple-j-like-a-version/1768693193?i=1768693203)).
+- Since I linked to the album [three weeks ago](https://updates.inqk.net/post/1727182500.html), I don't think I can link to _Brat_ again. So know that while in my heart, that's what I'm doing, I am in fact linking to Northeast Party House's cover of 'Heads Will Roll' in the style of the A-Trak remix ([Apple Music](https://music.apple.com/us/album/heads-will-roll-triple-j-like-a-version/1768693193?i=1768693203)).
