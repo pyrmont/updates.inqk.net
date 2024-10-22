@@ -3,7 +3,7 @@ date: 2020-01-27 10:49:00 +0900
 title: "Weeknotes #2"
 categories: ["weeknotes"]
 ---
-- After eating far too much terrible food over the Christmas break, I've started [time-restricted feeing](https://en.wikipedia.org/wiki/Intermittent_fasting) again. While I think it would be better to just eat healthier, of all the adjustments I tried making to my eating habits last year, this was the one I was able to maintain and that resulted in consistent weight reduction.
+- After eating far too much terrible food over the Christmas break, I've started [time-restricted feeding](https://en.wikipedia.org/wiki/Intermittent_fasting) again. While I think it would be better to just eat healthier, of all the adjustments I tried making to my eating habits last year, this was the one I was able to maintain and that resulted in consistent weight reduction.
 
 - One difference from last year is that I'm using the app [Zero](https://www.zerofasting.com/) to track how successful I am at completing my fasts. I don't know if I'll actually use this data for anything but like a lot of 'quantified self' stuff, it seems helpful to have it.
 
