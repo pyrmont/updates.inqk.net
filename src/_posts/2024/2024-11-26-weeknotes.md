@@ -18,4 +18,4 @@ categories: ["weeknotes"]
 
 - Speaking of great things on the web, the website for the [Aircraft typeface](https://airport.revolvertype.com/) is pretty tops.
 
-- I felt a sense of optimism about rock when Kasabian’s ‘Club Foot’ ([Apple Music](https://music.apple.com/jp/album/club-foot/1005970773?i=1005970774&l=en-US)) found its way onto one Apple’s personalised playlists only to realise it’s 20 years old.
+- I felt a sense of optimism about rock when Kasabian’s ‘Club Foot’ ([Apple Music](https://music.apple.com/jp/album/club-foot/1005970773?i=1005970774&l=en-US)) found its way onto one of Apple’s personalised playlists only to realise it’s 20 years old.
