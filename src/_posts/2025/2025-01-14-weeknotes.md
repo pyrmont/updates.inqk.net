@@ -26,4 +26,4 @@ categories: ["weeknotes"]
 
   - It is admittedly from last year but Christopher Bingham has a [very fun fan theory](https://youtu.be/Mrl-9n48rY0) about when Truman Burbank, the titular character of _The Truman Show_, realises he’s in a TV show. Like all the best fan theories it’s almost certainly wrong and changes the way you see the entire movie.
 
-- The song everyone will always associated with Swedish group The Cardigans is of course ‘Lovefool’. But I’ll always have a soft spot for ‘My Favourite Game’ ([Apple Music](https://music.apple.com/us/album/my-favourite-game/1450139230?i=1450139395)) from 1998’s _Gran Turismo_.
+- The song everyone will always associate with Swedish group The Cardigans is of course ‘Lovefool’. But there'll forever be a soft spot in my heart for ‘My Favourite Game’ ([Apple Music](https://music.apple.com/us/album/my-favourite-game/1450139230?i=1450139395)) from 1998’s _Gran Turismo_.
