@@ -1,0 +1,21 @@
+---
+date: 2025-01-21 04:46:00 +0900
+title: "Weeknotes #262"
+categories: ["weeknotes"]
+---
+
+- We closed on the sale of the new house. For an extremely brief moment, I had more money in my bank account than I will ever have again only for it to quickly disappear. I wish I felt better about this. Part of that is my anxiety about our budget for the next few months. The fees associated with the purchase were far higher than I was anticipating (this is my fault—I should have found out what these were early on in the process) and we’re likely to be in a precarious financial state as we pay all the costs associated with the move. I’m banking (ha!) on lower mortgage payments (compared to our monthly rent) to eventually stabilise things.
+
+- Eri has been sick for the past two months with some sort of respiratory problem. She finally found out that it’s mycoplasma pneumonia ([Wikipedia](https://en.wikipedia.org/wiki/Mycoplasma_pneumonia)) and while it’s a relief to know what she’s sick with, the antibiotics the doctors prescribed haven’t helped much. This is not great timing because we really need to be organising the aforementioned move but Eri understandably can’t contribute much on that front and I feel slammed balancing work with the housework/child-rearing I’m covering. We’re never going to get [robot maids](https://en.wikipedia.org/wiki/List_of_The_Jetsons_characters#Rosie), are we?
+
+- Last week, I forgot to write about [Moneytree](https://getmoneytree.com/jp/home). I don’t know how this happened but I discovered I haven’t been paying for a subscription. That’s not that surprising in and of itself—there are lots of services that I don’t subscribe to—but what makes Moneytree different is that I would have sworn an oath under penalty of perjury that I was. Indeed, I’ve had a line item in our household budget for years now listing a subscription! Turns out, nope! It left with me with so many questions. How did this happen? Why did I think that I was paying for a subscription? Are there are other things that I think I’m doing that I’m not? Did [I switch places with Michael from an alternative timeline](https://scifi.stackexchange.com/questions/261495/where-is-marty-from-the-alternate-timeline-where-george-mcfly-is-an-author-that))?
+
+- I also forgot to write about switching to [Orion](https://kagi.com/orion/). It’s a WebKit-based browser from the creators of the [Kagi search engine](https://kagi.com). After listening to Kagi founder, Vlad Prelovac, on John Gruber’s podcast, [_The Talk Show_](https://daringfireball.net/thetalkshow/2024/12/24/ep-416), I found myself intrigued. I was also frustrated for the umpteenth time about how terrible the sync performance is in Safari for Reading List and iCloud Tabs. Orion isn’t really a solution to this problem–it lacks an API to add links to its Reading List from other apps so you basically never do that and it makes accessing tabs from other devices cumbersome enough that you avoid doing that too—but I was annoyed enough at Apple that I switched anyway. I unwisely purchased a lifetime licence immediately and so am pot-committed for at least some amount of time.
+
+- I’m so far behind in my online reading but this sentence by Matt Yglesias from a piece on [future environmental policy](https://www.slowboring.com/p/after-the-green-new-deal) hit me hard:
+
+  > Left-of-center elites really want to address the problem of climate change, but working class voters do not want to bear localized economic costs for global benefits.
+
+  As someone who still finds himself wishing at least once a week that there was a carbon price, I resemble this remark.
+
+- I’m a long-time fan of Slate’s _Hit Parade_ podcast but only just got around to listening to the December episode about the [intersection of pop music and commercials](https://slate.com/podcasts/hit-parade/2024/12/how-advertising-turns-commercial-jingles-into-chart-hits). The whole episode is great if you love advertising (I hadn’t realised how important a series of British Levi’s ads from the mid-90s were to establishing the power of prominent song placements) but the highlight was definitely the discussion of Apple’s iconic commercials from the 2000s. I had completely forgotten about Yael Naim’s ‘New Soul’ ([Apple Music](https://music.apple.com/jp/album/new-soul/1447101237?i=1447101794&l=en-US)).
