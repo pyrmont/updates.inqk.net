@@ -16,6 +16,6 @@ categories: ["weeknotes"]
 
   > Left-of-center elites really want to address the problem of climate change, but working class voters do not want to bear localized economic costs for global benefits.
 
-  As someone who still finds himself wishing at least once a week that there was a carbon price, I resemble this remark.
+  As someone who still finds himself wishing at least once a week that there were a carbon price, I resemble this remark.
 
 - I’m a long-time fan of Slate’s _Hit Parade_ podcast but only just got around to listening to the December episode about the [intersection of pop music and commercials](https://slate.com/podcasts/hit-parade/2024/12/how-advertising-turns-commercial-jingles-into-chart-hits). The whole episode is great if you love advertising (I hadn’t realised how important a series of British Levi’s ads from the mid-90s were to establishing the power of prominent song placements) but the highlight was definitely the discussion of Apple’s iconic commercials from the 2000s. I had completely forgotten about Yael Naim’s ‘New Soul’ ([Apple Music](https://music.apple.com/jp/album/new-soul/1447101237?i=1447101794&l=en-US)).
