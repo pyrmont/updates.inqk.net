@@ -12,7 +12,7 @@ categories: ["weeknotes"]
 
 - Speaking of the last time we moved, it was brought to my attention when discussing _that_ move with a colleague at work that the word ‘removalist’ isn’t a word that other native English speakers use. Wiktionary agrees that its use to mean ‘mover’ is [chiefly Australian](https://en.wiktionary.org/wiki/removalist).
 
-- I also decided to go back to Asahinet for our Internet service in the new house. The apartment we’re in provides decently fast Internet service to each apartment at no additional fee so I’m not exactly looking forward to having to pay for that again. I have signed up for a 10GB connection which, if the speeds we receive are close to that, will make for a decent upgrade.
+- I also decided to go back to Asahinet for our Internet service in the new house. The apartment we’re in provides decently fast Internet service to each apartment at no additional fee so I’m not exactly looking forward to having to pay for that again. I have signed up for a 10Gb connection which, if the speeds we receive are close to that, will make for a decent upgrade.
 
 - One of the things that I did when we returned to Australia last year for Christmas was switch away from Vodafone to an MVNO, amaysim. The appeal was that they had a 1-year plan for $10 whereas Vodafone’s 1-year plan was $40 (although I did also have to spend $10 to activate international roaming so effectively $20). A couple of weeks back, it stopped being able to connect to a Japanese network. I eventually put aside a bit of time to chat (in the IRC sense) to a support person who eventually got it resolved by turning something off and on again on their end. Since then it’s been fine but it has left me worried if the problem will recur.
 
