@@ -20,4 +20,4 @@ categories: ["weeknotes"]
 
 - If you’re not that interested in space, this probably won’t do much for you but I loved Hank Green’s [YouTube video](https://www.youtube.com/watch?v=grdu6UBK76w) about the four largest moons of Jupiter.
 
-- After watching Trash Theory’s video about The La’s and ‘There She Goes’, I of course started listening to the song again. It’s great but as someone who’s never listened to their other material, I was impressed by how good the rest of the album is, too ([Apple Music](https://music.apple.com/jp/album/the-las/1444167004?l=en-US)).
+- After watching Trash Theory’s [video essay](https://www.youtube.com/watch?v=LEGCUiDpeXM) about The La’s and ‘There She Goes’, I of course started listening to the song again. It’s great but as someone who’s never listened to their other material, I was impressed by how good the rest of the album is, too ([Apple Music](https://music.apple.com/jp/album/the-las/1444167004?l=en-US)).
