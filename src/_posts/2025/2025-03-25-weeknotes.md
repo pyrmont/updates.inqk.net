@@ -1,0 +1,19 @@
+---
+date: 2025-03-25 23:38:00 +0900
+title: "Weeknotes #271"
+categories: ["weeknotes"]
+---
+
+- Only a few days to go before returning the key to the old apartment. This week, I paid two guys to come around with a truck and dispose of the detritus we didn’t want to bring to the new house. This included a large number of CDs that I’ve been carting around with me for more than a decade at this point. I thought about bringing them over to the new house—they wouldn’t really take up much space (they’re CDs after all)—but I knew I wouldn’t listen to them and it felt like it was time to let go. Honestly, I should have done it years ago.
+
+- The details are hazy now but at some point in the 2000s, I remember getting a haircut at a barbershop on George Street in Sydney. I’m not one for small talk but the guy cutting my hair was on a working holiday in Australia and I couldn’t help but ask him some questions. Perhaps I’m misremembering but in my recollection I asked him about lugging stuff around the world and he said something to the effect of having all his belongings in a single suitcase. He refused to buy more and said it was incredibly liberating. He challenged me to consider how much of the stuff I own I really needed and I often think back to his words and wish I had less.
+
+- Obviously one of those times was not when I bought a Eufy smart scale last week. This was doubly ironic: first, because of the preceding paragraph. But, second, because it came about 24 hours after I’d confidently told Brandon that I didn’t think I could bring myself to ever buy a smart device from a Chinese company. I would have preferred an alternative but the reason I was buying a new scale was that I was sick of the periodic difficulty I had getting the Withings one I owned to sync with my phone and the alternatives were all from Japanese companies and, well, I don’t have any confidence that the Japanese would be better at this. So far, the Eufy one is doing what I want it do and I suppose I’ll just keep my fingers crossed that I haven’t opened my house up to the Chinese Communist Party.
+
+- Almost exactly four years ago, I wrote about [finding Australian meat pies](https://updates.inqk.net/post/1613393760.html) at my local 7-Eleven of all places. Well, I found them again! This time they were at the My Basket supermarket that’s close to our place. Alas, I’m not sure there’ll be any more: I bought the last seven (not a typo) and despite checking twice over the past four days or so, they’ve yet to restock. When I asked one of the staff if they knew if they’d be getting any more, they sadly indicated that they did not know. (I’m not sure they’re were sad—the look might have been the pity you reserve for small children who ask difficult questions about death.)
+
+- Last week I mentioned that [I’d gone back to Safari](https://updates.inqk.net/post/1742277420.html) after trying out the web browser Orion. One of the things about Safari that I can’t stand is the unreliability of Reading List. I don’t know if it’ll work that much better but after a silly amount of time, I rigged up a Shortcut that allows me to open links in a specific Tab Group. The process to do this is of course ridiculous: Safari doesn’t vend an action to open a URL in a specific Tab Group so instead I have to enable a Focus because Focuses (Focii?) can specify a Focus Filter that forces links to open in a particular Tab Group.
+
+- I was very surprised to find my name on the list of bloggers in Japan that [Derek Wessman recommended on his blog](https://www.derekwessman.com/blog-1/blogs-you-should-read). Thanks Derek!
+
+- Australian band, the Cat Empire released a new album, _Bird in Paradise_. It’s not bad but I’ve listened to it a couple of times and I’m sorry to say that it doesn’t rank up there with their self-titled debut from 2003 ([Apple Music](https://music.apple.com/jp/album/the-cat-empire/1745022885?l=en-US)).
