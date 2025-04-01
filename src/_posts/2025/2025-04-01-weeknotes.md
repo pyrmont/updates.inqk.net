@@ -1,0 +1,19 @@
+---
+date: 2025-04-01 23:18:00 +0900
+title: "Weeknotes #272"
+categories: ["weeknotes"]
+---
+
+- I’m a little ashamed to say that I’ve intentionally avoided paying too much attention to the news of late. So much so in fact that it took me a couple of days to realise what had happened in Myanmar on Friday ([ABC News](https://www.abc.net.au/news/2025-03-28/magnitude-7-7-earthquake-strikes-myanmar/105110670)).
+
+- What I have been doing is to try to focus on what’s going on around me. On Sunday, after several solid weeks of requests, I finally took Rowan to Asobono for the first time this year. Emma and John came, too. We also squeezed in visits to a MOS Burger for lunch and then a nearby park on the way home. The weather was particularly pleasant and part of me wished we’d organised a hanami outing like a number of the families at the park. Maybe next year.
+
+- On Thursday, I returned the key to a man from the property management company that looked after the apartment. It hasn’t completely sunk in that we are no longer living there. I’ve had to go in for work several times since moving and I have had to catch myself several times on the way home from taking the ‘wrong’ exit from the station.
+
+- The meat pies [I wrote about last week](https://updates.inqk.net/post/1742913480.html) are back in stock! I quickly bought a half dozen. I split one between the kids for lunch the other day and I was disappointed to see them eat it begrudgingly. Ingrates. Also: more for me! I suppose I should be happy I managed to get them to like Vegemite.
+
+- Eugenia bought an iPhone 16e to replace her aging iPhone 14 Pro. I too have an iPhone 14 Pro (although the Max version) and this prompted me to once again consider my options. Something that has my attention is an iPhone ‘subscription’ plan from au where you start paying for an iPhone on an instalment plan but where after 24 months, you can trade in the phone and switch to a new iPhone (admittedly with higher instalment fees if the price of the new iPhone has gone up relative to the previous model). The two questions I had difficulty getting an answer to were: (1) what do you have to pay if you want to switch after 12 months? (2) do you need to sign up for an au service contract? I quite like the au network—my experience with Povo has been very positive—but I don’t actually want to pay the high fees au charges. You get a lot of data for the price but I don’t need that much (but I do need more than the el cheapo plans they offer for users who barely use their phones). I tried calling one of their sales lines but they advised me to go and visit an au shop in person.
+
+- I made a little time for myself to work on a PR for the Janet programming language that added support for [‘interrupting’ certain kinds of running evaluations after a period of time](https://github.com/janet-lang/janet/pull/1575). I’d worked on a similar PR a couple of weeks back but it relied on a background thread running a constant busy loop. This time I found a way to put the background thread to sleep in a way that allowed it to be cancelled by the main thread if the evaluation completed _before_ the time ran out. I’m probably now at the point where I need to stop procrastinating and get back to Grapple.
+
+- Readers of a certain age will no doubt remember ‘Rush’ by Big Audio Dynamite (technically, [Big Audio Dynamite II](https://en.wikipedia.org/wiki/Big_Audio_Dynamite#Big_Audio_Dynamite_II_(1991–1993))). Well, no, they almost certainly won’t remember it from just the name but presumably will as soon as they listen to it ([Apple Music](https://music.apple.com/jp/album/rush/192750763?i=192750883&l=en-US)). I was surprised to discover two things. First, the band was formed by Mick Jones of the Clash. Second, the nonsensical chorus line isn’t nonsensical at all. Jones is sings: ‘Situation, no win / Rush for a change of atmosphere / I can’t go on so I give in / Gotta get myself right out of here’. Indeed.
