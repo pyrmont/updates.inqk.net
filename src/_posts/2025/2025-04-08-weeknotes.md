@@ -4,7 +4,7 @@ title: "Weeknotes #273"
 categories: ["weeknotes"]
 ---
 
-- President Donald Trump announced sweeping tariffs on almost all of the U.S.'s trading partners (except Russia) ([ABC News](https://www.abc.net.au/news/2025-04-03/donald-trump-tariffs-reciprocal-trade-announcement/105125434)). His list included Taiwan (which the U.S. typically avoids saying is a separate country to the People's Republic of China) and an uninhabited island. It was, as usual, for Trump, both deeply embarrassing and deeply unsettling. As others have noted, the post-WW2 era has seen the greatest sustained improvement in human living standards, in no small part because of global trade. I fear the consequences of people this poorly organised messing with such a complicated system.
+- President Donald Trump announced sweeping tariffs on almost all of the U.S.'s trading partners ([ABC News](https://www.abc.net.au/news/2025-04-03/donald-trump-tariffs-reciprocal-trade-announcement/105125434)). His list included Taiwan (which the U.S. typically avoids saying is a separate country to the People's Republic of China) and an uninhabited island. It was, as usual, for Trump, both deeply embarrassing and deeply unsettling. As others have noted, the post-WW2 era has seen the greatest sustained improvement in human living standards, in no small part because of global trade. I fear the consequences of people this poorly organised messing with such a complicated system.
 
 - Perhaps not coincidentally, there was a large amount of posting being done on Bluesky. My favourite thing I saw wasn't a specific post but the user [@proptermalone.bsky.social](https://bsky.app/profile/proptermalone.bsky.social) whose name is 'post malone ergo propter malone'.
 
