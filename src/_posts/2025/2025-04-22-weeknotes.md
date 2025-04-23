@@ -1,0 +1,19 @@
+---
+date: 2025-04-22 23:39:00 +0900
+title: "Weeknotes #275"
+categories: ["weeknotes"]
+---
+
+- Easter Sunday was, er, on Sunday. I wrote [last week](https://updates.inqk.net/post/1744727460.html) that I had ordered ‘spun’ chocolate eggs for the kids and I’m not sure if that was correct. What actually arrived was a half egg, half bunny rabbit confection. This was actually perfect so no complaints from me (or the kids). It’s definitely a pricey purchase, though, and perhaps next year I try to get Mum to send something from Australia.
+
+- I started dieting again in March but paused it in the two weeks or so after we moved. I’ve been back on it this month and am pleased to report that I have it down from about 69kg to 66kg or so. I’d like to get it to 65 and there’s still a little over a week left in April so I’ll see how that goes.
+
+- After talking to my friend sogaiu about Markdown and the alternatives out there (especially the markup language, [Djot](https://www.djot.net)), I started thinking seriously about creating one of my own. The mistake that I think many Markdown challengers make is not recognising that Markdown has ‘won’. If you want something to succeed it, the best approach is to build something atop a subset of ‘basic Markdown’ and prefix any new syntax you want to add with a ‘macro’ character. If you do this, my hypothesis is that you would (1) be able to parse a good proportion of existing Markdown without any changes and (2) allow existing Markdown parsers to still be useful for a good proportion of text written in your mark-up language.
+
+- After buying the Xbox [last year](https://updates.inqk.net/post/1732016400.html), I signed up for Game Pass Ultimate as a way to (relatively) cheaply access _Jedi: Fallen Order_. I finally finished the game over the weekend, albeit by ‘cheating’ at the every end and turning the difficulty for the final boss all the way down to the easiest setting. I’m tempted to do the final level again but they’ve made it so that there’s no way to do that level unless you do the whole game again from the beginning. 
+
+- Unsurprisingly, Game Pass Ultimate gives you access to a number of Microsoft’s own games, including, of course, _Minecraft_. John’s been wanting to play this for more than a year and while I did think about making him wait for his birthday, it felt unfair to do that when I have access to the game for ‘free’. That of course led to me buying it (for ¥1300) for Emma’s iPad so that they could play together. When I realised that that required them to be playing at the same time, that led me to working out how to run a personal Minecraft server. That took much longer than I hoped but after much gnashing of teeth, I now have a Docker container on my Synology running Nukkit, a community-developed alternative to the official Minecraft server software ([Gaming Pedia](https://www.ncesc.com/gaming-faq/what-is-a-nukkit/)).
+
+- John mostly sat through all of _Back to the Future_ (at my insistence). Rowan was surprisingly interested; his favourite scene of course being the introduction of the Time Machine. I did feel that Doc Brown’s death (by machine gun no less) in the middle of this sequence might have scarred them a little but it’s not graphic (at least as machine gun deaths go) and is effectively undone by the end of the film so hopefully that’s not something I later regret.
+
+- I came across Iron & Wine’s ‘Free Until They Cut Me Down’ from his 2004 album _Our Endless Numbered Days_ on a random playlist ([Apple Music](https://music.apple.com/jp/album/free-until-they-cut-me-down/5644896?i=5644888)). This album was apparently critically acclaimed but I don’t recall ever having heard of it (which seems strange given that I was still listening to Triple J in 2004). Maybe you’re unfamiliar with it, too?
