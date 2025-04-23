@@ -4,7 +4,7 @@ title: "Weeknotes #275"
 categories: ["weeknotes"]
 ---
 
-- Easter Sunday was, er, on Sunday. I wrote [last week](https://updates.inqk.net/post/1744727460.html) that I had ordered ‘spun’ chocolate eggs for the kids and I’m not sure if that was correct. What actually arrived was a half egg, half bunny rabbit confection. This was actually perfect so no complaints from me (or the kids). It’s definitely a pricey purchase, though, and perhaps next year I try to get Mum to send something from Australia.
+- Easter Sunday was, er, on Sunday. I wrote [last week](https://updates.inqk.net/post/1744727460.html) that I had ordered ‘spun’ chocolate eggs for the kids and I’m not sure if that was correct. What actually arrived was a half egg, half bunny rabbit confection. This was actually perfect so no complaints from me (or the kids). It’s definitely a pricey purchase, though, and perhaps next year I simply ask Mum to send something from Australia.
 
 - I started dieting again in March but paused it in the two weeks or so after we moved. I’ve been back on it this month and am pleased to report that I have it down from about 69kg to 66kg or so. I’d like to get it to 65 and there’s still a little over a week left in April so I’ll see how that goes.
 
