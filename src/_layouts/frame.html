@@ -1,0 +1,49 @@
+{%- if page.name == "index.html" -%}
+  {%- assign title = site.title -%}
+  {%- assign description = site.description -%}
+{%- elsif page.timeline -%}
+  {%- assign title = "Timeline" | append: " - " | append: site.title -%}
+  {%- assign description = "A timeline of updates" | append: " - " | append: site.title -%}
+{%- elsif page.categories contains "weeknotes" -%}
+  {%- assign title = page.title | append: " - " | append: site.title -%}
+  {%- assign description = site.weeknotes.description -%}
+{%- elsif page.title == "" -%}
+  {%- assign title = page.date | date: "Update from %B %-d, %Y at %H:%M %Z" | append: " - " | append: site.title -%}
+  {%- assign description = page.excerpt | strip_html -%}
+{%- else -%}
+  {%- assign title = page.title | append: " - " | append: site.title -%}
+  {%- assign description = page.excerpt | default: site.description | strip_html -%}
+{%- endif -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ title }}</title>
+  <meta charset="utf-8">
+  <meta name="generator" content="Jekyll {{ jekyll.version }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="description" content="{{ description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title }} - RSS Feed">
+  <link rel="alternate" type="application/json" href="{{ '/feed.json' | relative_url }}" title="{{ site.title }} - JSON Feed">
+  <link rel="icon" href="{{ '/assets/icons/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/highlight.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  {% include navigation.html %}
+  {% if page.profile %}
+  {% include profile.html %}
+  {% endif %}
+  <section id="wrapper"{% if page.url == "/about/" %} class="bio"{% endif %}>
+    {{ content }}
+  </section>
+  <footer id="footer">
+    {% include footer.html %}
+  </footer>
+</body>
+</html>

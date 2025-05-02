@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: frame
 ---
 
 <article class="h-entry post">
   <header>
-    <h1 class="p-name">{{ page.title }}</h1>
+    {% if page.title != "" -%}
+      <h1 class="p-name">{{ page.title }}</h1>
+    {%- endif %}
     <h2 class="headline">
       <time class="dt-published" datetime="{{ page.date }}">
-        <a class="u-url dates" href="{{ site.baseurl }}/{{ page.url | remove_first: '/' }}">{{ page.date | date:"%B %-d, %Y" }}</a>
+        <a class="u-url dates" href="{{ page.url | relative_url }}">{{ page.date | date:"%B %-d, %Y" }}</a>
       </time>
       <span class="categories">
         {% for category in page.categories %}
@@ -22,9 +24,9 @@ layout: default
   </section>
 </article>
 <section id="post-meta" class="clearfix">
-  <img id="avatar" class="avatar" src="/assets/images/avatar.jpg" width="96" height="96">
+  <img id="avatar" class="avatar" src="{{ site.author.avatar | relative_url }}" width="96" height="96">
   <div>
     <span class="p-author h-card dark">{{ site.author.name }}</span>
-    <span><a href="https://inqk.net/">inqk.net</a></span>
+    <span><a href="{{ site.author.url }}">{{ site.author.site }}</a></span>
   </div>
 </section>

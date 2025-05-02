@@ -72,10 +72,11 @@ end
 
 using Posteriser::Refinements
 
-unless !defined?(Jekyll) || Jekyll.env == "posteriser_off"
+posteriser_config = "_posteriser.yaml"
+
+unless !defined?(Jekyll) || Jekyll.env == "posteriser_off" || !File.exist?(posteriser_config)
   Jekyll::Hooks.register :site, :post_write do |site|
-    config_file = "_posteriser.yaml"
-    config = YAML.load_file(config_file, symbolize_names: true)
+    config = YAML.load_file(posteriser_config, symbolize_names: true)
     fid = 0
     feed = JSON.load_file "#{site.config["destination"]}/feed.json"
     feed["items"].reverse.each do |item|
@@ -87,7 +88,7 @@ unless !defined?(Jekyll) || Jekyll.env == "posteriser_off"
         exit unless File.file?(sentinel_file) && Process.pid.to_s == File.read(sentinel_file)
         Posteriser.services(config).each { |service| service.post(item) }
         config[:latest] = item["date_published"]
-        File.write config_file, YAML.dump(config)
+        File.write posteriser_config, YAML.dump(config)
         File.unlink sentinel_file
       end
       Process.detach pid

@@ -54,6 +54,7 @@ module Jekyll
       self.data["end"] = data[:posts].last.date
       self.data["prev_tl"] = data[:prev]
       self.data["next_tl"] = data[:next]
+      self.data["timeline"] = true
     end
   end
 

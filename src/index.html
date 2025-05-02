@@ -1,4 +1,5 @@
 ---
+layout: frame
 profile: true
 ---
 <ul id="post-list">
@@ -11,10 +12,10 @@ profile: true
       </section>
       {% else %}
       <header>
-        <h2><a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       </header>
       {% endif %}
-      <a href="{{ site.baseurl }}/{{ post.url | remove_first: '/' }}" class="u-url">
+      <a href="{{ post.url | relative_url }}" class="u-url">
         <aside class="dates">
           <time datetime="{{ post.date }}" class="dt-published">→ {{ post.date | date:"%-I:%M %p, %b %-d" }}</time>
         </aside>
