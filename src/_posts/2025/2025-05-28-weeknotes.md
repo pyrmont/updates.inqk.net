@@ -1,0 +1,19 @@
+---
+date: 2025-05-28 23:14:00 +0900
+title: "Weeknotes #280"
+categories: ["weeknotes"]
+---
+
+- Mum and Monica arrived in Japan on Saturday and I drove all three kids out to the airport in a Toyota Noah ([Wikipedia](https://en.wikipedia.org/wiki/Toyota_Noah)) so that we had enough seats for me to take Mum and Mon to their hotel. Rowan had been looking to the trip for the entire week, mostly I think because he just likes driving around in a car. Most is not all, though, and he was excited to see his grandmother and his aunt. I was extremely happy when Rowan said hello to Mum without only a single prompt from me.
+
+- On Sunday, I took the kids again over to Roppongi to meet Mum and Monica for lunch and to spent a couple of hours together. I was worried we might not found anywhere to eat but Mum organised a table at [Mercer Brunch](https://www.mercer-brunch.com). The food was very nice but they had these low-rise tables and sofas and while I appreciate the intent was to create a low-key atmosphere, it did make eating anything you couldn’t pick up in your fingers quite a challenge.
+
+- As good as the weekend was overall, I also dropped my iPhone in the parking lot of the airport and badly scratched the stainless steel band. The screen is fortunately fine but it is annoying that the drop has now made the trade-in value of the phone significantly worse. All of that is made worse by the fact the incident was entirely preventable. I have a nasty habit of putting my phone under a leg when I’m in the car, forgetting that’s where I’ve put it and then ‘dragging it’ (with my leg) out of the car and onto the ground when I get out. Indeed, this is not the first time I’ve done this and I suppose one way of looking at this is to realise how lucky I’ve been up to this point. 
+
+- Speaking of spent luck, I came down with gastroenteritis after appearing to have safely dodged it over the course of the week. It seems to have only lasted about 16 hours so I don’t want to oversell the hardship but if I can go at least another 18 months between bouts, that would be most appreciated, universe.
+
+- Virtual friend extraordinaire sogaiu got me into the videos of Martin Keary (AKA Tantacrul). It’s difficult to describe them succinctly. They tend to focus on music or software design (or frequently both) but they’re also more than that. His [93-minute dissection](https://youtu.be/Yqaon6YHzaU) of the music notation software Finale combines my favourite aspects of YouTube essays: a hyperbolic focus on an incredibly niche topic and a sensibility that wanders from methodical to unhinged. If you’re looking for something at little easier, his [hour-long essay on musical elitism](https://youtu.be/azpxUnIgsts) is also great.
+
+- While I’m on the topic of YouTube, Paul Davids has a [great video on Red Hot Chili Peppers’ ‘Can’t Stop’](https://youtu.be/rcPxXXMOPIY) where he expertly explains what makes the riff by John Frusciante so difficult. Sometimes in these sorts of videos, the YouTuber will use a term of art to explain something which is no problem if you’re familiar with the jargon but can obscure more than it reveals for those of us without musical background. I really liked how at several points in this video, Davids plays the riff with and without the element he’s discussing to help you hear the difference.
+
+- So, yeah, unsurprisingly, my musical selection this week is ‘Can’t Stop’ from 2002’s _By the Way_ ([Apple Music](https://music.apple.com/jp/album/cant-stop/945578420)). Davids’ video prompted me to read the Wikipedia article about Frusciante and I hadn’t realised—or had just not paid attention to the fact—that Frusciante had left RHCP shortly after the release of 1991’s _Blood Sex Sugar Magik_ and hadn’t returned until he was invited back in 1998. There was a freshness to 1999’s _Californication_ that struck me as odd for a veteran band but which makes more sense knowing that context.
