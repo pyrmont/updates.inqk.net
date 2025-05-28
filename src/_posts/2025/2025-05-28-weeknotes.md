@@ -4,7 +4,7 @@ title: "Weeknotes #280"
 categories: ["weeknotes"]
 ---
 
-- Mum and Monica arrived in Japan on Saturday and I drove all three kids out to the airport in a Toyota Noah ([Wikipedia](https://en.wikipedia.org/wiki/Toyota_Noah)) so that we had enough seats for me to take Mum and Mon to their hotel. Rowan had been looking to the trip for the entire week, mostly I think because he just likes driving around in a car. Most is not all, though, and he was excited to see his grandmother and his aunt. I was extremely happy when Rowan said hello to Mum without only a single prompt from me.
+- Mum and Monica arrived in Japan on Saturday and I drove all three kids out to the airport in a Toyota Noah ([Wikipedia](https://en.wikipedia.org/wiki/Toyota_Noah)) so that we had enough seats for me to take Mum and Mon to their hotel. Rowan had been looking forward to the trip for the entire week, mostly I think because he likes driving around in a car. Most is not all, though, and he was excited to see his grandmother and his aunt. I was extremely happy when Rowan said hello to Mum with only a single prompt from me.
 
 - On Sunday, I took the kids again over to Roppongi to meet Mum and Monica for lunch and to spent a couple of hours together. I was worried we might not found anywhere to eat but Mum organised a table at [Mercer Brunch](https://www.mercer-brunch.com). The food was very nice but they had these low-rise tables and sofas and while I appreciate the intent was to create a low-key atmosphere, it did make eating anything you couldn’t pick up in your fingers quite a challenge.
 
