@@ -1,0 +1,17 @@
+---
+date: 2025-06-17 23:32:00 +0900
+title: "Weeknotes #283"
+categories: ["weeknotes"]
+---
+
+- On Friday, Israel attacked Iran ([Wikipedia](https://en.wikipedia.org/wiki/Iran–Israel_War)). As I write this, it’s not looking good for Iran. I’m certainly not a geopolitical expert but based on what I’ve read it sounds like Israel is in such a strong position because (1) Syria no longer controls its own airspace so Israeli fighter jets have a safe route into Iran and (2) Iran’s proxies, Hamas and Hezbollah, aren’t in a position to counterattack Israel.
+
+- Rowan celebrated his 4th birthday. His presents consisted of (yet more) Brio, Tomica toy cars and a few other odds and ends. The Brio has been a bit hit but I fear we are rapidly reaching the point at which we no longer have space for more wooden train tracks in his room. That did mean I was extra pleased with how happy he’s been with the Tomica cars. Until now we’ve been buying him imported Matchbox versions of the characters from Disney’s _Cars_. The Tomica ones are considerably cheaper than those but they are a bit smaller and I worried he might turn his nose up at them. Fortunately, like all good parents, I have projected my mental issues onto my children. Rowan barely batted an eye.
+
+- A few days later, John celebrated his 8th birthday. His two big presents were _Paper Mario: The Origami King_ and _Kirby and the Forgotten Land_ for the Nintendo Switch. I didn’t think he’d enjoy them that much given that he’s watched [Zack Scott](https://www.youtube.com/ZackScottGames/) play both games. The results are proving me wrong so far and he appears very satisfied with the selection.
+
+- After sending last week’s to the [GitHub repository](https://github.com/pyrmont/updates.inqk.net/), I waited an uncomfortably long period of time waiting for [updates.inqk.net](https://updates.inqk.net) to, er, update. I eventually logged into the server to discover that I’d completely run out of disk space. The culprit? I had no system rotating my logs and the NGINX logs in particular had grown to ridiculous size. This is the downside of using Void: a complete lack of cruft in the default distribution occasionally means they’ve left out something you aren’t used to having to consider.
+
+- Last week was Apple’s Worldwide Developers Conference and, as per usual, it’s got me all excited about making things for Apple’s platforms. In fact, not just excited about the platforms but thinking seriously about buying new hardware. Of course, I can’t just do the simple thing and buy a MacBook Pro; rather, I want to buy a Mac Mini and then use the money I ‘save’ to buy a 13” iPad Air. I’d _then_ either develop on the Mac Mini directly or, when I want to work from somewhere else, use [Screens](https://www.edovia.com/en/screens/) to connect to the Mac Mini over VNC. I gave it a brief test with my current 11” iPad Pro and the lag was totally acceptable (for someone who connects back to the office using Microsoft Remote Desktop the majority of the time). The only issue was that screen was uncomfortably small, a problem I am relatively confident would disappear with a 13” display. Of course is that a good idea? Almost certainly not. Not least of which because I’m frequently so tired in the evenings I fall asleep on the sofa.
+
+- Sofi Tukker released a remix of their 2024 _Bread_ album entitled _butter_ ([Apple Music](https://music.apple.com/jp/album/butter/1807609795)). It’s all the same songs (with a couple of extra ones) but performed in a Brazilian style.
