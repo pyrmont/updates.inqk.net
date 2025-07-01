@@ -1,0 +1,19 @@
+---
+date: 2025-07-01 23:55:00 +0900
+title: "Weeknotes #285"
+categories: ["weeknotes"]
+---
+
+- We’re into the oppressive heat of summer. It’s now so hot in the morning that walking to the train station (so as to avoid the Shrödinger’s bus service) results in me being a complete mess of perspiration. The obvious ‘solution’ is to catch the bus but I’m concerned that the heat and humidity are such that simply waiting at the bus stop will lead to the same outcome. Not looking forward to two more months of this.
+
+- Despite the heat, on Sunday I took John and Rowan out  to do something John could write about for his weekend diary-writing exercise he has to do this year. My initial idea was to visit the [Tokyo Toy Museum](https://art-play.or.jp/ttm/en/) and we went all the way to the museum only to discover that the tickets were sold out for the day (note to self: book online next time!). Fortunately, the Tokyo Toy Museum is around the corner from the Tokyo Fire Department’s [Fire Museum](https://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/index.html) which, while not quite as cool as it sounds, was still worth the visit—not lease because it was free!
+
+- I was watching Red Letter Media’s [‘review’ of _Back to the Future_](https://www.youtube.com/watch?v=DD-KzLF9pxc) and almost literally fell of my chair upon learning that Christopher Lloyd was 46 years old at the time of the first movie. As someone turning 43 this year, that’s disturbingly close to my present age. On the other hand, it does explain how Christopher Lloyd is still alive ([Wikipedia](https://en.wikipedia.org/wiki/Christopher_Lloyd)).
+
+- It’s a YouTube heavy set of links this week because I also want to direct everyone to Patrick Willems’ video about the [death of the TCM wine club](https://www.youtube.com/watch?v=4Bq8aNRCwts). I do that recognising that the chance is incredibly slim that you’ll want to watch a 25-minute video from an obscure YouTube film criticism channel. But I link to it because this is what I love about the Internet: a video about how one man’s niche interest in both wine and movies came to a bitter end.
+
+- As regular readers would be aware, I’m a dedicated (albeit often belated) listener to Slate’s _Hit Parade_ podcast. Most of the time the show functions as a history lesson to a musical genre with which I’m not particularly familiar but the [episode I listened to this week](https://slate.com/podcasts/hit-parade/2025/05/nirvana-alternative-rock-and-billboard-charts-in-the-1990s) was about 90s alternative rock and I was, to coin a phrase, like a pig in flannel.
+
+- Speaking of the 90s, one of my favourite albums from that decade is 1999’s _Battle of Los Angeles_ by Rage Against the Machine. The most well-known songs from that album are ‘Guerilla Radio’ and ‘Sleep Now in the Fire’ but the track I love the most is album opener ‘Testify’. I have extremely fond memories of listening to the album on what must have been my MiniDisc player as I cruised between Chatswood and Neutral Bay on the Sydney’s buses. Given its obscurity, imagine my surprise when pseudonymous YouTuber 12tone devoted a [whole video](https://www.youtube.com/watch?v=lqp1LbEtsJ4) to breaking down the song.
+
+- I know the obvious thing to do is to link to ‘Testify’ (so [here it is](https://music.apple.com/us/song/testify/192816689)) but a [few weeks ago](https://updates.inqk.net/post/1748441640.html) I mentioned Martin Keary’s 93-minute video on the musical notation program, Finale. That video included a deranged piece of music by Keary about Finale that’s an instant earworm. I was disappointed he hadn’t put it up on any streaming services but I was apparently not alone because he eventually did and I’m like, well, a pig in... niche? ([Apple Music](https://music.apple.com/jp/song/ooh-finale-feat-jankman/1819943301?l=en-US))
