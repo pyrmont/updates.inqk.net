@@ -1,0 +1,17 @@
+---
+date: 2025-11-11 22:18:00 +0900
+title: "Weeknotes #304"
+categories: ["weeknotes"]
+---
+
+- After meaning to do this for literally months, I finally went over to a hardware shop and picked up a set of ‘level difference slopes’ (three to be precise) that are commonly used in Japan to make a smooth incline from the road to the driveway in front of a house. We don’t have a car but we do have bicycles and without these kind of slopes, the bump as the bicycle leaps up from the road onto the driveway can be quite violent.
+
+- I was thinking of doing something more exciting on the weekend but Rowan started complaining about a sore throat and so Eri spent a good deal of Saturday afternoon waiting at the nearby ENT clinic. He wasn’t complaining by Sunday so it might have been something else.
+
+- Speaking of Rowan, he saw John playing [Reading Eggs](https://readingeggs.com) and expressed a desire to try it out. The main ‘course’ is meant for children from ages 3–7 so I set it up on his iPad and he’s spent the past week playing through the first ‘stage’. I’m surprised how well he’s been able to follow the instructions. He does ask for help pretty regularly but, if I’m being honest, I thought he would have quit almost immediately once he realised it was educational.
+
+- I watched a terrific _Law & Order_ episode: ‘Inherent Bias’ (Season 24, Episode 18). I wrote [back in June](https://updates.inqk.net/post/1749566040.html) about the show having got a lot better and, well, I wasn’t wrong. It’s a lot better. This one was the perfect blend of mystery, drama and legal issues. I don’t know if anyone else but me is watching it but I hope so as it feels like they’ve got this revised formula working incredibly well. You can’t honestly say it’s all because of Maura Tierney but you can’t _not_ say it’s all because of Maura Tierney.
+
+- I got [Jeep](https://github.com/pyrmont/jeep), my bundle manager for the Janet programming language, to the point where it has all the subcommands I wrote down in my original plan for it. I had intended to stop there but my friend sogaiu mentioned that it would be good to have a subcommand that would convert the older style of bundle to the newer style. The obvious name for such a subcommand is ‘convert’ but I’ve been doing my best to have each subcommand begin with a different letter and there’s already a command that begins with C (clean). I asked ChatGPT for some ideas and among its suggestions was ‘enhance’. As a child who grew up the 80s and 90s, I don’t see how I can pass up the opportunity to add a command called [‘enhance’](https://youtu.be/Vxq9yj2pVWk?si=1bSlCfouLuCgTw9-) to a computer program.
+
+- Long time readers of these updates will know that I consider myself something of a connoisseur of acoustic cover versions of songs so I was shocked to discover Patti Smith has an incredible cover of ‘Smells Like Teen Spirit’ that I’d somehow never heard before ([Apple Music](https://music.apple.com/jp/album/smells-like-teen-spirit/251014116?i=251014983&l=en-US)). It’s from her album _Twelve_ released in 2007. This information isn’t in the [Wikipedia entry](https://en.wikipedia.org/wiki/Twelve_(Patti_Smith_album))) but apparently the album was made at the behest of her record label as a means (at least from the label’s perspective) of cashing in on the attention Smith received in 2007 when she was inducted into the Rock and Roll Hall of Fame. Great job, Columbia.
