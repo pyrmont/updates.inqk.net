@@ -1,0 +1,19 @@
+---
+date: 2025-12-02 23:42:00 +0900
+title: "Weeknotes #307"
+categories: ["weeknotes"]
+---
+
+- The Albanese Government in Australia passed a [significant environmental law](https://www.abc.net.au/news/2025-11-27/labor-strikes-greens-deal-to-end-environmental-stalemate/106054928) after compromising with the Australian Greens. I couldn’t help but compare this to the Rudd Government failing to reach a compromise with the Greens [back in 2010](https://en.wikipedia.org/wiki/Carbon_Pollution_Reduction_Scheme#Rejection_and_withdrawal_of_bill). That failure concerned a bill that would have implemented a carbon tax. After failing to reach a compromise with the Greens or the centre-right Coalition, the Rudd Government withdraw that bill instead of using it as a trigger for a double dissolution election ([Wikipedia](https://en.wikipedia.org/wiki/Double_dissolution)). That’s a decision I view as being a complete betrayal of principle from a man who had called climate change the ‘greatest moral, economic and social challenge of our time’. The comparison is perhaps a bit unfair given the relative ambition of the two pieces of legislation (the bill in 2025 does not include a carbon tax, a policy the [Labor Party eventually implemented and which the Coalition then dismantled](https://en.wikipedia.org/wiki/Carbon_Pollution_Reduction_Scheme)) but I choose to see it as a reflection Anthony Albanese’s style of leadership. Don’t make grand promises that you then abandon, instead make boring progress.
+
+- After taking Rowan for his second influenza shot on Saturday morning, we then went out to Chiba to ride on the Chiba Urban Monorail ([Wikipedia](https://en.wikipedia.org/wiki/Chiba_Urban_Monorail)). The Chiba monorail’s claim to fame is that it’s ‘upside down’ (i.e. suspended). After taking it to Chiba-Minato, we then went over to Chiba Port Tower ([Wikipedia](https://en.wikipedia.org/wiki/Chiba_Port_Tower)) which is one of the strangest structures I’ve ever seen. From the outside it looks like a solid building but its facade is merely that, a facade around a traditional tower structure.
+
+- Speaking of Rowan, we finally bought a mattress for his bunk bed. We haven’t transitioned him to actually sleeping in it yet but this is the plan in the next couple of weeks.
+
+- An [Advent of Code](https://adventofcode.com/) command-line utility is one of the many side projects I’ve never accomplished. On Sunday evening, with less than 24 hours to go until the 2025 competition opened, I decided to give it a shot with the assistance of Claude Code. Lo and behold:[Sled](https://github.com/pyrmont/sled), the Seasonal Linear Enigma Device. This isn’t significant to anybody who isn’t me but I am absolutely delighted. I understand people who oppose the use of large language models for programming (or just in general) but I’ve found it extremely empowering.
+
+- I’m probably not doing John any favours by giving him yet _another_ way to play games but YouTube [suggested a video](https://youtu.be/KxcBHevoqhE) about installing the retro game emulator [RetroArch](https://www.retroarch.com) on the Apple TV and I’d been looking for a way to show him _Aladdin_ on the Mega Drive. It works extremely well.
+
+- The ‘steamed hams’ sketch of the _Simpsons_ ([YouTube](https://youtu.be/4jXEuIHY9ic)) is one of the defining pieces of television in my life. That says more about the way it became a meme than anything else but that’s why I so greatly appreciated [this video essay](https://youtu.be/_kVV1h6Kwno) by J.J. McCullough. In it, McCullough spends 20 minutes explaining as much as he can about the sketch and it’s great.
+
+- So somehow the Icelandic pop/jazz artist Laufey, who [I raved about in 2023](https://updates.inqk.net/post/1695127680.html), put out a new album in August ([Apple Music](https://music.apple.com/jp/album/a-matter-of-time/1812857660?l=en-US)) that I didn’t know about until now.
