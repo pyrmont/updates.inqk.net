@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - Speaking of Rowan, we finally bought a mattress for his bunk bed. We haven’t transitioned him to actually sleeping in it yet but this is the plan in the next couple of weeks.
 
-- An [Advent of Code](https://adventofcode.com/) command-line utility is one of the many side projects I’ve never accomplished. On Sunday evening, with less than 24 hours to go until the 2025 competition opened, I decided to give it a shot with the assistance of Claude Code. Lo and behold:[Sled](https://github.com/pyrmont/sled), the Seasonal Linear Enigma Device. This isn’t significant to anybody who isn’t me but I am absolutely delighted. I understand people who oppose the use of large language models for programming (or just in general) but I’ve found it extremely empowering.
+- An [Advent of Code](https://adventofcode.com/) command-line utility is one of the many side projects I’ve never accomplished. On Sunday evening, with less than 24 hours to go until the 2025 competition opened, I decided to give it a shot with the assistance of Claude Code. Lo and behold: [Sled](https://github.com/pyrmont/sled), the Seasonal Linear Enigma Device. This isn’t significant to anybody who isn’t me but I am absolutely delighted. I understand people who oppose the use of large language models for programming (or just in general) but I’ve found it extremely empowering.
 
 - I’m probably not doing John any favours by giving him yet _another_ way to play games but YouTube [suggested a video](https://youtu.be/KxcBHevoqhE) about installing the retro game emulator [RetroArch](https://www.retroarch.com) on the Apple TV and I’d been looking for a way to show him _Aladdin_ on the Mega Drive. It works extremely well.
 
