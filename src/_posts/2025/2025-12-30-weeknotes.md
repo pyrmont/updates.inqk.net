@@ -1,0 +1,17 @@
+---
+date: 2025-12-30 22:38:00 +0900
+title: "Weeknotes #311"
+categories: ["weeknotes"]
+---
+
+- We celebrated Christmas in Japan. One of the nice aspects of that is not needing to worry about choosing presents that we can 'hide' in our suitcases. We didn't use that as an excuse to go crazy; more that it was nice not to need to stress about it. Emma got a Lego set I was honestly a bit surprised she wanted, John got a 3-pack of Minecraft games for the Nintendo Switch and Rowan got more Brio.
+
+- The _Super Mario Galaxy Movie_ (the sequel to 2023's _Super Mario Bros. Movie_) comes out in 2026 and I assume as a tie-in to that Nintendo has _Super Mario Galaxy_ and _Super Mario Galaxy 2_ in a 2-pack that effectively makes the games half price. I decided that would be my 'present' and I realised playing it that this is my first proper 3-D Mario game (I played _Super Mario 3D World_ but it's more of a fixed camera 3-D game). I definitely see the appeal but it did all but confirm that these games aren't really for me. Maybe if I had my _own_ Switch, I’d find myself reaching for it rather than the Steam Deck.
+
+- Mum sent over the Christmas stockings together with chocolate coins and other sweets and that helped contribute to it feeling like Christmas. The stockings are the same ones that my siblings and I used when we were little and it's great we have them to use for our kids. The care package also included Woolworths’ sliced Christmas fruit cake. This doesn’t have the amount of icing I’d prefer but I was appreciative of it all the same.
+
+- As one might expect if you've been reading these weeknotes recently, I continued mucking around with Claude. This time the focus was on getting [Grapple](https://github.com/pyrmont/grapple), my remote REPL server, to 'flow' updates to bindings through a program. I'd originally helped work on a change to Janet itself that was aimed at making something like this better but after more experimentation with Grapple over the past week or so, it became clear that the behaviour isn’t quite what I want. Since Grapple has its own version of Janet’s evaluation function, I got to work with Claude on keeping a ‘dependency graph’ for all bindings in a session and then causing any update to a binding to trigger reevaluation of all dependent bindings. I don’t know how well that will work for more serious development but it improved my experience tinkering away on the Advent of Code puzzles I’ve been using to test things.
+
+- In the mid-2000s, I somehow came across a talk by Jonathan Blow ([‘Design Reboot’](https://youtu.be/K0kup_anLeU)). I liked this talk so much I spent a few hours transcribing it for my blog (it not being on YouTube at the time). That hardly makes me a Jonathan Blow superfan but I am interested enough in his thoughts that I was surprised I had never watched the [two](https://youtu.be/TH9VCN6UkyQ) [talks](https://youtu.be/5Nc68IdNKdg) Blow gave that led to the creation of his programming language, Jai. Those talks were fine but the [first demo of Jai](https://youtu.be/UTqZNujQOlA) is what really blew me away. I don’t think this language is for me but I understand better why this language has had a certain amount of hype around it for the past couple of years.
+
+- I came across Anastasia Kobekina’s _Bach: Cello Suites_ ([Apple Music](https://music.apple.com/jp/album/bach-cello-suites/1820958433?l=en-US)) and have been enjoying them for the past few days.
