@@ -1,5 +1,5 @@
 ---
-date: 2026-01-10 12:00:12 +0000
+date: 2026-01-10 21:00:12 +0900
 source: at://did:plc:3l5hymrc5zprrbcvywvcrgsw/app.bsky.feed.post/3mc2xla4bss2q
 ---
 
