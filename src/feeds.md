@@ -27,6 +27,6 @@ surprise to discover that this blog is replete with feeds.
 
 OK, perhaps 'replete' was overstating it a bit. Still, at least I'm not only
 offering a newsletter. That said, there _is_ also a [newsletter][email-wn] for
-the weeknotes if that's more your thing.
+the weeknotes if that's more your style.
 
 [email-wn]: https://buttondown.email/pyrmont
