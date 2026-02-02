@@ -8,4 +8,4 @@ link:
   thumb: https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3l5hymrc5zprrbcvywvcrgsw/bafkreieqiwrbkdfyg3h7k4neflr5x7l6lsdxh7rqfgtm52gdg2jgmzx4yq@jpeg
 ---
 
-I'm listening to this interview (paywalled) with Kalshi CEO Tarek Mansour and I don't see the reason we should want prediction markets. Markets transmit information but the information transmission isn't an end in itself. The end is resource allocation. What's being allocated here?
+I'm listening to [this interview](https://stratechery.com/2026/an-interview-with-kalshi-ceo-tarek-monsour-about-prediction-markets/) (paywalled) with Kalshi CEO Tarek Mansour and I don't see the reason we should want prediction markets. Markets transmit information but the information transmission isn't an end in itself. The end is resource allocation. What's being allocated here?
