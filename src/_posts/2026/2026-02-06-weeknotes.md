@@ -1,0 +1,17 @@
+---
+date: 2026-02-06 23:09:00 +0900
+title: "Weeknotes #316"
+categories: ["weeknotes"]
+---
+
+- We’ve somehow fallen into the habit of getting McDonald’s for lunch once a weekend. I feel somewhat guilty about this and so when Emma asked a week or so ago if we could go to our local Jonathan’s instead ([Jonathan’s](https://en.wikipedia.org/wiki/Jonathan%27s) being a chain of ‘family restaurants’), I said that was a great idea. It would be overly dramatic to say those were famous last words but, as the saying goes, we regret the error. When I wrote about Jonathan’s [back in 2023](https://updates.inqk.net/post/1701139380.html), I said was disappointed at the quality of the food. This remains my position.
+
+- My weight was back up to 72kg on Saturday so I’m trying once again to get back in the swing of intermittent fasting. I’ve already been more successful this time around so that’s a plus. The real trick will be stringing together a few decent weeks.
+
+- I’ve long loved the to-do list app, [Clear](https://app.useclear.com). It was originally created by Phill Ryu (who doesn’t have a web presence any more outside of... [LinkedIn](https://www.linkedin.com/in/phillipryu)?) (product manager), [David Lanham](https://www.dlanham.com/contact) (design) and Milen Dzhumerov (programming). I don’t think it’s really fair to attribute everything in group projects to any one person  but I’m going to attribute everything in this group project to one person: Dzhumerov. Once he’d left (in 2014), the app stagnated. A couple of years ago, development restarted (but without Dzhumerov) and... well, it’s just not the same. Notably for me, the Mac app and iCloud sync were removed. The iOS app is fine but I’ve been missing the old version for years now. This week, I decided to give OpenAI’s Codex a go at it. That lasted all of about 30 minutes before I ran back to Claude Code. I don’t have much to show for all the time but it has been a refreshing change of pace from all the Janet coding I’ve been doing. The most surprising thing so far has been the far slower speed of token usage. My best guess is that the language server protocol plugin that Claude Code can use to connect to Swift’s language server makes certain tasks a lot more efficient than in a language like Janet.
+
+- Speaking of programming, I’m not the biggest Casey Muratori fan in the world but I thought his talk, the [‘Only Unbreakable Law’](https://www.youtube.com/watch?v=5IUj1EZwpJY), was pretty good.
+
+- I saw a number of people linking to Mike Swanson’s [long essay](https://blog.mikeswanson.com/backseat-software/) on ‘backseat software’ and with good reason. For me, it was painfully well-timed for an upset series of messages I sent AgileBits, the developers of 1Password. I was railing against a nagging notification the Mac app recently ‘gained’ that will not go away until you install the 1Password browser extension. I’ve been assured it will eventually disappear once I’ve been using this version of the app for six months (not a typo).
+
+- Baz Luhrmann’s _Romeo & Juliet_ soundtrack is sort of on streaming platforms but sort of not (here’s the 10th Anniversary version on [Apple Music](https://music.apple.com/jp/album/william-shakespeares-romeo-juliet/1565890397?l=en-US)). Maybe it’s accessible where you are. I feel like this happened repeatedly for ‘soundtrack albums’ that were all the rage during the 90s. To be clear, these are albums that aren’t the score but instead are pop music that is either featured in or somehow related to the film.
