@@ -4,7 +4,7 @@ title: "Weeknotes #318"
 categories: ["weeknotes"]
 ---
 
-- Mum and Dad arrived. Their plane arrived 30 minutes ahead of schedule (!) so we were a little late meeting them at Haneda but fortunately it was only by a little. Traffic was looking grim in the other direction so we had some food while we waited and went up to the observation deck to watch the aeroplanes.
+- Mum and Dad arrived in Japan. Their plane arrived 30 minutes ahead of schedule (!) so we were a little late meeting them at Haneda but fortunately it wasn't by too much. And in indeed, traffic was looking grim in the other direction so we had some food while we waited and I was able to take John and Rowan up to the observation deck to watch the aeroplanes. I do feel a little embarassed by how familiar I am with Terminal 3 at this point.
 
 - In what might be the most quotidian paragraph I’ve ever written in these updates, I finally noticed that I’d been putting the bath lid on upside down for the past year or so.
 
