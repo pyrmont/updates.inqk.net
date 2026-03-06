@@ -1,5 +1,5 @@
 ---
-date: 2026-03-07 04:01:00 +0900
+date: 2026-03-06 23:51:00 +0900
 title: "Weeknotes #320"
 categories: ["weeknotes"]
 ---
