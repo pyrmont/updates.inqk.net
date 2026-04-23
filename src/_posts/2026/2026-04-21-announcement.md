@@ -7,4 +7,4 @@ link:
   desc: "An announcement post about Listless, a to-do list app for Apple platforms made using LLM-based coding agents."
 ---
 
-I wrote an announcement post for my new app, Listless. I explain why I made it and some of how it went.
+I wrote an [announcement post](https://articles.inqk.net/2026/04/21/introducing-listless.html) for my new app, Listless. I explain why I made it and some of how it went.
