@@ -24,4 +24,4 @@ categories: ["weeknotes"]
 
 - I did not wait long to watch Folding Ideas’ [video essay on being invited to Beast Games](https://www.youtube.com/watch?v=0dwagg5wYY4). It’s not one of his best but still has its moments.
  
-- I must have listened to Massive Attack’s 2009 album _Heligoland_ ([Apple Music](https://music.apple.com/jp/album/heligoland/721293664?l=en-US)) sometime before this week but if I did, I have no memory of it. It came across my radar thanks to the aforementioned Brandon.
+- I must have listened to Massive Attack’s 2009 album _Heligoland_ ([Apple Music](https://music.apple.com/jp/album/heligoland/721293664?l=en-US)) sometime before this week but if I did, I have no memory of it. It came across my radar thanks via Apple Music's Friends playlist (thanks Brandon!).
