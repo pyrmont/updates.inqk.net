@@ -8,7 +8,7 @@ categories: ["weeknotes"]
 
 - I mixed up the date of an appointment I had at the hospital and so had to go down and just wait to see the doctor. Fortunately, that didn't take too long. I must do a better job of ensuring I write these things done in my calendar correctly.
 
-- I mentioned briefly in [Weeknotes #134]() that Emma had started ice skating. That's continued and seems like it will be her 'sport'. When I was growing up, Mum and Dad insisted that all the children have at least one physical activity in which they participated (mine was basketball). I've always thought that was a good idea and something to replicate with the kids.
+- I mentioned briefly in [Weeknotes #134](https://updates.inqk.net/post/1660055100.html) that Emma had started ice skating. That's continued and seems like it will be her 'sport'. When I was growing up, Mum and Dad insisted that all the children have at least one physical activity in which they participated (mine was basketball). I've always thought that was a good idea and something to replicate with the kids.
 
 - The weather cooled down a bit. I took Emma for some more bicycle riding practice on Saturday afternoon and it was so pleasant we ended up following the train line all the way to Oizumi-Gakuen Station.
 
