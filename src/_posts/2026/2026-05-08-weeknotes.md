@@ -1,0 +1,19 @@
+---
+date: 2026-05-08 23:12:00 +0900
+title: "Weeknotes #329"
+categories: ["weeknotes"]
+---
+
+- It was Golden Week.
+
+  - On Sunday ([Constitution Day](https://en.wikipedia.org/wiki/Constitution_Memorial_Day)), I went for a ride with Emma over to Ōizumi Gakuen. It was a nice reminder of how something that can seem impossible ([will Emma ever learn to ride a bicycle?](https://updates.inqk.net/post/1641911460.html)) can become so mundane. It was also terrific weather. Really, almost all of Golden Week was great. The oppressive Japanese summer is undoubtedly on its way but right now, it’s fantastic.
+
+  - On Monday ([Greenery Day](https://en.wikipedia.org/wiki/Greenery_Day)), the fantastic weather continued and, in a juxtaposition so on the nose that you might suspect its veracity, I started teaching John to ride a bicycle. Does John even own a bicycle? He does as of last week! (I forgot to mention it in [Weeknotes #328](https://updates.inqk.net/post/1777644420.html).) The impetus is the upcoming third-year bicycle safety class that John has coming up. I can confirm that, as with Emma, the entire enterprise feels impossible.
+
+  - On Tuesday ([Children’s Day](https://en.wikipedia.org/wiki/Children%27s_Day_(Japan))), we all went over to Ogikubo. Eri and I are considering sending Emma to [Bunka Gakuen University Junior and Senior High School](https://bunsugi.jp/) and Eri was curious to see the school (from the outside) in person. While she and Emma were doing that, the boys and I finally got over to Suginami Children’s Traffic Park ([Japanese](https://www.city.suginami.tokyo.jp/s100/shisetsu/14797.html)). The website doesn’t really do it justice—[Google Maps](https://maps.app.goo.gl/zcRD3V4xcdfhEXsw8) gives you a better sense of it. Unfortunately, by the time we got there, it was almost time to turn around and meet back up with Eri and Emma for lunch.
+
+- Of course I also spent time working on Crossmate, my crossword app. I honestly would have spent more time on Crossmate but ran out of tokens for use with Claude Code and OpenAI Codex early on Saturday. While I was out of tokens for use the coding agents, I was able to chat with Claude and with its help, I set up a [Tangled](https://tangled.org) instance on my Linode. I had it up for about 15 minutes before I reconsidered. One opinion that I’ve been developing over the past six months is a view that there’s too much emphasis put on the social aspect of open source—issues, PRs—and not enough on the software part. Tangled has an emphasis on decentralisation that I like but thinking about the social expectations that come with making a repository generally available made me extremely uncomfortable and so I turned off the Tangled server and instead had ChatGPT help me get [code.inqk.net](https://code.inqk.net) more automated. I can now push my Crossmate repository and have a (admittedly bare bones) [web version](https://code.inqk.net/crossmate) available for all to see. I don’t have any plans to move my other projects off GitHub just yet but it is something I’m considering.
+
+- I watched an NBA game! I complained last week that the post-broadcast games were not being edited down (removing commercials, game delays) but it turns out that’s not true. I don’t know how much more I’ll watch but I do intend to get a little bit more into the swing of things.
+
+- I was reading about Massive Attack’s _Heligoland_ on [Wikipedia](https://en.wikipedia.org/wiki/Heligoland_(album)) after linking to it as my musical selection last week and there’s a quote in that article from Robert Del Naja about the previous album, _100th Window_. I can see what Del Naja meant about merging the electronic and the organic but that’s part of what I love about that album. You get a taste of that in its opening track, ‘Future Proof’ ([Apple Music](https://music.apple.com/jp/album/future-proof/714756948?i=714756985&l=en-US)).
