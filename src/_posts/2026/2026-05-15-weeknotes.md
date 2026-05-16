@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15 22:00:00 +0900
-title: "Weeknotes #329"
+title: "Weeknotes #330"
 categories: ["weeknotes"]
 ---
 
