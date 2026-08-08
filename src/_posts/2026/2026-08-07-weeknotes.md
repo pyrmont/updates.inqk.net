@@ -12,11 +12,11 @@ categories: ["weeknotes"]
 
 - I went on a bit of a bender and had Claude and Codex working on multiple Janet projects simultaneously. The main thing I was able to do was finally get [Loopy](https://github.com/pyrmont/loopy) finished. This is an HTTP server that wraps Mongoose v7.0. I’ve had it in a semi-completed state for more than a year but there were a few elements that I needed to fix and I kept putting it off. Then it got to the point where I didn’t really remember how all the pieces fit together. Coding agents to the rescue! Now I’m wondering if this means I might finally finish [Persimmon](https://github.com/pyrmont/persimmon) and [Watchful](https://github.com/pyrmont/watchful). Time will tell.
 
-- When I was little, Dad had a prayer that he used to recite with me before I went to bed. I’ve been trying to remember it for years to no avail before realising that of course he would have said the same thing to Monica. I asked her and while she didn’t remember it perfectly, she remembered enough that I was able to track it down. It’s called the Vesper Verse and goes like this:
+- When I was little, Dad had a prayer that he used to recite with me before I went to bed. I’ve been trying to remember it for years to no avail before realising that of course he would have said the same thing to Monica. I asked her and while she didn’t remember it perfectly, she remembered enough that I was able to track it down. In the extremely unlikely event that you too have been wanting to know this information, it’s called the ’Vesper Verse’ and goes like this:
 
-  > Lord, keep us safe this night,
-  > Secure from all our fears;
-  > May angels guard us while we sleep,
+  > Lord, keep us safe this night, 
+  > Secure from all our fears; 
+  > May angels guard us while we sleep, 
   > ‘til morning light appears.
 
   More information is [here](https://www.hymnallibrary.org/hymns/vesper-verse-lord-keep-us-safe-this-night/).
