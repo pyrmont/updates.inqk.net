@@ -14,9 +14,9 @@ categories: ["weeknotes"]
 
 - When I was little, Dad had a prayer that he used to recite with me before I went to bed. I’ve been trying to remember it for years to no avail before realising that of course he would have said the same thing to Monica. I asked her and while she didn’t remember it perfectly, she remembered enough that I was able to track it down. In the extremely unlikely event that you too have been wanting to know this information, it’s called the ’Vesper Verse’ and goes like this:
 
-  > Lord, keep us safe this night, 
-  > Secure from all our fears; 
-  > May angels guard us while we sleep, 
+  > Lord, keep us safe this night,  
+  > Secure from all our fears;  
+  > May angels guard us while we sleep,  
   > ‘til morning light appears.
 
   More information is [here](https://www.hymnallibrary.org/hymns/vesper-verse-lord-keep-us-safe-this-night/).
