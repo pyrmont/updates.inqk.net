@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 
 - At the risk of giving away the answer to a security question on some website I no longer frequent, my uncle's name is Sam. And yet, as best as I can recal, it wasn’t until this week that it occurred to me that Uncle Sam and Uncle Sam are, you know, the same thing. At least lexically. I consider this an example of how the things that you grow up with are like water (in the [David Foster Wallace sense](https://en.wikipedia.org/wiki/This_Is_Water)).
 
-- Emma remarked last week that we hadn’t visited Disneyland at all in 2025. I suggested we could try to squeeze in a visit on New Year’s Eve if the weather held up. It kept its end of the bargain, so I kept mine and we managed to get everyone out there via a couple of trains. Eri took Emma on Splash Mountain and the Haunted Mansion while I rode on Star Tours for the first time in 32 years. It was perhaps the combination of the 3D and the motion, but I actually started to feel nauseous towards the end of the ride but I’m still glad to have done it.
+- Emma remarked last week that we hadn’t visited Disneyland at all in 2025. I suggested we could try to squeeze in a visit on New Year’s Eve if the weather held up. It kept its end of the bargain, so I kept mine and we managed to get everyone out there via a couple of trains. Eri took Emma on Splash Mountain and the Haunted Mansion while I rode on Star Tours for the first time in 32 years. It was perhaps the combination of the 3D and the motion, but I actually started to feel nauseous towards the end of the ride (I am still glad to have done it).
 
 - We finally moved Rowan downstairs to the lower bunk bed. He’s only slept there the past three days and on two of those days, he woke up distressed to not be next to Eri or me.
 
