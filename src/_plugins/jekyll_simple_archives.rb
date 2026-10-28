@@ -21,6 +21,8 @@ module Jekyll
                    years: years.keys, year: year, posts: posts.reverse }
           site.pages << ArchivePage.new(site, site.source, category, data)
         end
+
+        site.pages << ArchiveIndexPage.new(site, site.source, category, years.keys.max)
       end
     end
   end
@@ -46,6 +48,29 @@ module Jekyll
       self.data["year"] = data[:year]
       self.data["posts"] = data[:posts]
       self.data["title"] = "#{data[:name]} - #{data[:year]}"
+    end
+  end
+
+  class ArchiveIndexPage < PageWithoutAFile
+    def initialize(site, base, dir, year)
+      super(site, base, dir, "index.html")
+
+      url = "/#{dir}/#{year}.html"
+      self.data["layout"] = nil
+      self.content = <<~HTML
+        <!DOCTYPE html>
+        <html>
+        <head>
+          <meta charset="utf-8">
+          <title>Redirecting&hellip;</title>
+          <link rel="canonical" href="#{url}">
+          <meta http-equiv="refresh" content="0; url=#{url}">
+        </head>
+        <body>
+          <a href="#{url}">#{year}</a>
+        </body>
+        </html>
+      HTML
     end
   end
 end
