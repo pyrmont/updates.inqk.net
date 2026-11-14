@@ -186,6 +186,7 @@
                   [:h2.headline
                    [:time.dt-published {:datetime (date-attr (post :date))}
                     [:a.u-url.dates {:href (post :url)} (fmt "%B %-d, %Y" (post :date))]]
+                   " "
                    [:span.categories
                     (map (fn [[i category]]
                            [(when (zero? i) "in ")
