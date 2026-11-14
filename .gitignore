@@ -37,25 +37,18 @@ Icon?
 thumbs.db
 Thumbs.db
 
-# Jekyll #
-###############
-.jekyll-cache
-.jekyll-metadata
+# Build #
+#########
 /public/*
 !/public/.gitkeep
-/src/.bundle
-/src/.sass-cache/
-/src/_site/
 /src/vendor/
 
 # Configuration #
 #################
 *.conf
 hooks.yaml
-/src/_posteriser.yaml
 
 # Miscellaneous #
 #################
 *.swp
 /tmp/
-/src/helper.rb

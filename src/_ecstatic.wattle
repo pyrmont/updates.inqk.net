@@ -95,17 +95,13 @@
 
 (defn- archive-url [category year] (string "/" category "/" year ".html"))
 
-(defn- page-url
-  "Returns url as Jekyll gave it to a page that is not a post, without `.html`."
-  [url]
-  (string/replace ".html" "" url))
-
 ; Layout
 
 (defn- frame
   """
   Returns the page with the navigation, the profile and the footer around
-  the body. url is the page's URL as Jekyll gave it (see page-url).
+  the body. url is the page's URL, ending in `.html`, or in `/` for a
+  directory page.
   """
   [site {:keys [title description url profile?]} & body]
   (def asset (fn [path] (string path "?v=" (site :revision))))
@@ -133,8 +129,8 @@
       [:nav.main-nav
        (unless (= url "/")
          [:a.normal {:href "/"} " " [:span.arrow "←"] " Home"])
-       [:a {:href "/about.html" :class (if (= url "/about") "selected" "")} "About"]
-       [:a {:href "/feeds.html" :class (if (= url "/feeds") "selected" "")} "Feeds"]
+       [:a {:href "/about.html" :class (if (= url "/about.html") "selected" "")} "About"]
+       [:a {:href "/feeds.html" :class (if (= url "/feeds.html") "selected" "")} "Feeds"]
        [:a {:href "/weeknotes/" :class (if (string/find "/weeknotes" url) "selected" "")}
         "Weeknotes"]]
       (when profile?
@@ -209,7 +205,7 @@
   {:path (string/slice (page :url) 1)
    :body (frame site {:title (string (page :title) " - " site-title)
                       :description site-description
-                      :url (page-url (page :url))
+                      :url (page :url)
                       :profile? (get-in page [:front-matter :profile])}
                 (hiccup/raw (page :html)))})
 
@@ -229,7 +225,7 @@
          {:path (string/slice (timeline-url ((first group) :date)) 1)
           :body (frame site {:title (string "Timeline - " site-title)
                              :description (string "A timeline of updates - " site-title)
-                             :url (page-url (timeline-url ((first group) :date)))}
+                             :url (timeline-url ((first group) :date))}
                        [:article.timeline
                         [:header
                          [:h1 {:class ""} "All Posts"]
@@ -287,7 +283,7 @@
         {:path (string/slice url 1)
          :body (frame site {:title (string name " - " year " - " site-title)
                             :description site-description
-                            :url (page-url url)}
+                            :url url}
                       [:article.category
                        [:header
                         [:h1 {:class ""} name]
