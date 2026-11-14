@@ -131,7 +131,8 @@
          [:a.normal {:href "/"} " " [:span.arrow "←"] " Home"])
        [:a {:href "/about.html" :class (if (= url "/about.html") "selected" "")} "About"]
        [:a {:href "/feeds.html" :class (if (= url "/feeds.html") "selected" "")} "Feeds"]
-       [:a {:href "/weeknotes/" :class (if (string/find "/weeknotes" url) "selected" "")}
+       [:a {:href (archive-url "weeknotes" (fmt "%Y" ((find weeknotes? (site :posts)) :date)))
+            :class (if (string/find "/weeknotes" url) "selected" "")}
         "Weeknotes"]]
       (when profile?
         [:div.profile
