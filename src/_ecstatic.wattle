@@ -1,0 +1,387 @@
+; The theme for updates.inqk.net, built with Ecstatic.
+
+(def site-title "Updates from Michael Camilleri")
+(def site-tagline "I forget my keys occasionally.")
+(def site-description
+  "I live in Tokyo. I'm from Sydney. I speak in declarative sentences. Sometimes.")
+(def site-url "https://updates.inqk.net")
+(def author {:name "Michael Camilleri"
+             :site "inqk.net"
+             :url "https://inqk.net"
+             :avatar "/assets/images/avatar.jpg"})
+(def weeknotes-description
+  "This is one of Michael's weekly update posts. You could read it. Nothing's stopping you.")
+
+; The posts on the home page and on each timeline page.
+(def- per-page 20)
+(def- rss-size 10)
+(def- json-size 36)
+
+; Markdown
+
+(def- mention
+  (peg/compile '(* "@" (<- (* :w (any (if-not (set ":@") 1))))
+                   (<- (set ":@"))
+                   (<- (* (some :w) (some (* (set "./") (some :w))))))))
+
+(defn- split-mentions
+  """
+  Replaces the mentions in the text node with links: `@user@host` links to
+  `https://host/@user` (Mastodon) and `@user:host` to `https://host/user`.
+  """
+  [root node]
+  (var before node)
+  (var m nil)
+  (while (set m (peg/find mention (cmark/literal before)))
+    (def text (cmark/literal before))
+    (def [username sep domain] (peg/match mention text m))
+    (def end (+ m (length (string "@" username sep domain))))
+    (cmark/set-literal! before (string/slice text 0 m))
+    (def link (cmark/new root :link))
+    (cmark/set-url! link (string "https://" domain "/" (if (= sep "@") "@" "") username))
+    (cmark/append-child! link (cmark/set-literal! (cmark/new root :text) (string "@" username)))
+    (cmark/insert-after! before link)
+    (def after (cmark/set-literal! (cmark/new root :text) (string/slice text end)))
+    (cmark/insert-after! link after)
+    (set before after)))
+
+(defn mentions
+  "Links the mentions in the text of each paragraph."
+  [root]
+  (each node (cmark/nodes root)
+    (when (and (= :text (cmark/type node))
+               (= :paragraph (cmark/type (cmark/parent node))))
+      (split-mentions root node))))
+
+(def config {:offset "+0900"
+             :exclude ["vendor"]
+             :markdown {:options [:footnotes :smart :unsafe]
+                        :transforms [mentions]}})
+
+(def- offset (date/parse-offset (config :offset)))
+
+(defn permalink [post] (string "/post/" (post :date) ".html"))
+
+; Helpers
+
+(def- tag-peg (peg/compile '(* "<" (any (if-not ">" 1)) ">")))
+
+(defn- unescape
+  "Decodes the entities that cmark writes in HTML text."
+  [s]
+  (->> s
+       (string/replace-all "&lt;" "<")
+       (string/replace-all "&gt;" ">")
+       (string/replace-all "&quot;" "\"")
+       (string/replace-all "&amp;" "&")))
+
+(defn- strip-html [s] (string (peg/replace-all tag-peg "" s)))
+
+(defn- text-of
+  "Returns the HTML as text for an attribute, as Liquid's `strip_html` did."
+  [html]
+  (unescape (strip-html html)))
+
+(defn- strip-newlines [s] (->> s (string/replace-all "\r" "") (string/replace-all "\n" "")))
+
+(defn- fmt [f t] (date/format f t offset "JST"))
+
+(defn- date-attr [t] (fmt "%Y-%m-%d %H:%M:%S %z" t))
+
+(defn- title? [post] (not (empty? (or (post :title) ""))))
+
+(defn- weeknotes? [post] (has-value? (post :categories) "weeknotes"))
+
+(defn- timeline-url [epoch] (string "/timeline/" epoch ".html"))
+
+(defn- archive-url [category year] (string "/" category "/" year ".html"))
+
+(defn- page-url
+  "Returns url as Jekyll gave it to a page that is not a post, without `.html`."
+  [url]
+  (string/replace ".html" "" url))
+
+; Layout
+
+(defn- frame
+  """
+  Returns the page with the navigation, the profile and the footer around
+  the body. url is the page's URL as Jekyll gave it (see page-url).
+  """
+  [site {:keys [title description url profile?]} & body]
+  (def asset (fn [path] (string path "?v=" (site :revision))))
+  (hiccup/html5
+    [:html {:lang "en"}
+     [:head
+      [:title title]
+      [:meta {:charset "utf-8"}]
+      [:meta {:name "generator" :content "Ecstatic"}]
+      [:meta {:name "author" :content (author :name)}]
+      [:meta {:name "description" :content description}]
+      [:meta {:name "viewport" :content "width=device-width, initial-scale=1"}]
+      [:meta {:property "og:title" :content title}]
+      [:meta {:property "og:description" :content description}]
+      [:meta {:property "og:site_name" :content site-title}]
+      [:meta {:property "og:type" :content "website"}]
+      [:meta {:property "og:url" :content (string site-url url)}]
+      [:link {:rel "alternate" :type "application/rss+xml" :href "/feed.xml"
+              :title (string site-title " - RSS Feed")}]
+      [:link {:rel "alternate" :type "application/json" :href "/feed.json"
+              :title (string site-title " - JSON Feed")}]
+      [:link {:rel "icon" :href (asset "/assets/images/favicon.ico")}]
+      [:link {:rel "stylesheet" :href (asset "/assets/css/style.css")}]
+      [:link {:rel "stylesheet" :href (asset "/assets/css/highlight.css")}]]
+     [:body
+      [:nav.main-nav
+       (unless (= url "/")
+         [:a.normal {:href "/"} " " [:span.arrow "←"] " Home"])
+       [:a {:href "/about.html" :class (if (= url "/about") "selected" "")} "About"]
+       [:a {:href "/feeds.html" :class (if (= url "/feeds") "selected" "")} "Feeds"]
+       [:a {:href "/weeknotes/" :class (if (string/find "/weeknotes" url) "selected" "")}
+        "Weeknotes"]]
+      (when profile?
+        [:div.profile
+         [:section#wrapper
+          [:header
+           [:a {:href site-url}
+            [:img#avatar {:src (author :avatar) :width "96" :height "96"}]]
+           [:h1 [:a {:href site-url} (author :name)]]
+           [:h4 site-tagline]]]])
+      [:section#wrapper body]
+      [:footer#footer
+       [:section#wrapper
+        [:ul
+         [:li [:a {:href "/feed.xml"} "RSS"]]
+         [:li [:a {:href "/feed.json"} "JSON Feed"]]]]]]]))
+
+(defn- post-list
+  "Returns the list of posts, as on the home page and the timeline."
+  [posts]
+  [:ul#post-list
+   (map (fn [post]
+          [[:li
+            [:article
+             (if (title? post)
+               [:header [:h2 [:a {:href (post :url)} (post :title)]]]
+               [:section.post-body (hiccup/raw (post :html))])
+             [:a.u-url {:href (post :url)}
+              [:aside.dates
+               [:time.dt-published {:datetime (date-attr (post :date))}
+                (string "→ " (fmt "%-I:%M %p, %b %-d" (post :date)))]]]]]
+           [:span.separator [:span.divider]]])
+        posts)])
+
+; Pages
+
+(defn- post-page [site post]
+  (def title (cond
+               (weeknotes? post) (string (post :title) " - " site-title)
+               (title? post) (string (post :title) " - " site-title)
+               (string (fmt "Update from %B %-d, %Y at %H:%M %Z" (post :date))
+                       " - " site-title)))
+  (def description (cond
+                     (weeknotes? post) weeknotes-description
+                     (title? post) (text-of (or (post :excerpt) site-description))
+                     (text-of (or (post :excerpt) ""))))
+  (def year (fmt "%Y" (post :date)))
+  {:path (string/slice (post :url) 1)
+   :body (frame site {:title title :description description :url (post :url)}
+                [:article.h-entry.post
+                 [:header
+                  (when (title? post) [:h1.p-name (post :title)])
+                  [:h2.headline
+                   [:time.dt-published {:datetime (date-attr (post :date))}
+                    [:a.u-url.dates {:href (post :url)} (fmt "%B %-d, %Y" (post :date))]]
+                   [:span.categories
+                    (map (fn [[i category]]
+                           [(when (zero? i) "in ")
+                            [:a {:href (archive-url category year)} category]
+                            (when (< i (dec (length (post :categories)))) ", ")])
+                         (pairs (post :categories)))]]]
+                 [:section.e-content.post-body (hiccup/raw (post :html))]]
+                [:section#post-meta.clearfix
+                 [:img#avatar.avatar {:src (author :avatar) :width "96" :height "96"}]
+                 [:div
+                  [:span.p-author.h-card.dark (author :name)]
+                  [:span [:a {:href (author :url)} (author :site)]]]])})
+
+(defn- plain-page
+  "Returns a page from the source, such as `about.md`, in the frame."
+  [site page]
+  {:path (string/slice (page :url) 1)
+   :body (frame site {:title (string (page :title) " - " site-title)
+                      :description site-description
+                      :url (page-url (page :url))
+                      :profile? (get-in page [:front-matter :profile])}
+                (hiccup/raw (page :html)))})
+
+(defn- timelines
+  """
+  Returns the timeline pages: the posts in groups of per-page from the
+  oldest, each page named after the date of the oldest post in it and
+  listing its posts newest first.
+  """
+  [site]
+  (def oldest-first (reverse (site :posts)))
+  (def groups (partition per-page oldest-first))
+  (map (fn [[i group]]
+         (def newer (get groups (inc i)))
+         (def older (when (pos? i) (get groups (dec i))))
+         (def posts (reverse group))
+         {:path (string/slice (timeline-url ((first group) :date)) 1)
+          :body (frame site {:title (string "Timeline - " site-title)
+                             :description (string "A timeline of updates - " site-title)
+                             :url (page-url (timeline-url ((first group) :date)))}
+                       [:article.timeline
+                        [:header
+                         [:h1 {:class ""} "All Posts"]
+                         [:h2.headline
+                          [:span.dates
+                           (fmt "%b %-d, %Y" ((first posts) :date))
+                           (hiccup/raw " &ndash; ")
+                           (fmt "%b %-d, %Y" ((last posts) :date))]]]]
+                       (post-list posts)
+                       [:nav#post-nav
+                        (when newer
+                          [:span.prev
+                           [:a {:href (string ((first newer) :date) ".html")}
+                            [:span.arrow "←"] " Newer Posts"]])
+                        (when older
+                          [:span.next
+                           [:a {:href (string ((first older) :date) ".html")}
+                            "Older Posts " [:span.arrow "→"]]])])})
+       (pairs groups)))
+
+(defn- latest-timeline-url [site]
+  (timeline-url ((first (last (partition per-page (reverse (site :posts))))) :date)))
+
+(defn- home [site]
+  {:path "index.html"
+   :body (frame site {:title site-title :description site-description :url "/" :profile? true}
+                (post-list (take per-page (site :posts)))
+                [:nav#post-nav
+                 [:span.next
+                  [:a {:href (latest-timeline-url site)}
+                   "All Posts " [:span.arrow "→"]]]])})
+
+(defn- archives
+  """
+  Returns a page for each year of each category, listing its posts newest
+  first, and for each category an `index.html` that redirects to the latest
+  year.
+  """
+  [site]
+  (def by-category !{})
+  (each post (reverse (site :posts))
+    (each category (post :categories)
+      (unless (by-category category) (put! by-category category ![]))
+      (def years (by-category category))
+      (def year (fmt "%Y" (post :date)))
+      (if (= year (first (array/peek years)))
+        (array/push! (get (array/peek years) 1) post)
+        (array/push! years [year ![post]]))))
+  (def out ![])
+  (each [category years] (pairs by-category)
+    (def name (string (string/ascii-upper (string/slice category 0 1)) (string/slice category 1)))
+    (each [year posts] years
+      (def url (archive-url category year))
+      (array/push! out
+        {:path (string/slice url 1)
+         :body (frame site {:title (string name " - " year " - " site-title)
+                            :description site-description
+                            :url (page-url url)}
+                      [:article.category
+                       [:header
+                        [:h1 {:class ""} name]
+                        [:ul (map (fn [[y]]
+                                    [:li {:class (if (= y year) "current" "")}
+                                     [:a {:href (string y ".html")} y]])
+                                  years)]]
+                       [:ul.posts
+                        (map (fn [post]
+                               [:li
+                                [:a {:href (post :url)}
+                                 [:time.dates.dt-published {:datetime (date-attr (post :date))}
+                                  (fmt "%b %-d, %Y" (post :date))]
+                                 [:h3 (post :title)]]])
+                             (reverse posts))]])}))
+    (def latest (archive-url category (first (array/peek years))))
+    (array/push! out
+      {:path (string category "/index.html")
+       :body (string
+               "<!DOCTYPE html>\n"
+               (hiccup/html
+                 [:html
+                  [:head
+                   [:meta {:charset "utf-8"}]
+                   [:title (hiccup/raw "Redirecting&hellip;")]
+                   [:link {:rel "icon" :href "/assets/images/favicon.ico"}]
+                   [:link {:rel "canonical" :href latest}]
+                   [:meta {:http-equiv "refresh" :content (string "0; url=" latest)}]]
+                  [:body [:a {:href latest} (first (array/peek years))]]]))}))
+  out)
+
+; Feeds
+
+(defn- rss [site path title link posts]
+  {:path path
+   :body (feed/rss {:title title
+                    :description site-description
+                    :link link
+                    :pub-date (site :time)
+                    :last-build-date (site :time)
+                    :offset offset
+                    :items (map (fn [post]
+                                  {:title (or (post :title) "")
+                                   :description (post :html)
+                                   :pub-date (post :date)
+                                   :link (string site-url (post :url))
+                                   :guid (string site-url (post :url))})
+                                posts)})})
+
+(defn- json-feed [path icon feed-author posts]
+  {:path path
+   :body (feed/json
+           {:version "https://jsonfeed.org/version/1"
+            :title site-title
+            :home_page_url (string site-url "/")
+            :feed_url (string site-url "/" path)
+            :description site-description
+            :icon icon
+            :expired false
+            :author feed-author
+            :items (map (fn [post]
+                          (def tags (or (post :tags) []))
+                          {:id (string site-url (post :url))
+                           :title (or (post :title) "")
+                           :content_text (strip-newlines (strip-html (post :html)))
+                           :content_html (strip-newlines (post :html))
+                           :url (string site-url (post :url))
+                           :tags (when (> (length tags) 1) tags)
+                           :author {:name (author :name) :url (author :url)
+                                    :avatar (author :avatar)}
+                           :date_published (date/rfc3339 (post :date) offset)
+                           :date_modified (date/rfc3339 (post :date) offset)})
+                        posts)})})
+
+(defn- feeds [site]
+  (def weeknotes (filter weeknotes? (site :posts)))
+  [(rss site "feed.xml" site-title site-url (take rss-size (site :posts)))
+   (rss site "feeds/weeknotes.xml" (string site-title " : Weeknotes")
+        (string site-url "/feeds/weeknotes.xml") (take rss-size weeknotes))
+   (json-feed "feed.json" (string site-url (author :avatar))
+              {:name (author :name) :url (author :url)
+               :avatar (string site-url (author :avatar))}
+              (take json-size (site :posts)))
+   (json-feed "feeds/weeknotes.json" "https://micro.blog/pyrmont/avatar.jpg"
+              {:name (author :name) :url (author :url) :avatar (author :avatar)}
+              (take json-size weeknotes))])
+
+(defn build [site]
+  [|(map #(post-page site $) (site :posts))
+   |(map #(plain-page site $)
+         (filter #(string/has-suffix? ".md" ($ :path)) (site :pages)))
+   (home site)
+   |(timelines site)
+   |(archives site)
+   |(feeds site)])
