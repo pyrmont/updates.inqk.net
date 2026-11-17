@@ -7,4 +7,4 @@ link:
   desc: "A static site generator written in Wattle. Contribute to pyrmont/ecstatic development by creating an account on GitHub."
 ---
 
-I finally put some time aside make a Jekyll replacement. Ecstatic probably isn't right for anyone other than me but I'm really enjoying using coding agents to make tools written in my own programming language that are customised to my needs. [github.com/pyrmont/ecst...](https://github.com/pyrmont/ecstatic)
+I finally put some time aside make a Jekyll replacement. [Ecstatic](https://github.com/pyrmont/ecstatic) probably isn't right for anyone other than me but I'm really enjoying using coding agents to make tools written in my own programming language that are customised to my needs.
